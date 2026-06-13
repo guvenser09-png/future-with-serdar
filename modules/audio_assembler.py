@@ -142,38 +142,59 @@ def make_background(title: str, episode_no: int, date_str: str,
     log.info("Arka plan üretildi → %s (%dx%d)", out_path, w, h)
 
 
+def _fit_font(draw, text, path, max_w, start_size, min_size=20):
+    """Metni max_w genişliğine sığdıracak en büyük fontu bulur."""
+    size = start_size
+    while size > min_size:
+        f = _font(path, size)
+        if draw.textlength(text, font=f) <= max_w:
+            return f
+        size -= 6
+    return _font(path, min_size)
+
+
 def make_show_cover(out_path: Path, subtitle: str = "") -> None:
     """3000x3000 KANAL kapağı (markaya özel, bölüm numarası yok)."""
     s = 3000
+    margin = 200
+    avail = s - 2 * margin
     img = _vertical_gradient(s, s)
     draw = ImageDraw.Draw(img)
-    scale = s / 1080
 
     parts = BRAND.upper().split()
-    line1 = parts[0] if parts else BRAND.upper()
-    line2 = " ".join(parts[1:]) if len(parts) > 1 else ""
-    brand_f = _font(FONT_BLACK, int(190 * scale))
-    # Dikey ortalı blok
-    y = int(330 * scale)
-    draw.text((int(150 * scale), y), line1, font=brand_f, fill=TEXT)
-    if line2:
-        draw.text((int(150 * scale), y + int(210 * scale)), line2, font=brand_f, fill=ACCENT)
+    line1 = parts[0] if parts else BRAND.upper()       # FUTURE
+    line2 = " ".join(parts[1:]) if len(parts) > 1 else ""  # WITH SERDAR
 
-    # accent çizgi
-    draw.rectangle([int(160 * scale), y + int(440 * scale),
-                    int(160 * scale + 560 * scale), y + int(465 * scale)], fill=ACCENT)
+    # En uzun satıra göre ortak font boyutu (taşmayı önler)
+    longest = max([line1, line2], key=lambda t: len(t)) or line1
+    brand_f = _fit_font(draw, longest, FONT_BLACK, avail, 360)
+    lh = int(brand_f.size * 1.12)
+
+    block_h = lh * (2 if line2 else 1) + int(0.5 * lh)  # + alt çizgi payı
+    y = (s - block_h) // 2 - 150   # hafif yukarı
+
+    draw.text((margin, y), line1, font=brand_f, fill=TEXT)
+    if line2:
+        draw.text((margin, y + lh), line2, font=brand_f, fill=ACCENT)
+        uy = y + 2 * lh + int(0.18 * lh)
+    else:
+        uy = y + lh + int(0.18 * lh)
+
+    # accent alt çizgi (line2 genişliği kadar)
+    ulen = draw.textlength(line2 or line1, font=brand_f)
+    draw.rectangle([margin, uy, margin + int(ulen), uy + 22], fill=ACCENT)
 
     # Alt başlık (sarılı)
     if subtitle:
-        sf = _font(FONT_BOLD, int(78 * scale))
-        for i, ln in enumerate(_wrap(draw, subtitle, sf, s - int(320 * scale))):
-            draw.text((int(160 * scale), y + int(540 * scale) + i * int(96 * scale)),
-                      ln, font=sf, fill=MUTED)
+        sf = _font(FONT_BOLD, 92)
+        sy = uy + 120
+        for ln in _wrap(draw, subtitle, sf, avail):
+            draw.text((margin, sy), ln, font=sf, fill=MUTED)
+            sy += int(92 * 1.25)
 
     # En alt imza
-    ff = _font(FONT_REG, int(46 * scale))
-    draw.text((int(160 * scale), s - int(220 * scale)),
-              "Günlük AI bülteni · yapay zekâ tarafından üretildi",
+    ff = _font(FONT_REG, 52)
+    draw.text((margin, s - 220), "Günlük AI bülteni · yapay zekâ üretimi",
               font=ff, fill=MUTED)
 
     img.convert("RGB").save(out_path, "JPEG", quality=90)

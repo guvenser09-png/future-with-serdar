@@ -129,12 +129,18 @@ def publish_podcast(date_str: str, episode_no: int = 1) -> dict:
 
     storage.ensure_bucket()
 
-    # 1) MP3 + kapak yükle
+    # 1) MP3 yükle (bölüm kapağı zaten MP3 ID3'ünde gömülü)
     log.info("MP3 yükleniyor (%d bölüm)...", episode_no)
     mp3_url = storage.upload(dest_path=f"episodes/episode_{nnn}.mp3",
                              local_path=mp3, content_type="audio/mpeg")
-    cover_url = storage.upload(dest_path="cover.jpg",
-                               local_path=cover, content_type="image/jpeg")
+
+    # Kanal kapağı SABİT (show cover) — yoksa üret, varsa dokunma (bölüm kapağıyla ezme)
+    cover_dest = storage.DOCS_DIR / "cover.jpg"
+    if not cover_dest.exists():
+        from modules.audio_assembler import make_show_cover
+        cover_dest.parent.mkdir(parents=True, exist_ok=True)
+        make_show_cover(cover_dest, meta.get("subtitle", ""))
+    cover_url = storage._public_url("cover.jpg")
     log.info("MP3 → %s", mp3_url)
 
     # 2) Yerel bölüm kaydını güncelle (feed kaynağı) + DB'ye de yaz (varsa)
