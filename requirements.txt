@@ -12,6 +12,11 @@ trafilatura>=1.12.0
 # Faz 3: Podcast barındırma (Cloudflare R2 — S3 uyumlu)
 boto3>=1.35.0
 
+# Faz 3: YouTube yükleme (YouTube Data API v3 + OAuth)
+google-api-python-client>=2.140.0
+google-auth-oauthlib>=1.2.0
+google-auth-httplib2>=0.2.0
+
 # Opsiyonel: Supabase (sadece DB loglama)
 supabase>=2.9.0
 
