@@ -8,9 +8,15 @@
     <link>https://www.youtube.com/@futurewithserdar</link>
     <atom:link href="https://guvenser09-png.github.io/future-with-serdar/feed.xml" rel="self" type="application/rss+xml"/>
     <language>tr</language>
-    <description>Future with Serdar — her sabah yapay zekâ dünyasının son 24 saatini Türkçe, yorumlu ve pratik bir bakışla özetleyen günlük bülten. İçeriğin kendisi sistemin kanıtı: senaryo, ses ve yayın tamamen otomatik üretiliyor.</description>
+    <description>Future with Serdar, her sabah yapay zekâ dünyasının son 24 saatini Türkçe olarak özetleyen günlük bir bülten. Küresel AI gündeminden en önemli 3-4 gelişmeyi seçip; ne olduğunu, neden önemli olduğunu ve en önemlisi "senin için ne anlama geldiğini" sade, pratik bir dille anlatıyoruz. Model lansmanları, yeni araçlar, yatırımlar ve Türkiye'den AI haberleri — hepsi 6-8 dakikada, kahveni içerken.
+
+Bu programın kendisi de bir yapay zekâ deneyi: senaryo, ses ve yayın tamamen otomatik üretiliyor. Yani dinlediğin bülten, anlattığı teknolojinin canlı kanıtı. Yeni bölüm her gün sabah yayında — geleceği bugünden dinle.</description>
     <itunes:author>Serdar</itunes:author>
-    <itunes:summary>Future with Serdar — her sabah yapay zekâ dünyasının son 24 saatini Türkçe, yorumlu ve pratik bir bakışla özetleyen günlük bülten. İçeriğin kendisi sistemin kanıtı: senaryo, ses ve yayın tamamen otomatik üretiliyor.</itunes:summary>
+    <itunes:subtitle>Her sabah, yapay zekânın son 24 saati — Türkçe.</itunes:subtitle>
+    <itunes:summary>Future with Serdar, her sabah yapay zekâ dünyasının son 24 saatini Türkçe olarak özetleyen günlük bir bülten. Küresel AI gündeminden en önemli 3-4 gelişmeyi seçip; ne olduğunu, neden önemli olduğunu ve en önemlisi "senin için ne anlama geldiğini" sade, pratik bir dille anlatıyoruz. Model lansmanları, yeni araçlar, yatırımlar ve Türkiye'den AI haberleri — hepsi 6-8 dakikada, kahveni içerken.
+
+Bu programın kendisi de bir yapay zekâ deneyi: senaryo, ses ve yayın tamamen otomatik üretiliyor. Yani dinlediğin bülten, anlattığı teknolojinin canlı kanıtı. Yeni bölüm her gün sabah yayında — geleceği bugünden dinle.</itunes:summary>
+    <itunes:keywords>yapay zeka,yapay zeka haberleri,AI,teknoloji,ChatGPT,Claude,üretken yapay zeka,günlük bülten,Türkçe podcast,teknoloji haberleri</itunes:keywords>
     <itunes:type>episodic</itunes:type>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="https://guvenser09-png.github.io/future-with-serdar/cover.jpg"/>
@@ -19,7 +25,7 @@
       <itunes:name>Serdar</itunes:name>
       <itunes:email>guvenser09@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sat, 13 Jun 2026 03:52:51 +0300</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 10:03:44 +0300</lastBuildDate>
     <item>
       <title>Bölüm 94: Bezos'un 41 Milyar Dolarlık Mühendis'i, Meta KOBİ Hamlesi ve Google'ın Hız Canavarı | 12 Haziran 2026</title>
       <description>Jeff Bezos'un fiziksel yapay zekâ girişimi Prometheus, 12 milyar dolar yatırımla 41 milyar dolar değerlemeye ulaştı — ve "yapay genel mühendis" kavramını hayata geçirmeye çalışıyor. Türkiye'de ise Meta, TOBB iş birliğiyle 1000 KOBİ'ye ücretsiz yapay zekâ eğitimi başlatıyor. Google DeepMind'ın yeni açık kaynak modeli DiffusionGemma ise metin üretimini 4 kata kadar hızlandırıyor. Future with Serdar'da bugünün en kritik gelişmelerini pratik bir perspektifle ele alıyoruz.</description>
