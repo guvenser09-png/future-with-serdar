@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Future with Serdar — Günlük AI Bülteni</title>
+<meta name="description" content="Her sabah, yapay zekânın son 24 saati — Türkçe. Senaryo, ses ve yayın tamamen otomatik üretiliyor.">
+<style>
+  :root { --bg:#0e1220; --bg2:#06080f; --accent:#f5a623; --text:#f0f2f8; --muted:#969eb2; }
+  * { box-sizing:border-box; margin:0; padding:0; }
+  body { font-family:-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+         background:linear-gradient(180deg,var(--bg),var(--bg2)); color:var(--text);
+         min-height:100vh; display:flex; align-items:center; justify-content:center; padding:24px; }
+  .card { max-width:640px; width:100%; text-align:center; }
+  .cover { width:260px; height:260px; border-radius:20px; box-shadow:0 20px 60px rgba(0,0,0,.5);
+           margin:0 auto 28px; display:block; }
+  h1 { font-size:2.2rem; font-weight:800; letter-spacing:-.5px; }
+  h1 .ac { color:var(--accent); }
+  .tag { color:var(--muted); margin:10px 0 24px; font-size:1.05rem; }
+  p.desc { color:#c5ccdd; line-height:1.6; margin-bottom:28px; font-size:.98rem; }
+  .links { display:flex; gap:12px; justify-content:center; flex-wrap:wrap; margin-bottom:28px; }
+  a.btn { text-decoration:none; padding:12px 22px; border-radius:999px; font-weight:600;
+          background:var(--accent); color:#1a1206; }
+  a.btn.alt { background:transparent; color:var(--text); border:1px solid #2a3145; }
+  audio { width:100%; margin-top:8px; }
+  .ep { background:rgba(255,255,255,.04); border:1px solid #1c2336; border-radius:16px;
+        padding:18px; text-align:left; }
+  .ep h3 { font-size:1rem; margin-bottom:10px; }
+  .foot { color:var(--muted); font-size:.82rem; margin-top:28px; }
+</style>
+</head>
+<body>
+  <div class="card">
+    <img class="cover" src="cover.jpg" alt="Future with Serdar kapağı">
+    <h1>FUTURE <span class="ac">WITH SERDAR</span></h1>
+    <p class="tag">Her sabah, yapay zekânın son 24 saati — Türkçe.</p>
+    <p class="desc">
+      Küresel AI gündeminden günün en önemli gelişmelerini seçip; ne olduğunu, neden
+      önemli olduğunu ve "senin için ne anlama geldiğini" sade bir dille anlatıyoruz.
+      Senaryo, ses ve yayın tamamen otomatik üretiliyor — dinlediğin bülten, anlattığı
+      teknolojinin canlı kanıtı.
+    </p>
+    <div class="links">
+      <a class="btn" href="feed.xml">RSS Feed</a>
+      <a class="btn alt" href="https://www.youtube.com/@futurewithserdar">YouTube</a>
+    </div>
+    <div class="ep">
+      <h3>🎧 Son bölüm</h3>
+      <audio controls preload="none" src="episodes/episode_001.mp3"></audio>
+    </div>
+    <p class="foot">Günlük AI bülteni · yapay zekâ tarafından üretildi</p>
+  </div>
+</body>
+</html>
