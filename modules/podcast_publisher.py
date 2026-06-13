@@ -150,6 +150,14 @@ def publish_podcast(date_str: str, episode_no: int = 1) -> dict:
     (out_dir / "feed.xml").write_bytes(feed_bytes)
     feed_url = storage.upload_bytes("feed.xml", feed_bytes, "application/rss+xml")
 
+    # Bu bölümde kullanılan haberleri "işlenmiş" işaretle (tekrar yayınlanmasın)
+    news_path = out_dir / "daily_news.json"
+    if news_path.exists():
+        news = json.loads(news_path.read_text(encoding="utf-8"))
+        used_urls = [item.get("url") for item in news.get("selected", []) if item.get("url")]
+        registry.mark_processed(used_urls)
+        log.info("%d haber 'işlenmiş' olarak kaydedildi.", len(used_urls))
+
     # 4) Her şeyi GitHub'a push et (Pages yayınlar)
     storage.push_site(f"Bölüm {episode_no} yayınla ({date_str})")
 

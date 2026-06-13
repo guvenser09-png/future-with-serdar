@@ -11,6 +11,8 @@ from pathlib import Path
 from .paths import ROOT
 
 REGISTRY_PATH = ROOT / "episodes.json"
+PROCESSED_PATH = ROOT / "processed_urls.json"
+MAX_PROCESSED = 600   # son ~600 haberi tut (sınırsız büyümesin)
 
 
 def load() -> list[dict]:
@@ -31,3 +33,29 @@ def upsert(episode: dict) -> list[dict]:
         json.dumps(eps, ensure_ascii=False, indent=2), encoding="utf-8"
     )
     return eps
+
+
+def load_processed_urls() -> set[str]:
+    """Daha önce yayınlanmış bölümlerde KULLANILMIŞ haber URL'leri."""
+    if not PROCESSED_PATH.exists():
+        return set()
+    try:
+        return set(json.loads(PROCESSED_PATH.read_text(encoding="utf-8")))
+    except json.JSONDecodeError:
+        return set()
+
+
+def mark_processed(urls: list[str]) -> None:
+    """Verilen URL'leri işlenmiş olarak işaretler (son MAX_PROCESSED tutulur)."""
+    if not urls:
+        return
+    cur = list(load_processed_urls())  # set→list (sıra önemsiz)
+    existing = set(cur)
+    for u in urls:
+        if u and u not in existing:
+            cur.append(u)
+            existing.add(u)
+    cur = cur[-MAX_PROCESSED:]
+    PROCESSED_PATH.write_text(
+        json.dumps(cur, ensure_ascii=False, indent=2), encoding="utf-8"
+    )

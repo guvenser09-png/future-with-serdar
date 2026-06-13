@@ -252,12 +252,14 @@ def collect(date_str: str) -> dict:
 
     cands = dedup(cands, c["dedup_threshold"])
 
-    # Daha önce işlenmiş haberleri ele (Supabase varsa)
-    processed = db.already_processed_urls([c_.url for c_ in cands])
+    # Daha önce yayınlanmış haberleri ele (yerel kayıt + Supabase varsa)
+    from utils import registry
+    processed = registry.load_processed_urls() | db.already_processed_urls([c_.url for c_ in cands])
     if processed:
         before = len(cands)
         cands = [c_ for c_ in cands if c_.url not in processed]
-        log.info("Daha önce işlenmiş %d haber elendi.", before - len(cands))
+        if before - len(cands):
+            log.info("Daha önce yayınlanmış %d haber elendi.", before - len(cands))
 
     cands = score(cands, cfg["model"]["scoring"])
     cands.sort(key=lambda x: x.importance_score or 0, reverse=True)

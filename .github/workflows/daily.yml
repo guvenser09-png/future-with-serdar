@@ -75,8 +75,8 @@ jobs:
       - name: Kalan değişiklikleri commit et
         if: always()
         run: |
-          if [ -n "$(git status --porcelain episodes.json docs)" ]; then
-            git add episodes.json docs
+          if [ -n "$(git status --porcelain episodes.json docs processed_urls.json)" ]; then
+            git add episodes.json docs processed_urls.json
             git commit -m "Otomatik yayın (artık)" || true
             git push || true
           fi

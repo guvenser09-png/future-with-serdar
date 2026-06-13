@@ -76,7 +76,7 @@ def push_site(message: str) -> None:
         return subprocess.run(["git", "-C", str(ROOT), *args],
                               capture_output=True, text=True, **kw)
 
-    git("add", "docs", "episodes.json")
+    git("add", "docs", "episodes.json", "processed_urls.json")
     # Değişiklik yoksa commit hata vermesin
     status = git("status", "--porcelain")
     if not status.stdout.strip():
