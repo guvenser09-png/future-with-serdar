@@ -1,0 +1,20 @@
+# Core
+anthropic>=0.69.0
+feedparser>=6.0.11
+requests>=2.32.0
+python-dotenv>=1.0.1
+PyYAML>=6.0.2
+pydantic>=2.9.0
+
+# Article full-text extraction (Faz 1)
+trafilatura>=1.12.0
+
+# Faz 3: Podcast barındırma (Cloudflare R2 — S3 uyumlu)
+boto3>=1.35.0
+
+# Opsiyonel: Supabase (sadece DB loglama)
+supabase>=2.9.0
+
+# Faz 2 (ses/montaj) — ayrıca sistemde ffmpeg kurulu olmalı (brew install ffmpeg)
+elevenlabs>=2.0.0
+Pillow>=10.4.0

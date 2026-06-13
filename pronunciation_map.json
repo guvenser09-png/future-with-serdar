@@ -1,0 +1,16 @@
+{
+  "_comment": "Seslendirme öncesi string replace ile uygulanır. Her bölüm sonrası dinleme notlarıyla büyütülür (CLAUDE.md Modül 3).",
+  "GPT": "ci-pi-ti",
+  "API": "ey-pi-ay",
+  "LLM": "el-el-em",
+  "OpenAI": "öupın-ey-ay",
+  "Claude": "klod",
+  "Hugging Face": "haging feys",
+  "DeepMind": "diipmaynd",
+  "Gemini": "cemini",
+  "Mistral": "mistral",
+  "Anthropic": "entropik",
+  "Nvidia": "envidya",
+  "AGI": "ey-ci-ay",
+  "AI": "yapay zeka"
+}

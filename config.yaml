@@ -1,0 +1,122 @@
+# === Future with Serdar — Yapılandırma ===
+# Kaynaklar ve davranış ayarları burada tutulur (kolayca genişletilebilir).
+
+podcast:
+  target_words: [1100, 1300]   # bölüm uzunluğu ≈ 6-8 dk
+  num_news: 4                  # seçilecek haber sayısı (3-4)
+  min_news: 3
+
+# Podcast RSS / yayın bilgileri (Spotify/Apple için)
+podcast_meta:
+  language: tr
+  email: guvenser09@gmail.com   # iTunes owner e-postası (Apple/Spotify zorunlu)
+  category: Technology          # iTunes ana kategori
+  link: https://www.youtube.com/@futurewithserdar  # kanal/web sitesi (placeholder, sonra güncellenir)
+  description: >-
+    Future with Serdar — her sabah yapay zekâ dünyasının son 24 saatini
+    Türkçe, yorumlu ve pratik bir bakışla özetleyen günlük bülten. İçeriğin
+    kendisi sistemin kanıtı: senaryo, ses ve yayın tamamen otomatik üretiliyor.
+  explicit: false               # barındırma R2 (.env: R2_*) üzerinden yapılır
+
+model:
+  scoring: claude-sonnet-4-6   # haber önem puanlama
+  script: claude-sonnet-4-6    # senaryo yazımı
+
+voice:
+  model: eleven_v3             # en doğal/expressive (A/B testte seçildi)
+  output_format: mp3_44100_128
+  settings:                    # eleven_v3 için stability: Natural=0.5 önerilir
+    stability: 0.5
+    similarity_boost: 0.75
+    style: 0.0
+
+collector:
+  hours_lookback: 24
+  dedup_threshold: 0.72        # başlık benzerliği (0-1) — üstündekiler aynı haber sayılır
+  min_score: 40                # bu puanın altı seçilmez
+  slow_day_threshold: 55       # en yüksek puan bunun altındaysa "yavaş gün"
+  fetch_full_text: true
+  max_full_text_chars: 8000
+  request_timeout: 15
+  per_source_limit: 25         # kaynak başına en fazla kaç başlık alınsın
+
+# AI gündemi anahtar kelimeleri — ai_filter:true olan kaynaklarda filtre için
+ai_keywords:
+  - "yapay zeka"
+  - "yapay zekâ"
+  - " ai "
+  - "ai)"
+  - "(ai"
+  - "a.i."
+  - llm
+  - gpt
+  - claude
+  - gemini
+  - openai
+  - anthropic
+  - deepmind
+  - mistral
+  - "hugging face"
+  - "machine learning"
+  - "makine öğren"
+  - "büyük dil model"
+  - "language model"
+  - "neural"
+  - "chatbot"
+  - "yapay zeka modeli"
+
+# Kaynak listesi. ai_filter:true → yalnızca AI ile ilgili başlıklar tutulur.
+sources:
+  # Resmî bloglar
+  - name: Anthropic
+    url: https://www.anthropic.com/news/rss.xml
+    category: official
+  - name: OpenAI
+    url: https://openai.com/news/rss.xml
+    category: official
+  - name: Google DeepMind
+    url: https://deepmind.google/blog/rss.xml
+    category: official
+  - name: Hugging Face
+    url: https://huggingface.co/blog/feed.xml
+    category: official
+
+  # Teknoloji medyası
+  - name: TechCrunch AI
+    url: https://techcrunch.com/category/artificial-intelligence/feed/
+    category: media
+  - name: The Verge AI
+    url: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+    category: media
+  - name: VentureBeat AI
+    url: https://venturebeat.com/category/ai/feed/
+    category: media
+  - name: Ars Technica
+    url: https://feeds.arstechnica.com/arstechnica/index
+    category: media
+    ai_filter: true
+  - name: MIT Tech Review AI
+    url: https://www.technologyreview.com/topic/artificial-intelligence/feed
+    category: media
+
+  # Topluluk
+  - name: Hacker News
+    url: https://hnrss.org/frontpage?points=100
+    category: community
+    ai_filter: true
+
+  # Türkiye
+  - name: Webrazzi
+    url: https://webrazzi.com/feed/
+    category: turkey
+    ai_filter: true
+  - name: ShiftDelete
+    url: https://shiftdelete.net/feed
+    category: turkey
+    ai_filter: true
+
+  # Akademik (haftalık özet için — genelde ai_filter gerekmez, zaten cs.AI)
+  - name: arXiv cs.AI
+    url: http://export.arxiv.org/rss/cs.AI
+    category: academic
+    weekly_only: true   # günlük akışta ağırlığı düşük; ileride haftalık özet modülü kullanır

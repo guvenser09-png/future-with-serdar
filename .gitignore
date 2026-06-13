@@ -1,0 +1,20 @@
+# Sırlar
+.env
+*.env
+!.env.example
+
+# Üretim çıktıları (ara dosyalar; docs/ yayınlanan dosyalar hariç)
+output/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.Python
+*.egg-info/
+
+# OS / editör
+.DS_Store
+.vscode/
+.idea/
