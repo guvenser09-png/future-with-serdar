@@ -11,12 +11,32 @@ podcast_meta:
   language: tr
   email: guvenser09@gmail.com   # iTunes owner e-postası (Apple/Spotify zorunlu)
   category: Technology          # iTunes ana kategori
-  link: https://www.youtube.com/@futurewithserdar  # kanal/web sitesi (placeholder, sonra güncellenir)
+  link: https://www.youtube.com/@futurewithserdar  # kanal/web sitesi (placeholder)
+  subtitle: "Her sabah, yapay zekânın son 24 saati — Türkçe."
+  keywords:
+    - yapay zeka
+    - yapay zeka haberleri
+    - AI
+    - teknoloji
+    - ChatGPT
+    - Claude
+    - üretken yapay zeka
+    - günlük bülten
+    - Türkçe podcast
+    - teknoloji haberleri
   description: >-
-    Future with Serdar — her sabah yapay zekâ dünyasının son 24 saatini
-    Türkçe, yorumlu ve pratik bir bakışla özetleyen günlük bülten. İçeriğin
-    kendisi sistemin kanıtı: senaryo, ses ve yayın tamamen otomatik üretiliyor.
-  explicit: false               # barındırma R2 (.env: R2_*) üzerinden yapılır
+    Future with Serdar, her sabah yapay zekâ dünyasının son 24 saatini Türkçe
+    olarak özetleyen günlük bir bülten. Küresel AI gündeminden en önemli 3-4
+    gelişmeyi seçip; ne olduğunu, neden önemli olduğunu ve en önemlisi "senin
+    için ne anlama geldiğini" sade, pratik bir dille anlatıyoruz. Model
+    lansmanları, yeni araçlar, yatırımlar ve Türkiye'den AI haberleri — hepsi
+    6-8 dakikada, kahveni içerken.
+
+
+    Bu programın kendisi de bir yapay zekâ deneyi: senaryo, ses ve yayın
+    tamamen otomatik üretiliyor. Yani dinlediğin bülten, anlattığı teknolojinin
+    canlı kanıtı. Yeni bölüm her gün sabah yayında — geleceği bugünden dinle.
+  explicit: false
 
 model:
   scoring: claude-sonnet-4-6   # haber önem puanlama

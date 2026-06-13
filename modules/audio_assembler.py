@@ -142,6 +142,44 @@ def make_background(title: str, episode_no: int, date_str: str,
     log.info("Arka plan üretildi → %s (%dx%d)", out_path, w, h)
 
 
+def make_show_cover(out_path: Path, subtitle: str = "") -> None:
+    """3000x3000 KANAL kapağı (markaya özel, bölüm numarası yok)."""
+    s = 3000
+    img = _vertical_gradient(s, s)
+    draw = ImageDraw.Draw(img)
+    scale = s / 1080
+
+    parts = BRAND.upper().split()
+    line1 = parts[0] if parts else BRAND.upper()
+    line2 = " ".join(parts[1:]) if len(parts) > 1 else ""
+    brand_f = _font(FONT_BLACK, int(190 * scale))
+    # Dikey ortalı blok
+    y = int(330 * scale)
+    draw.text((int(150 * scale), y), line1, font=brand_f, fill=TEXT)
+    if line2:
+        draw.text((int(150 * scale), y + int(210 * scale)), line2, font=brand_f, fill=ACCENT)
+
+    # accent çizgi
+    draw.rectangle([int(160 * scale), y + int(440 * scale),
+                    int(160 * scale + 560 * scale), y + int(465 * scale)], fill=ACCENT)
+
+    # Alt başlık (sarılı)
+    if subtitle:
+        sf = _font(FONT_BOLD, int(78 * scale))
+        for i, ln in enumerate(_wrap(draw, subtitle, sf, s - int(320 * scale))):
+            draw.text((int(160 * scale), y + int(540 * scale) + i * int(96 * scale)),
+                      ln, font=sf, fill=MUTED)
+
+    # En alt imza
+    ff = _font(FONT_REG, int(46 * scale))
+    draw.text((int(160 * scale), s - int(220 * scale)),
+              "Günlük AI bülteni · yapay zekâ tarafından üretildi",
+              font=ff, fill=MUTED)
+
+    img.convert("RGB").save(out_path, "JPEG", quality=90)
+    log.info("Kanal kapağı üretildi → %s (3000x3000)", out_path)
+
+
 def make_cover(title: str, episode_no: int, date_str: str, out_path: Path) -> None:
     """3000x3000 podcast kapağı."""
     s = 3000

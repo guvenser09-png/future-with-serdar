@@ -22,9 +22,12 @@ from xml.sax.saxutils import escape
 from utils import db, storage, registry
 from utils.config_loader import load_config, get_env
 from utils.logging_utils import get_logger
-from utils.paths import output_dir
+from utils.paths import output_dir, OUTPUT_ROOT
 
 log = get_logger("podcast")
+
+OUTPUT_ROOT.mkdir(parents=True, exist_ok=True)
+ROOT_TMP_COVER = OUTPUT_ROOT / "show_cover.jpg"
 
 TR_TZ = timezone(timedelta(hours=3))  # TSİ
 
@@ -75,7 +78,9 @@ def _build_feed(meta: dict, brand: str, author: str, cover_url: str,
     <language>{meta.get('language','tr')}</language>
     <description>{escape(meta.get('description','').strip())}</description>
     <itunes:author>{escape(author)}</itunes:author>
+    <itunes:subtitle>{escape(meta.get('subtitle',''))}</itunes:subtitle>
     <itunes:summary>{escape(meta.get('description','').strip())}</itunes:summary>
+    <itunes:keywords>{escape(','.join(meta.get('keywords', [])))}</itunes:keywords>
     <itunes:type>episodic</itunes:type>
     <itunes:explicit>{'yes' if meta.get('explicit') else 'no'}</itunes:explicit>
     <itunes:image href="{escape(cover_url)}"/>
@@ -171,11 +176,52 @@ def publish_podcast(date_str: str, episode_no: int = 1) -> dict:
     }
 
 
+def refresh_feed() -> dict:
+    """Yeni bölüm üretmeden kanal kapağını + feed.xml'i günceller ve yayınlar.
+
+    Marka/açıklama (config.yaml > podcast_meta) değiştiğinde kullanılır.
+    """
+    cfg = load_config()
+    meta = cfg.get("podcast_meta", {})
+    brand = get_env("PODCAST_TITLE", "Future with Serdar")
+    author = get_env("PODCAST_AUTHOR", "Serdar")
+    if not storage.configured():
+        raise RuntimeError("GitHub Pages ayarlı değil (.env: PAGES_BASE_URL vb.).")
+
+    storage.ensure_bucket()
+
+    # Kanal kapağı (markaya özel) üret + yükle
+    from modules.audio_assembler import make_show_cover
+    tmp_cover = ROOT_TMP_COVER
+    make_show_cover(tmp_cover, meta.get("subtitle", ""))
+    cover_url = storage.upload(dest_path="cover.jpg", local_path=tmp_cover,
+                              content_type="image/jpeg")
+
+    episodes = registry.load()
+    feed_self_url = storage._public_url("feed.xml")
+    feed_bytes = _build_feed(meta, brand, author, cover_url, feed_self_url, episodes)
+    feed_url = storage.upload_bytes("feed.xml", feed_bytes, "application/rss+xml")
+    storage.push_site("Kanal bilgileri / feed güncellendi")
+    log.info("Feed güncellendi → %s", feed_url)
+    return {"feed_url": feed_url, "cover_url": cover_url, "episode_count": len(episodes)}
+
+
 def main() -> None:
     ap = argparse.ArgumentParser(description="Future with Serdar — podcast yayıncısı")
+    ap.add_argument("--refresh-feed", action="store_true",
+                    help="Yeni bölüm üretmeden kanal kapağı + feed'i güncelle")
     ap.add_argument("--date", default=datetime.now().strftime("%Y-%m-%d"))
     ap.add_argument("--episode", type=int, default=1)
     args = ap.parse_args()
+
+    if args.refresh_feed:
+        r = refresh_feed()
+        print("\n=== FEED GÜNCELLENDİ ===")
+        print(f"  Feed: {r['feed_url']}")
+        print(f"  Kapak: {r['cover_url']}")
+        print(f"  Bölüm sayısı: {r['episode_count']}")
+        return
+
     res = publish_podcast(args.date, args.episode)
     print("\n=== PODCAST YAYINLANDI ===")
     print(f"  MP3:  {res['mp3_url']}")
