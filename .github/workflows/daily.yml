@@ -1,0 +1,82 @@
+name: Günlük Podcast
+
+on:
+  schedule:
+    # 04:30 UTC = 07:30 TSİ (yayın hedefi ~08:30)
+    - cron: "30 4 * * *"
+  workflow_dispatch:        # Manuel tetikleme (Actions sekmesinden "Run workflow")
+    inputs:
+      publish:
+        description: "Gerçekten yayınla (kapalı = sadece dry-run testi, ücret/yayın yok)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write           # docs/ + episodes.json'u repo'ya geri push edebilmek için
+
+concurrency:
+  group: daily-podcast
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+      ELEVENLABS_VOICE_ID: ${{ secrets.ELEVENLABS_VOICE_ID }}
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      PAGES_BASE_URL: https://guvenser09-png.github.io/future-with-serdar
+      GITHUB_USER: ${{ github.repository_owner }}
+      GITHUB_REPO: ${{ github.event.repository.name }}
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      PODCAST_TITLE: Future with Serdar
+      PODCAST_AUTHOR: Serdar
+
+    steps:
+      - name: Repo'yu çek
+        uses: actions/checkout@v4
+
+      - name: ffmpeg kur
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+
+      - name: Python kur
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Bağımlılıklar
+        run: |
+          python -m pip install --upgrade pip -q
+          pip install -q -r requirements.txt
+
+      - name: Git kimliği
+        run: |
+          git config user.name "FWS Bot"
+          git config user.email "bot@futurewithserdar.local"
+
+      - name: Mod belirle (schedule=yayın, manuel=dry-run varsayılan)
+        id: mode
+        run: |
+          if [ "${{ github.event_name }}" = "schedule" ] || [ "${{ inputs.publish }}" = "true" ]; then
+            echo "args=--publish" >> "$GITHUB_OUTPUT"
+            echo "Mod: YAYIN"
+          else
+            echo "args=--dry-run" >> "$GITHUB_OUTPUT"
+            echo "Mod: DRY-RUN (test)"
+          fi
+
+      - name: Podcast üret ve yayınla
+        run: python orchestrator.py ${{ steps.mode.outputs.args }}
+
+      # push_site zaten commit+push yapıyor; yine de açıkta kalan değişiklik olursa güvence:
+      - name: Kalan değişiklikleri commit et
+        if: always()
+        run: |
+          if [ -n "$(git status --porcelain episodes.json docs)" ]; then
+            git add episodes.json docs
+            git commit -m "Otomatik yayın (artık)" || true
+            git push || true
+          fi

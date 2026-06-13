@@ -254,7 +254,8 @@ def _ffprobe_duration(path: Path) -> float:
         return 0.0
 
 
-def assemble(date_str: str, episode_no: int = 1, make_short: bool = True) -> dict:
+def assemble(date_str: str, episode_no: int = 1, make_short: bool = True,
+             audio_only: bool = False) -> dict:
     out_dir = output_dir(date_str)
     script_path = out_dir / "script.json"
     voice_raw = out_dir / "voice_raw.mp3"
@@ -274,19 +275,29 @@ def assemble(date_str: str, episode_no: int = 1, make_short: bool = True) -> dic
     podcast_mp3 = out_dir / f"episode_{nnn}.mp3"
     video_mp4 = out_dir / f"episode_{nnn}.mp4"
 
+    # Podcast için her zaman: kapak + ses
     make_cover(title, episode_no, date_str, cover)
-    make_background(title, episode_no, date_str, (1920, 1080), bg)
     build_podcast_mp3(voice_raw, cover, podcast_mp3, title, episode_no)
-    build_video(bg, podcast_mp3, video_mp4)
 
     result = {
         "episode_no": episode_no,
         "title": title,
         "podcast_mp3": str(podcast_mp3),
-        "video_mp4": str(video_mp4),
         "cover": str(cover),
         "duration_sec": round(_ffprobe_duration(podcast_mp3), 1),
     }
+
+    if audio_only:
+        # Otomasyon (podcast-only): video/shorts üretme
+        db.log_step(date_str, "audio_assembler", "ok", duration_sec=result["duration_sec"])
+        log.info("Montaj (sadece ses): %.0f sn (~%.1f dk).",
+                 result["duration_sec"], result["duration_sec"] / 60)
+        return result
+
+    # Video (YouTube)
+    make_background(title, episode_no, date_str, (1920, 1080), bg)
+    build_video(bg, podcast_mp3, video_mp4)
+    result["video_mp4"] = str(video_mp4)
 
     if make_short:
         try:
