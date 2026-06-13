@@ -119,6 +119,8 @@ def publish_podcast(date_str: str, episode_no: int = 1) -> dict:
             raise FileNotFoundError(f"{p} yok. Önce montaj (audio_assembler) çalıştırın.")
 
     data = json.loads(script_path.read_text(encoding="utf-8"))
+    # Bölüm numarasını başlığa doğru yansıt (model rastgele numara üretebiliyor)
+    ep_title = re.sub(r"^B[öo]l[üu]m\s*\d+", f"Bölüm {episode_no}", data["title"])
     import subprocess
     dur = float(subprocess.run(
         ["ffprobe", "-v", "error", "-show_entries", "format=duration",
@@ -139,7 +141,7 @@ def publish_podcast(date_str: str, episode_no: int = 1) -> dict:
     episode_row = {
         "episode_number": episode_no,
         "date": date_str,
-        "title": data["title"],
+        "title": ep_title,
         "description": data.get("description", ""),
         "duration_sec": int(dur),
         "mp3_url": mp3_url,
