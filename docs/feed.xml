@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Future with Serdar</title>
+    <link>https://www.youtube.com/@futurewithserdar</link>
+    <atom:link href="https://guvenser09-png.github.io/future-with-serdar/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>tr</language>
+    <description>Future with Serdar — her sabah yapay zekâ dünyasının son 24 saatini Türkçe, yorumlu ve pratik bir bakışla özetleyen günlük bülten. İçeriğin kendisi sistemin kanıtı: senaryo, ses ve yayın tamamen otomatik üretiliyor.</description>
+    <itunes:author>Serdar</itunes:author>
+    <itunes:summary>Future with Serdar — her sabah yapay zekâ dünyasının son 24 saatini Türkçe, yorumlu ve pratik bir bakışla özetleyen günlük bülten. İçeriğin kendisi sistemin kanıtı: senaryo, ses ve yayın tamamen otomatik üretiliyor.</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://guvenser09-png.github.io/future-with-serdar/cover.jpg"/>
+    <itunes:category text="Technology"/>
+    <itunes:owner>
+      <itunes:name>Serdar</itunes:name>
+      <itunes:email>guvenser09@gmail.com</itunes:email>
+    </itunes:owner>
+    <lastBuildDate>Sat, 13 Jun 2026 03:52:51 +0300</lastBuildDate>
+    <item>
+      <title>Bölüm 94: Bezos'un 41 Milyar Dolarlık Mühendis'i, Meta KOBİ Hamlesi ve Google'ın Hız Canavarı | 12 Haziran 2026</title>
+      <description>Jeff Bezos'un fiziksel yapay zekâ girişimi Prometheus, 12 milyar dolar yatırımla 41 milyar dolar değerlemeye ulaştı — ve "yapay genel mühendis" kavramını hayata geçirmeye çalışıyor. Türkiye'de ise Meta, TOBB iş birliğiyle 1000 KOBİ'ye ücretsiz yapay zekâ eğitimi başlatıyor. Google DeepMind'ın yeni açık kaynak modeli DiffusionGemma ise metin üretimini 4 kata kadar hızlandırıyor. Future with Serdar'da bugünün en kritik gelişmelerini pratik bir perspektifle ele alıyoruz.</description>
+      <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_001.mp3" length="5263744" type="audio/mpeg"/>
+      <guid isPermaLink="false">fws-ep-1</guid>
+      <pubDate>Fri, 12 Jun 2026 08:30:00 +0300</pubDate>
+      <itunes:author>Serdar</itunes:author>
+      <itunes:duration>00:05:17</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>
