@@ -38,6 +38,12 @@ def _next_episode_number() -> int:
 
 def run(date_str: str, dry_run: bool, test_mode: str | None,
         episode: int | None, publish: bool, audio_only: bool) -> int:
+    # Aynı gün mükerrer yayını engelle (GitHub cron gecikmesi / çift tetikleme koruması)
+    if publish and any(e.get("date") == date_str for e in registry.load()):
+        log.info("Bugün (%s) zaten bir bölüm yayınlanmış — atlanıyor (ElevenLabs harcanmaz).",
+                 date_str)
+        return 0
+
     episode = episode or _next_episode_number()
     log.info("=== Future with Serdar — pipeline (date=%s, ep=%s, dry_run=%s, publish=%s) ===",
              date_str, episode, dry_run, publish)

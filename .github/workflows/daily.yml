@@ -2,8 +2,10 @@ name: Günlük Podcast
 
 on:
   schedule:
-    # 04:30 UTC = 07:30 TSİ (yayın hedefi ~08:30)
-    - cron: "30 4 * * *"
+    # 04:17 UTC = 07:17 TSİ. Yuvarlak dakikalar (:00/:30) GitHub'da çok yoğun
+    # olduğundan gecikir; :17 gibi dakika daha çabuk tetiklenir (yine de
+    # GitHub cron'u birkaç dk-saat gecikebilir — garanti saat değil).
+    - cron: "17 4 * * *"
   workflow_dispatch:        # Manuel tetikleme (Actions sekmesinden "Run workflow")
     inputs:
       publish:
