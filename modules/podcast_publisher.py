@@ -14,6 +14,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import re
 from datetime import datetime, timezone, timedelta
 from email.utils import format_datetime
 from pathlib import Path
