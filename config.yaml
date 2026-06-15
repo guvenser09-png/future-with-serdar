@@ -88,9 +88,12 @@ ai_keywords:
 # Kaynak listesi. ai_filter:true → yalnızca AI ile ilgili başlıklar tutulur.
 sources:
   # Resmî bloglar
+  # NOT: Anthropic artık public RSS yayınlamıyor (eski /news/rss.xml 404 veriyor).
+  # Birinci-ağız Anthropic kapsamını korumak için Google News RSS sorgusu kullanıyoruz.
   - name: Anthropic
-    url: https://www.anthropic.com/news/rss.xml
+    url: "https://news.google.com/rss/search?q=Anthropic%20Claude%20when:2d&hl=tr&gl=TR&ceid=TR:tr"
     category: official
+    ai_filter: true
   - name: OpenAI
     url: https://openai.com/news/rss.xml
     category: official

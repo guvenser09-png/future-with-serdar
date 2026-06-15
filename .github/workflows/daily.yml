@@ -2,10 +2,15 @@ name: Günlük Podcast
 
 on:
   schedule:
-    # 04:17 UTC = 07:17 TSİ. Yuvarlak dakikalar (:00/:30) GitHub'da çok yoğun
-    # olduğundan gecikir; :17 gibi dakika daha çabuk tetiklenir (yine de
-    # GitHub cron'u birkaç dk-saat gecikebilir — garanti saat değil).
-    - cron: "17 4 * * *"
+    # GitHub cron'u GARANTİ DEĞİL: yoğunlukta dakikalarca-saatlerce gecikir,
+    # bazen tamamen atlanır (15 Haz'da hiç tetiklenmedi). Çözüm: sabaha birkaç
+    # tetikleme koyuyoruz. orchestrator'daki "aynı gün mükerrer yayın engeli"
+    # sayesinde ilk fiilen çalışan yayını yapar; sonrakiler erkenden atlanır
+    # (ElevenLabs/Claude harcanmaz). Yuvarlak dakikalar (:00/:30) daha yoğun
+    # olduğundan :17 kullanıyoruz.
+    - cron: "17 4 * * *"   # 07:17 TSİ — birincil
+    - cron: "17 5 * * *"   # 08:17 TSİ — yedek 1
+    - cron: "17 6 * * *"   # 09:17 TSİ — yedek 2
   workflow_dispatch:        # Manuel tetikleme (Actions sekmesinden "Run workflow")
     inputs:
       publish:
@@ -39,13 +44,13 @@ jobs:
 
     steps:
       - name: Repo'yu çek
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: ffmpeg kur
         run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
 
       - name: Python kur
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: "3.12"
 
