@@ -130,13 +130,32 @@ def write_script(date_str: str) -> dict:
 
     log.info("Senaryo üretiliyor (%d haber, slow_day=%s)...",
              news["selected_count"], news.get("slow_day"))
-    episode = claude_parse(
-        model=cfg["model"]["script"],
-        system=system,
-        user=user,
-        schema=Episode,
-        max_tokens=8000,
-    )
+
+    # Senaryonun çok kısa/kesik gelmesine karşı koruma: model bazen (özellikle
+    # uzun girdilerde) script alanını yarıda bırakıp metadatayı tam üretiyor.
+    # Hedefin %55'inin altı "kesik" sayılır; bir kez yeniden denenir, yine
+    # kısaysa HATA verilir (yarım bölüm asla yayınlanmaz — CLAUDE.md kuralı).
+    min_words = max(600, int(cfg["podcast"]["target_words"][0] * 0.55))
+    episode = None
+    for attempt in range(1, 3):
+        episode = claude_parse(
+            model=cfg["model"]["script"],
+            system=system,
+            user=user,
+            schema=Episode,
+            max_tokens=8000,
+        )
+        wc = len(episode.script.split())
+        if wc >= min_words:
+            break
+        log.warning("Senaryo çok kısa (%d kelime < %d) — kesik olabilir. Deneme %d/2.",
+                    wc, min_words, attempt)
+    if episode is None or len(episode.script.split()) < min_words:
+        got = len(episode.script.split()) if episode else 0
+        raise RuntimeError(
+            f"Senaryo yeterli uzunlukta üretilemedi ({got} kelime < {min_words}). "
+            "Yayın durduruldu — yarım bölüm yayınlanmaz."
+        )
 
     data = episode.model_dump()
     word_count = len(episode.script.split())
