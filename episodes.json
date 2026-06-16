@@ -1,5 +1,14 @@
 [
   {
+    "episode_number": 4,
+    "date": "2026-06-16",
+    "title": "Bölüm 4: Anthropic'i Kapattılar | 16 Haziran 2026",
+    "description": "Trump yönetimi, Anthropic'in en güçlü iki modelini hafta sonu aniden kapattı ve yapay zekâ dünyasını sarstı. Bu karar, Avrupa'dan Kanada'ya kadar pek çok ülkede 'egemen yapay zekâ' tartışmalarını alevlendirdi. Bir de Hacker News'te gündemdeki soru var: Yerel modeller artık günlük kodlama için yeterince iyi mi?",
+    "duration_sec": 62,
+    "mp3_url": "https://guvenser09-png.github.io/future-with-serdar/episodes/episode_004.mp3",
+    "mp3_bytes": 1138155
+  },
+  {
     "episode_number": 3,
     "date": "2026-06-15",
     "title": "Bölüm 3: Halkbank IBM'le Geleceğe Geçiyor, OpenAI Partner Network ve Yapay Zeka Korkusu | 15 Haziran 2026",

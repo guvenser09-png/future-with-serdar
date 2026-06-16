@@ -25,7 +25,18 @@ Bu programın kendisi de bir yapay zekâ deneyi: senaryo, ses ve yayın tamamen 
       <itunes:name>Serdar</itunes:name>
       <itunes:email>guvenser09@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 15 Jun 2026 11:56:50 +0300</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 11:32:17 +0300</lastBuildDate>
+    <item>
+      <title>Bölüm 4: Anthropic'i Kapattılar | 16 Haziran 2026</title>
+      <description>Trump yönetimi, Anthropic'in en güçlü iki modelini hafta sonu aniden kapattı ve yapay zekâ dünyasını sarstı. Bu karar, Avrupa'dan Kanada'ya kadar pek çok ülkede 'egemen yapay zekâ' tartışmalarını alevlendirdi. Bir de Hacker News'te gündemdeki soru var: Yerel modeller artık günlük kodlama için yeterince iyi mi?</description>
+      <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_004.mp3" length="1138155" type="audio/mpeg"/>
+      <guid isPermaLink="false">fws-ep-4</guid>
+      <pubDate>Tue, 16 Jun 2026 08:30:00 +0300</pubDate>
+      <itunes:author>Serdar</itunes:author>
+      <itunes:duration>00:01:02</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Bölüm 3: Halkbank IBM'le Geleceğe Geçiyor, OpenAI Partner Network ve Yapay Zeka Korkusu | 15 Haziran 2026</title>
       <description>Bugün Halkbank'ın IBM ile büyük altyapı hamlesini, OpenAI'ın 150 milyon dolarlık partner ağını ve çalışanların yarısının yapay zekadan neden endişe ettiğini konuşuyoruz. Bir de gündemin en çarpıcı güvenlik haberini ele alıyoruz: Anthropic'in güçlü modeline Çin bağlantılı bir grubun erişmiş olabileceği iddiası. Future with Serdar'da her gün yapay zeka dünyasının nabzını tutuyoruz.</description>
