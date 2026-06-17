@@ -136,12 +136,15 @@ def publish_podcast(date_str: str, episode_no: int = 1) -> dict:
                              local_path=mp3, content_type="audio/mpeg")
 
     # Kanal kapağı SABİT (show cover) — yoksa üret, varsa dokunma (bölüm kapağıyla ezme)
-    cover_dest = storage.DOCS_DIR / "cover.jpg"
+    # Kanal kapağı SABİT logo (cover-v2.jpg). "v2" cache-bust içindir: Spotify
+    # aynı URL'i (cover.jpg) yeniden çekmiyordu. Logo varsa dokunma; yoksa
+    # yedek olarak jenerik kapağı üret.
+    cover_dest = storage.DOCS_DIR / "cover-v2.jpg"
     if not cover_dest.exists():
         from modules.audio_assembler import make_show_cover
         cover_dest.parent.mkdir(parents=True, exist_ok=True)
         make_show_cover(cover_dest, meta.get("subtitle", ""))
-    cover_url = storage._public_url("cover.jpg")
+    cover_url = storage._public_url("cover-v2.jpg")
     log.info("MP3 → %s", mp3_url)
 
     # 2) Yerel bölüm kaydını güncelle (feed kaynağı) + DB'ye de yaz (varsa)
@@ -199,12 +202,8 @@ def refresh_feed() -> dict:
 
     storage.ensure_bucket()
 
-    # Kanal kapağı (markaya özel) üret + yükle
-    from modules.audio_assembler import make_show_cover
-    tmp_cover = ROOT_TMP_COVER
-    make_show_cover(tmp_cover, meta.get("subtitle", ""))
-    cover_url = storage.upload(dest_path="cover.jpg", local_path=tmp_cover,
-                              content_type="image/jpeg")
+    # Kanal kapağı SABİT logo (cover-v2.jpg); jenerik kapak ÜRETME (logoyu ezmesin).
+    cover_url = storage._public_url("cover-v2.jpg")
 
     episodes = registry.load()
     feed_self_url = storage._public_url("feed.xml")
