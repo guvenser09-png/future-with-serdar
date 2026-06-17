@@ -25,26 +25,26 @@ Bu programın kendisi de bir yapay zekâ deneyi: senaryo, ses ve yayın tamamen 
       <itunes:name>Serdar</itunes:name>
       <itunes:email>guvenser09@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Wed, 17 Jun 2026 13:52:31 +0300</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 13:58:51 +0300</lastBuildDate>
     <item>
       <title>Bölüm 5: ChatGPT Taht Sallantıda, OpenAI 20 Milyar Zarar Etti | 17 Haziran 2026</title>
       <description>ChatGPT tarihinde ilk kez yüzde 50'nin altına düştü, peki bunu kim yedi? OpenAI'nin sızdırılan finansal belgeleri şirketin yılda 20 milyar dolar zarar ettiğini ortaya koydu. Üstüne bir de Microsoft Copilot'ta kritik bir güvenlik açığı çıktı. Bugün her şeyi masaya yatırıyoruz.</description>
-      <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_005-v2.mp3" length="5963243" type="audio/mpeg"/>
+      <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_005-v3.mp3" length="6176821" type="audio/mpeg"/>
       <guid isPermaLink="false">fws-ep-5</guid>
       <pubDate>Wed, 17 Jun 2026 08:30:00 +0300</pubDate>
       <itunes:author>Serdar</itunes:author>
-      <itunes:duration>00:06:02</itunes:duration>
+      <itunes:duration>00:06:16</itunes:duration>
       <itunes:episode>5</itunes:episode>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>Bölüm 4: Anthropic Kapatıldı — Egemen Yapay Zekâ Çağı Başlıyor | 16 Haziran 2026</title>
       <description>Trump yönetimi, Anthropic'in en yeni modelleri Mythos 5 ve Fable 5'i tek bir emirle kapattı. Bu gelişme dünyada 'egemen yapay zekâ' tartışmalarını alevlendirdi. Aynı zamanda geliştiriciler yerel modellerle neler yapılabileceğini sorguluyor. Bugünün bölümünde tüm bu gelişmeleri ve senin için ne anlama geldiğini konuşuyoruz.</description>
-      <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_004-v2.mp3" length="5886537" type="audio/mpeg"/>
+      <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_004-v3.mp3" length="5986012" type="audio/mpeg"/>
       <guid isPermaLink="false">fws-ep-4</guid>
       <pubDate>Tue, 16 Jun 2026 08:30:00 +0300</pubDate>
       <itunes:author>Serdar</itunes:author>
-      <itunes:duration>00:05:57</itunes:duration>
+      <itunes:duration>00:06:04</itunes:duration>
       <itunes:episode>4</itunes:episode>
       <itunes:explicit>no</itunes:explicit>
     </item>
