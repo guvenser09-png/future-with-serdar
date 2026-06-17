@@ -43,11 +43,15 @@ def _load_pronunciation() -> dict[str, str]:
 
 
 def apply_pronunciation(text: str, mapping: dict[str, str]) -> str:
-    """Telaffuz sözlüğünü kelime sınırına saygılı şekilde uygular."""
-    for term, repl in mapping.items():
-        # Büyük/küçük harf duyarsız, kelime sınırlı (mümkünse)
-        pattern = re.compile(re.escape(term), re.IGNORECASE)
-        text = pattern.sub(repl, text)
+    """Telaffuz sözlüğünü kelime sınırına saygılı şekilde uygular.
+
+    Kelime sınırı (\\b) şart: aksi halde "AI" → "email"/"detay" içine sızar,
+    "GPT" → "ChatGPT" içindeki parçayı bozardı. Uzun terimler önce eşleşsin
+    diye (örn. "ChatGPT" < "GPT") anahtarlar uzunluğa göre azalan sıralanır.
+    """
+    for term in sorted(mapping, key=len, reverse=True):
+        pattern = re.compile(r"\b" + re.escape(term) + r"\b", re.IGNORECASE)
+        text = pattern.sub(mapping[term], text)
     return text
 
 

@@ -1,9 +1,11 @@
 {
-  "_comment": "Seslendirme öncesi string replace ile uygulanır. Her bölüm sonrası dinleme notlarıyla büyütülür (CLAUDE.md Modül 3).",
-  "GPT": "ci-pi-ti",
-  "API": "ey-pi-ay",
-  "LLM": "el-el-em",
-  "OpenAI": "öupın-ey-ay",
+  "_comment": "Seslendirme öncesi kelime-sınırlı string replace ile uygulanır (voice_generator.apply_pronunciation). TİRE KULLANMA — eleven_v3 tireyi duraklama gibi okur; akıcı bitişik yazım tercih edilir. Uzun terimler otomatik önce eşleşir (ChatGPT < GPT). Her bölüm sonrası dinleme notlarıyla büyütülür.",
+  "ChatGPT": "çet cipiti",
+  "OpenAI": "openey ay",
+  "GPT": "cipiti",
+  "API": "eypiay",
+  "LLM": "elelem",
+  "AGI": "eyciay",
   "Claude": "klod",
   "Hugging Face": "haging feys",
   "DeepMind": "diipmaynd",
@@ -11,6 +13,5 @@
   "Mistral": "mistral",
   "Anthropic": "entropik",
   "Nvidia": "envidya",
-  "AGI": "ey-ci-ay",
   "AI": "yapay zeka"
 }
