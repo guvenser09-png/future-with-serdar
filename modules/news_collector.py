@@ -265,11 +265,35 @@ def collect(date_str: str) -> dict:
     cands.sort(key=lambda x: x.importance_score or 0, reverse=True)
 
     # Seçim
+    num_news = cfg["podcast"]["num_news"]
     eligible = [c_ for c_ in cands if (c_.importance_score or 0) >= c["min_score"]]
-    selected = eligible[: cfg["podcast"]["num_news"]]
 
-    top_score = selected[0].importance_score if selected else 0
-    slow_day = len(selected) < cfg["podcast"]["min_news"] or top_score < c["slow_day_threshold"]
+    # Öncelikli (sabitlenmiş) haberler: feed'de görülen ve priority_keywords ile
+    # eşleşen adaylar, skorlarına bakılmaksızın bölüme alınır (kullanıcının
+    # istediği belirli bir haber için). Kaynak kuralı korunur — bu yalnızca
+    # GERÇEKTEN toplanmış bir feed makalesini öne çeker, haber uydurmaz.
+    priority_kw = [k.lower() for k in cfg["podcast"].get("priority_keywords", [])]
+    pinned: list[Candidate] = []
+    if priority_kw:
+        for c_ in cands:
+            text = f"{c_.title} {c_.summary}".lower()
+            if any(k in text for k in priority_kw):
+                pinned.append(c_)
+        if pinned:
+            log.info("Öncelikli haber(ler) sabitlendi: %s",
+                     " | ".join(p.title for p in pinned))
+
+    selected = list(pinned[:num_news])
+    for c_ in eligible:
+        if len(selected) >= num_news:
+            break
+        if c_ not in selected:
+            selected.append(c_)
+
+    # Yavaş gün, sabitlenenler hariç gerçek skorlu havuza göre belirlenir
+    top_score = cands[0].importance_score if cands else 0
+    scored_in_selection = [c_ for c_ in selected if (c_.importance_score or 0) >= c["min_score"]]
+    slow_day = len(scored_in_selection) < cfg["podcast"]["min_news"] or top_score < c["slow_day_threshold"]
     if slow_day:
         log.info("YAVAŞ GÜN: en yüksek skor %s, seçilen haber %d. slow_day=true.",
                  top_score, len(selected))

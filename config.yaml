@@ -2,9 +2,16 @@
 # Kaynaklar ve davranış ayarları burada tutulur (kolayca genişletilebilir).
 
 podcast:
-  target_words: [1100, 1300]   # bölüm uzunluğu ≈ 6-8 dk
-  num_news: 4                  # seçilecek haber sayısı (3-4)
-  min_news: 3
+  target_words: [380, 480]     # bölüm uzunluğu ≈ 3-4 dk (konuşma hızı ~135 kelime/dk)
+  num_news: 3                  # seçilecek haber sayısı (kısa bölüm → 3)
+  min_news: 2
+  # Belirli bir haber feed'lerde görülürse skoruna bakılmaksızın bölüme
+  # sabitlenir. Kaynak kuralı korunur: yine de gerçek bir feed makalesine
+  # dayanır, uydurulmaz. Feed'lerde hiç çıkmazsa girmez. Geçici/tek seferlik
+  # istekler için: haber yayınlandıktan sonra ilgili kelimeyi buradan silin.
+  priority_keywords:
+    - "monaco glass"
+    - "monako glass"
 
 # Podcast RSS / yayın bilgileri (Spotify/Apple için)
 podcast_meta:

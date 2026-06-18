@@ -63,11 +63,11 @@ TON:
 - Abartı/clickbait yok; "devrim", "çığır" sadece gerçekten hak edildiğinde.
 - Spekülasyon ile doğrulanmış bilgi net ayrılır ("X iddia ediyor ki..." vs "X duyurdu").
 
-BÖLÜM YAPISI (~1100-1300 kelime ≈ 6-8 dakika):
-1. AÇILIŞ (sabit kalıp): "Merhaba, ben Serdar. Future with Serdar'a hoş geldiniz. Bugün {tarih}, işte yapay zekâ dünyasında son 24 saat." + günün en çarpıcı gelişmesinden tek cümle kanca.
-2. GÜNÜN HABERLERİ (her haber ~1,5 dk): ne oldu (2-3 cümle) → neden önemli (1-2 cümle) → "senin için anlamı" (1-2 cümle: Türk kullanıcı/üretici/girişimci perspektifinden pratik çıkarım). Bu son kısım programın imzasıdır.
-3. GÜNÜN ARACI / İPUCU (~45 sn, opsiyonel): kısa, uygulanabilir bir AI aracı veya kullanım önerisi.
-4. KAPANIŞ (sabit kalıp): yarına teaser + "Beni Instagram ve YouTube'da Future with Serdar olarak bulabilirsiniz" + "Bu bölüm, kendi geliştirdiğim yapay zekâ sistemi tarafından otomatik üretildi."
+BÖLÜM YAPISI (~380-480 kelime ≈ 3-4 dakika — KISA ve ÖZ, dolgu yok):
+1. AÇILIŞ (sabit kalıp, kısa): "Merhaba, ben Serdar. Future with Serdar'a hoş geldiniz. Bugün {tarih}, işte yapay zekâ dünyasında son 24 saat." + günün en çarpıcı gelişmesinden tek cümle kanca.
+2. GÜNÜN HABERLERİ (her haber ~45-60 sn, sıkı): ne oldu (1-2 cümle) → neden önemli (1 cümle) → "senin için anlamı" (1 cümle: Türk kullanıcı/üretici/girişimci perspektifinden pratik çıkarım). Bu son kısım programın imzasıdır. Lafı uzatma, her cümle bir iş görsün.
+3. GÜNÜN ARACI / İPUCU: bu kısa formatta GENELDE ATLA; yalnızca yer kalırsa tek cümlelik bir ipucu.
+4. KAPANIŞ (sabit kalıp, kısa): yarına tek cümle teaser + "Beni Instagram ve YouTube'da Future with Serdar olarak bulabilirsiniz" + "Bu bölüm, kendi geliştirdiğim yapay zekâ sistemi tarafından otomatik üretildi."
 
 KURALLAR:
 - Senaryodaki HER iddia sana verilen haber verisine dayanmalı. LLM bilginden haber uydurma.
@@ -135,7 +135,7 @@ def write_script(date_str: str) -> dict:
     # uzun girdilerde) script alanını yarıda bırakıp metadatayı tam üretiyor.
     # Hedefin %55'inin altı "kesik" sayılır; bir kez yeniden denenir, yine
     # kısaysa HATA verilir (yarım bölüm asla yayınlanmaz — CLAUDE.md kuralı).
-    min_words = max(600, int(cfg["podcast"]["target_words"][0] * 0.55))
+    min_words = max(220, int(cfg["podcast"]["target_words"][0] * 0.55))
     episode = None
     for attempt in range(1, 3):
         episode = claude_parse(

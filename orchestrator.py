@@ -91,8 +91,8 @@ def run(date_str: str, dry_run: bool, test_mode: str | None,
         return 1
 
     dur = media["duration_sec"]
-    if dur < 300 or dur > 600:
-        log.warning("Süre hedef dışı (%.1f dk). İdeal 5-10 dk.", dur / 60)
+    if dur < 150 or dur > 330:
+        log.warning("Süre hedef dışı (%.1f dk). İdeal 3-4 dk.", dur / 60)
 
     # 5) Podcast yayını
     feed_url = None
