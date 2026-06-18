@@ -25,7 +25,18 @@ Bu programın kendisi de bir yapay zekâ deneyi: senaryo, ses ve yayın tamamen 
       <itunes:name>Serdar</itunes:name>
       <itunes:email>guvenser09@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Wed, 17 Jun 2026 13:58:51 +0300</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 07:36:48 +0300</lastBuildDate>
+    <item>
+      <title>Bölüm 6: Anthropic'e Gizemli Yasak, Türkiye'nin YZ Planı ve Yapay Zekâ Kimyager | 18 Haziran 2026</title>
+      <description>Bugün Amerika'nın kendi şirketine uyguladığı anlaşılmaz ihracat yasağını, G7 liderlerinin bu yasağa tepkisini ve Türkiye'nin açıkladığı kapsamlı Yapay Zekâ Eylem Planı'nı konuşuyoruz. Ayrıca GPT-5.4'ün neredeyse özerk bir kimyager olarak ilaç geliştirme sürecinde kaydettiği somut ilerlemeye de bakıyoruz. Future with Serdar'da bugün hem jeopolitik hem de bilimsel cephede çok şey var.</description>
+      <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_006.mp3" length="7177739" type="audio/mpeg"/>
+      <guid isPermaLink="false">fws-ep-6</guid>
+      <pubDate>Thu, 18 Jun 2026 08:30:00 +0300</pubDate>
+      <itunes:author>Serdar</itunes:author>
+      <itunes:duration>00:07:24</itunes:duration>
+      <itunes:episode>6</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Bölüm 5: ChatGPT Taht Sallantıda, OpenAI 20 Milyar Zarar Etti | 17 Haziran 2026</title>
       <description>ChatGPT tarihinde ilk kez yüzde 50'nin altına düştü, peki bunu kim yedi? OpenAI'nin sızdırılan finansal belgeleri şirketin yılda 20 milyar dolar zarar ettiğini ortaya koydu. Üstüne bir de Microsoft Copilot'ta kritik bir güvenlik açığı çıktı. Bugün her şeyi masaya yatırıyoruz.</description>
