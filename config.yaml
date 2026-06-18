@@ -52,10 +52,10 @@ model:
 voice:
   model: eleven_v3             # en doğal/expressive (A/B testte seçildi)
   output_format: mp3_44100_128
-  settings:                    # eleven_v3 için stability: Natural=0.5 önerilir
-    stability: 0.5
+  settings:                    # 19 Haz: daha duygulu teslimat için (A/B/C testi)
+    stability: 0.3             # düşük = daha ifadeli/duygulu (Creative'e yakın)
     similarity_boost: 0.75
-    style: 0.0
+    style: 0.35                # ifadeyi abartmadan canlandırır
 
 collector:
   hours_lookback: 24

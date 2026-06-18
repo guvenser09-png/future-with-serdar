@@ -1,17 +1,4 @@
 {
-  "_comment": "Seslendirme öncesi kelime-sınırlı string replace ile uygulanır (voice_generator.apply_pronunciation). TİRE KULLANMA — eleven_v3 tireyi duraklama gibi okur; akıcı bitişik yazım tercih edilir. Uzun terimler otomatik önce eşleşir (ChatGPT < GPT). Her bölüm sonrası dinleme notlarıyla büyütülür.",
-  "ChatGPT": "çet cipiti",
-  "OpenAI": "Open Ey Ay",
-  "GPT": "cipiti",
-  "API": "eypiay",
-  "LLM": "elelem",
-  "AGI": "eyciay",
-  "Claude": "kılod",
-  "Hugging Face": "haging feys",
-  "DeepMind": "diipmaynd",
-  "Gemini": "ceminay",
-  "Mistral": "mistral",
-  "Anthropic": "entropik",
-  "Nvidia": "envidya",
+  "_comment": "Seslendirme öncesi kelime-sınırlı string replace ile uygulanır (voice_generator.apply_pronunciation). POLİTİKA (19 Haz): yabancı/İngilizce marka ve terimler İngilizce okunur — Türkçe respelling YAPILMAZ (eleven_v3 onları doğal İngilizce söylüyor; 'Open Ey Ay'/'çet cipiti' gibi heceletmeler kulağı tırmalıyordu). Tek istisna AI→yapay zeka: bu bir telaffuz değil, Türkçe cümlede doğal duran bilinçli çeviri. Yeni terim eklerken önce kısa örnekle test et; gerçekten tuhaf okunan bir terim çıkarsa SADECE onun için hafif İngilizce ipucu ekle. TİRE KULLANMA — v3 tireyi duraklama gibi okur.",
   "AI": "yapay zeka"
 }

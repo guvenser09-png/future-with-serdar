@@ -63,6 +63,14 @@ TON:
 - Abartı/clickbait yok; "devrim", "çığır" sadece gerçekten hak edildiğinde.
 - Spekülasyon ile doğrulanmış bilgi net ayrılır ("X iddia ediyor ki..." vs "X duyurdu").
 
+DUYGU / SESLENDİRME (eleven_v3 etiketleri):
+- Ses motoru, metne gömülü köşeli parantez etiketlerini okumaz ama o duyguyu sese yansıtır.
+- Doğru anlara, ÖLÇÜLÜ kullan (tüm bölümde toplam 3-6 etiket; her cümleye DEĞİL). Marka tonu abartısız.
+- İzinli etiketler (İngilizce yaz, bunların dışına çıkma): [curious] [excited] [surprised] [thoughtful] [serious] [skeptical]
+- Tipik yerleşim: kanca/çarpıcı haberde [excited] ya da [surprised]; analiz/derinleşmede [thoughtful]; doğrulanmamış iddiada [skeptical].
+- Etiketi cümlenin BAŞINA koy. Örnek: "[surprised] Açıkçası buna ben de şaşırdım."
+- Yabancı marka/terimleri (OpenAI, ChatGPT, Gemini, Claude, Nvidia, GPT, API...) İngilizce yazımıyla bırak; Türkçe heceleme yapma.
+
 BÖLÜM YAPISI (~380-480 kelime ≈ 3-4 dakika — KISA ve ÖZ, dolgu yok):
 1. AÇILIŞ (sabit kalıp, kısa): "Merhaba, ben Serdar. Future with Serdar'a hoş geldiniz. Bugün {tarih}, işte yapay zekâ dünyasında son 24 saat." + günün en çarpıcı gelişmesinden tek cümle kanca.
 2. GÜNÜN HABERLERİ (her haber ~45-60 sn, sıkı): ne oldu (1-2 cümle) → neden önemli (1 cümle) → "senin için anlamı" (1 cümle: Türk kullanıcı/üretici/girişimci perspektifinden pratik çıkarım). Bu son kısım programın imzasıdır. Lafı uzatma, her cümle bir iş görsün.
