@@ -25,7 +25,18 @@ Bu programın kendisi de bir yapay zekâ deneyi: senaryo, ses ve yayın tamamen 
       <itunes:name>Serdar</itunes:name>
       <itunes:email>guvenser09@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 18 Jun 2026 07:36:48 +0300</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 07:33:37 +0300</lastBuildDate>
+    <item>
+      <title>Bölüm 7: Shazeer OpenAI'da, Yapay Zekâ Nadir Hastalık Tanısında | 19 Haziran 2026</title>
+      <description>Google'ın Gemini mimarisinin kurucularından Noam Shazeer, OpenAI'a geçiyor. IPO öncesinde dev bir transfer. Öte yandan OpenAI'ın o3 modeli, yıllarca çözülememiş nadir genetik hastalık vakalarında tanı koymaya yardımcı oldu. Bugün yapay zekânın hem iş dünyasını hem tıbbı nasıl dönüştürdüğünü konuşuyoruz.</description>
+      <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_007.mp3" length="2697355" type="audio/mpeg"/>
+      <guid isPermaLink="false">fws-ep-7</guid>
+      <pubDate>Fri, 19 Jun 2026 08:30:00 +0300</pubDate>
+      <itunes:author>Serdar</itunes:author>
+      <itunes:duration>00:02:44</itunes:duration>
+      <itunes:episode>7</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Bölüm 6: Anthropic'e Gizemli Yasak, Türkiye'nin YZ Planı ve Yapay Zekâ Kimyager | 18 Haziran 2026</title>
       <description>Bugün Amerika'nın kendi şirketine uyguladığı anlaşılmaz ihracat yasağını, G7 liderlerinin bu yasağa tepkisini ve Türkiye'nin açıkladığı kapsamlı Yapay Zekâ Eylem Planı'nı konuşuyoruz. Ayrıca GPT-5.4'ün neredeyse özerk bir kimyager olarak ilaç geliştirme sürecinde kaydettiği somut ilerlemeye de bakıyoruz. Future with Serdar'da bugün hem jeopolitik hem de bilimsel cephede çok şey var.</description>

@@ -1,5 +1,14 @@
 [
   {
+    "episode_number": 7,
+    "date": "2026-06-19",
+    "title": "Bölüm 7: Shazeer OpenAI'da, Yapay Zekâ Nadir Hastalık Tanısında | 19 Haziran 2026",
+    "description": "Google'ın Gemini mimarisinin kurucularından Noam Shazeer, OpenAI'a geçiyor. IPO öncesinde dev bir transfer. Öte yandan OpenAI'ın o3 modeli, yıllarca çözülememiş nadir genetik hastalık vakalarında tanı koymaya yardımcı oldu. Bugün yapay zekânın hem iş dünyasını hem tıbbı nasıl dönüştürdüğünü konuşuyoruz.",
+    "duration_sec": 164,
+    "mp3_url": "https://guvenser09-png.github.io/future-with-serdar/episodes/episode_007.mp3",
+    "mp3_bytes": 2697355
+  },
+  {
     "episode_number": 6,
     "date": "2026-06-18",
     "title": "Bölüm 6: Anthropic'e Gizemli Yasak, Türkiye'nin YZ Planı ve Yapay Zekâ Kimyager | 18 Haziran 2026",
