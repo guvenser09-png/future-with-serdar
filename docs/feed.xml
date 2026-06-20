@@ -25,15 +25,15 @@ Bu programın kendisi de bir yapay zekâ deneyi: senaryo, ses ve yayın tamamen 
       <itunes:name>Serdar</itunes:name>
       <itunes:email>guvenser09@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sat, 20 Jun 2026 07:33:08 +0300</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 09:08:22 +0300</lastBuildDate>
     <item>
-      <title>Bölüm: Anthropic Yasağı ve Beklenmedik Sonuçlar | 20 Haziran 2026</title>
-      <description>ABD hükümeti Anthropic'in en yeni modelleri Fable 5 ve Mythos 5'i ulusal güvenlik gerekçesiyle yasakladı. Peki bu yasak şirkete zarar mı veriyor, yoksa tersine bir tanınırlık mı kazandırıyor? Serdar, gelişmeleri Türk kullanıcılar ve geliştiriciler için masaya yatırıyor.</description>
-      <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_008.mp3" length="2072977" type="audio/mpeg"/>
+      <title>Bölüm 8: Adobe Her Şeyi Değiştiriyor, Norveç Yapay Zekayı Yasaklıyor ve Sessiz Sedasız Gelen Dev | 20 Haziran 2026</title>
+      <description>Adobe, Firefly AI asistanını Premiere Pro, Illustrator ve InDesign'a entegre ederek yaratıcı iş akışlarını kökten değiştiriyor. Norveç ilkokullarında yapay zekâya neredeyse tam yasak geldi. Ve Miami'li küçük bir startup, büyük dil modellerinin on yıllık darboğazını kırdığını iddia ediyor. Bugün bu üç konuyu hem teknik hem de pratik açıdan masaya yatırıyoruz.</description>
+      <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_008-v2.mp3" length="3909770" type="audio/mpeg"/>
       <guid isPermaLink="false">fws-ep-8</guid>
       <pubDate>Sat, 20 Jun 2026 08:30:00 +0300</pubDate>
       <itunes:author>Serdar</itunes:author>
-      <itunes:duration>00:02:05</itunes:duration>
+      <itunes:duration>00:03:52</itunes:duration>
       <itunes:episode>8</itunes:episode>
       <itunes:explicit>no</itunes:explicit>
     </item>
