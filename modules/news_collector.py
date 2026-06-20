@@ -185,10 +185,19 @@ Skorlama kriterleri:
 - "Future with Serdar" kitlesine uygunluk (AI ile üretkenlik/gelir bonus)
 
 Sansasyonel ama tek kaynaklı iddiaları düşürme, ama orta puanla.
+
+ÇEŞİTLİLİK / TEKRAR (önemli):
+- Sana "son bölümlerde işlenen konular" verilebilir. Bu konuların DEVAMI/tekrarı olan
+  haberleri belirgin şekilde DÜŞÜR (yeni ve büyük bir gelişme yoksa 30 puanın altına çek).
+  Dinleyici her gün aynı sagayı (örn. aynı şirketin süregelen davası) dinlemek istemez.
+- Aynı olayın farklı kaynaklardaki kopyalarında yalnızca EN GÜÇLÜsüne yüksek puan ver,
+  diğerlerini düşür — bölümde aynı konudan iki haber olmasın.
+- Farklı şirket/tema çeşitliliğini ödüllendir (tek bir şirkete boğulma).
+
 Her habere tek cümlelik Türkçe gerekçe yaz. Tüm haberleri puanla, hiçbirini atlama."""
 
 
-def score(cands: list[Candidate], model: str) -> list[Candidate]:
+def score(cands: list[Candidate], model: str, recent_titles: list[str] | None = None) -> list[Candidate]:
     """Adayları Claude ile tek çağrıda puanlar."""
     if not cands:
         return cands
@@ -196,7 +205,11 @@ def score(cands: list[Candidate], model: str) -> list[Candidate]:
     lines = []
     for i, c in enumerate(cands):
         lines.append(f"[{i}] ({c.source}) {c.title}\n    Özet: {c.summary or '—'}")
-    user = "Aşağıdaki haberleri puanla:\n\n" + "\n\n".join(lines)
+    user = ""
+    if recent_titles:
+        user += ("SON BÖLÜMLERDE İŞLENEN KONULAR (bunların devamı/tekrarı olan haberleri düşür):\n"
+                 + "\n".join(f"- {t}" for t in recent_titles) + "\n\n")
+    user += "Aşağıdaki haberleri puanla:\n\n" + "\n\n".join(lines)
 
     result = claude_parse(
         model=model,
@@ -261,7 +274,10 @@ def collect(date_str: str) -> dict:
         if before - len(cands):
             log.info("Daha önce yayınlanmış %d haber elendi.", before - len(cands))
 
-    cands = score(cands, cfg["model"]["scoring"])
+    # Son bölüm başlıklarını puanlayıcıya ver (aynı sagayı tekrar seçmeyi önlemek için)
+    recent_titles = [e.get("title", "") for e in
+                     sorted(registry.load(), key=lambda x: x.get("episode_number", 0))[-4:]]
+    cands = score(cands, cfg["model"]["scoring"], recent_titles)
     cands.sort(key=lambda x: x.importance_score or 0, reverse=True)
 
     # Seçim

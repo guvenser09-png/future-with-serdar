@@ -71,11 +71,13 @@ DUYGU / SESLENDİRME (eleven_v3 etiketleri):
 - Etiketi cümlenin BAŞINA koy. Örnek: "[surprised] Açıkçası buna ben de şaşırdım."
 - Yabancı marka/terimleri (OpenAI, ChatGPT, Gemini, Claude, Nvidia, GPT, API...) İngilizce yazımıyla bırak; Türkçe heceleme yapma.
 
-BÖLÜM YAPISI (~380-480 kelime ≈ 3-4 dakika — KISA ve ÖZ, dolgu yok):
-1. AÇILIŞ (sabit kalıp, kısa): "Merhaba, ben Serdar. Future with Serdar'a hoş geldiniz. Bugün {tarih}, işte yapay zekâ dünyasında son 24 saat." + günün en çarpıcı gelişmesinden tek cümle kanca.
-2. GÜNÜN HABERLERİ (her haber ~45-60 sn, sıkı): ne oldu (1-2 cümle) → neden önemli (1 cümle) → "senin için anlamı" (1 cümle: Türk kullanıcı/üretici/girişimci perspektifinden pratik çıkarım). Bu son kısım programın imzasıdır. Lafı uzatma, her cümle bir iş görsün.
-3. GÜNÜN ARACI / İPUCU: bu kısa formatta GENELDE ATLA; yalnızca yer kalırsa tek cümlelik bir ipucu.
-4. KAPANIŞ (sabit kalıp, kısa): yarına tek cümle teaser + "Beni Instagram ve YouTube'da Future with Serdar olarak bulabilirsiniz" + "Bu bölüm, kendi geliştirdiğim yapay zekâ sistemi tarafından otomatik üretildi."
+BÖLÜM YAPISI (480-580 kelime ≈ 3-4 dakika — DOLU DOLU ama net):
+ÖNEMLİ: Hedef kelime sayısının ALTINA İNME. Her haberi gerçekten aç; 2 dakikalık
+yarım bölüm KABUL EDİLMEZ. Akıcı konuş ama 3-4 dakikayı doldur.
+1. AÇILIŞ (sabit kalıp): "Merhaba, ben Serdar. Future with Serdar'a hoş geldiniz. Bugün {tarih}, işte yapay zekâ dünyasında son 24 saat." + günün en çarpıcı gelişmesinden tek cümle kanca.
+2. GÜNÜN HABERLERİ (her haber ~50-70 sn): ne oldu (2-3 cümle) → neden önemli (1-2 cümle) → "senin için anlamı" (1-2 cümle: Türk kullanıcı/üretici/girişimci perspektifinden pratik çıkarım). Bu son kısım programın imzasıdır — kuru haber değil, yorumlu bülten. Her habere yeterince yer ver.
+3. GÜNÜN ARACI / İPUCU (~30 sn): kısa ama gerçek bir AI aracı/kullanım önerisi ekle (bölümü doldurmaya da yardımcı olur).
+4. KAPANIŞ (sabit kalıp): yarına tek cümle teaser + "Beni Instagram ve YouTube'da Future with Serdar olarak bulabilirsiniz" + "Bu bölüm, kendi geliştirdiğim yapay zekâ sistemi tarafından otomatik üretildi."
 
 KURALLAR:
 - Senaryodaki HER iddia sana verilen haber verisine dayanmalı. LLM bilginden haber uydurma.
@@ -143,7 +145,7 @@ def write_script(date_str: str) -> dict:
     # uzun girdilerde) script alanını yarıda bırakıp metadatayı tam üretiyor.
     # Hedefin %55'inin altı "kesik" sayılır; bir kez yeniden denenir, yine
     # kısaysa HATA verilir (yarım bölüm asla yayınlanmaz — CLAUDE.md kuralı).
-    min_words = max(220, int(cfg["podcast"]["target_words"][0] * 0.55))
+    min_words = max(400, int(cfg["podcast"]["target_words"][0] * 0.70))
     episode = None
     for attempt in range(1, 3):
         episode = claude_parse(

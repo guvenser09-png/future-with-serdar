@@ -2,7 +2,8 @@
 # Kaynaklar ve davranış ayarları burada tutulur (kolayca genişletilebilir).
 
 podcast:
-  target_words: [380, 480]     # bölüm uzunluğu ≈ 3-4 dk (konuşma hızı ~135 kelime/dk)
+  target_words: [480, 580]     # bölüm uzunluğu ≈ 3-4 dk (kalibrasyon: ~131 kelime/dk;
+                               # model hedefin altına düştüğü için üst sınır yüksek tutuldu)
   num_news: 3                  # seçilecek haber sayısı (kısa bölüm → 3)
   min_news: 2
   # Belirli bir haber feed'lerde görülürse skoruna bakılmaksızın bölüme
@@ -95,12 +96,9 @@ ai_keywords:
 # Kaynak listesi. ai_filter:true → yalnızca AI ile ilgili başlıklar tutulur.
 sources:
   # Resmî bloglar
-  # NOT: Anthropic artık public RSS yayınlamıyor (eski /news/rss.xml 404 veriyor).
-  # Birinci-ağız Anthropic kapsamını korumak için Google News RSS sorgusu kullanıyoruz.
-  - name: Anthropic
-    url: "https://news.google.com/rss/search?q=Anthropic%20Claude%20when:2d&hl=tr&gl=TR&ceid=TR:tr"
-    category: official
-    ai_filter: true
+  # NOT: Anthropic'e özel Google News feed'i KALDIRILDI (19→20 Haz) — havuzu
+  # Anthropic/Fable saga'sına doğru yamultuyor, her gün aynı konu seçiliyordu.
+  # Anthropic haberleri zaten TechCrunch/Verge/Ars/HN üzerinden geliyor.
   - name: OpenAI
     url: https://openai.com/news/rss.xml
     category: official

@@ -324,8 +324,10 @@ def assemble(date_str: str, episode_no: int = 1, make_short: bool = True,
         raise FileNotFoundError(f"{voice_raw} yok. Önce voice_generator çalıştırın.")
 
     data = json.loads(script_path.read_text(encoding="utf-8"))
-    # Bölüm numarasını başlığa doğru yansıt (model rastgele numara üretmiş olabilir)
-    title = re.sub(r"^B[öo]l[üu]m\s*\d+", f"Bölüm {episode_no}", data["title"])
+    # Bölüm numarasını başlığa doğru yansıt: "Bölüm[ N][:]" önekini her durumda
+    # (numarasız "Bölüm:" ya da öneksiz başlık dahil) doğru numarayla yeniden kur.
+    _t = re.sub(r"^\s*B[öo]l[üu]m\s*\d*\s*[:\-–—]?\s*", "", data["title"]).strip()
+    title = f"Bölüm {episode_no}: {_t}"
 
     nnn = f"{episode_no:03d}"
     cover = out_dir / "cover.jpg"
