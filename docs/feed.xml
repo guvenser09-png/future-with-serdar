@@ -25,7 +25,18 @@ Bu programın kendisi de bir yapay zekâ deneyi: senaryo, ses ve yayın tamamen 
       <itunes:name>Serdar</itunes:name>
       <itunes:email>guvenser09@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Fri, 19 Jun 2026 07:33:37 +0300</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 07:33:08 +0300</lastBuildDate>
+    <item>
+      <title>Bölüm: Anthropic Yasağı ve Beklenmedik Sonuçlar | 20 Haziran 2026</title>
+      <description>ABD hükümeti Anthropic'in en yeni modelleri Fable 5 ve Mythos 5'i ulusal güvenlik gerekçesiyle yasakladı. Peki bu yasak şirkete zarar mı veriyor, yoksa tersine bir tanınırlık mı kazandırıyor? Serdar, gelişmeleri Türk kullanıcılar ve geliştiriciler için masaya yatırıyor.</description>
+      <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_008.mp3" length="2072977" type="audio/mpeg"/>
+      <guid isPermaLink="false">fws-ep-8</guid>
+      <pubDate>Sat, 20 Jun 2026 08:30:00 +0300</pubDate>
+      <itunes:author>Serdar</itunes:author>
+      <itunes:duration>00:02:05</itunes:duration>
+      <itunes:episode>8</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Bölüm 7: Shazeer OpenAI'da, Yapay Zekâ Nadir Hastalık Tanısında | 19 Haziran 2026</title>
       <description>Google'ın Gemini mimarisinin kurucularından Noam Shazeer, OpenAI'a geçiyor. IPO öncesinde dev bir transfer. Öte yandan OpenAI'ın o3 modeli, yıllarca çözülememiş nadir genetik hastalık vakalarında tanı koymaya yardımcı oldu. Bugün yapay zekânın hem iş dünyasını hem tıbbı nasıl dönüştürdüğünü konuşuyoruz.</description>
