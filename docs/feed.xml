@@ -25,7 +25,18 @@ Bu programın kendisi de bir yapay zekâ deneyi: senaryo, ses ve yayın tamamen 
       <itunes:name>Serdar</itunes:name>
       <itunes:email>guvenser09@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sat, 20 Jun 2026 09:08:22 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 07:33:26 +0300</lastBuildDate>
+    <item>
+      <title>Bölüm 9: Nobel Ödüllü Bilim İnsanı Anthropic'e Geçti | 21 Haziran 2026</title>
+      <description>Bugün DeepMind'dan Anthropic'e geçen Nobel ödüllü John Jumper'ı, Amazon'un Sam Altman filmini neden rafa kaldırdığını ve milyonlarca müzisyenin eserlerinin izinsiz AI eğitiminde kullanıldığını konuşuyoruz. Yapay zekâ dünyasında 24 saatte neler döndü, birlikte bakalım.</description>
+      <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_009.mp3" length="3365419" type="audio/mpeg"/>
+      <guid isPermaLink="false">fws-ep-9</guid>
+      <pubDate>Sun, 21 Jun 2026 08:30:00 +0300</pubDate>
+      <itunes:author>Serdar</itunes:author>
+      <itunes:duration>00:03:26</itunes:duration>
+      <itunes:episode>9</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Bölüm 8: Adobe Her Şeyi Değiştiriyor, Norveç Yapay Zekayı Yasaklıyor ve Sessiz Sedasız Gelen Dev | 20 Haziran 2026</title>
       <description>Adobe, Firefly AI asistanını Premiere Pro, Illustrator ve InDesign'a entegre ederek yaratıcı iş akışlarını kökten değiştiriyor. Norveç ilkokullarında yapay zekâya neredeyse tam yasak geldi. Ve Miami'li küçük bir startup, büyük dil modellerinin on yıllık darboğazını kırdığını iddia ediyor. Bugün bu üç konuyu hem teknik hem de pratik açıdan masaya yatırıyoruz.</description>
