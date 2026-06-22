@@ -1,5 +1,14 @@
 [
   {
+    "episode_number": 10,
+    "date": "2026-06-22",
+    "title": "Bölüm 10: Samsung'dan Tarihi Hamle, iOS 27'nin Gizli Özellikleri ve Claude Kimlik Doğruluyor | 22 Haziran",
+    "description": "Samsung Electronics, tüm çalışanlarına ChatGPT Enterprise ve Codex erişimi açarak OpenAI tarihinin en büyük kurumsal dağıtımlarından birini gerçekleştirdi. Apple ise iOS 27 ile yapay zekayı öne çıkarmak yerine arka planda sessizce her uygulamaya işliyor. Anthropic'in Claude platformu ise kimlik doğrulama zorunluluğu getiriyor. Future with Serdar'da bugünün en kritik gelişmeleri, Türkiye'deki girişimci ve kullanıcılar için ne anlama geldiğiyle birlikte.",
+    "duration_sec": 202,
+    "mp3_url": "https://guvenser09-png.github.io/future-with-serdar/episodes/episode_010.mp3",
+    "mp3_bytes": 3308832
+  },
+  {
     "episode_number": 9,
     "date": "2026-06-21",
     "title": "Bölüm 9: Nobel Ödüllü Bilim İnsanı Anthropic'e Geçti | 21 Haziran 2026",

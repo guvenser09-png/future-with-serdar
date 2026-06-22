@@ -25,7 +25,18 @@ Bu programın kendisi de bir yapay zekâ deneyi: senaryo, ses ve yayın tamamen 
       <itunes:name>Serdar</itunes:name>
       <itunes:email>guvenser09@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sun, 21 Jun 2026 07:33:26 +0300</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 07:33:27 +0300</lastBuildDate>
+    <item>
+      <title>Bölüm 10: Samsung'dan Tarihi Hamle, iOS 27'nin Gizli Özellikleri ve Claude Kimlik Doğruluyor | 22 Haziran</title>
+      <description>Samsung Electronics, tüm çalışanlarına ChatGPT Enterprise ve Codex erişimi açarak OpenAI tarihinin en büyük kurumsal dağıtımlarından birini gerçekleştirdi. Apple ise iOS 27 ile yapay zekayı öne çıkarmak yerine arka planda sessizce her uygulamaya işliyor. Anthropic'in Claude platformu ise kimlik doğrulama zorunluluğu getiriyor. Future with Serdar'da bugünün en kritik gelişmeleri, Türkiye'deki girişimci ve kullanıcılar için ne anlama geldiğiyle birlikte.</description>
+      <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_010.mp3" length="3308832" type="audio/mpeg"/>
+      <guid isPermaLink="false">fws-ep-10</guid>
+      <pubDate>Mon, 22 Jun 2026 08:30:00 +0300</pubDate>
+      <itunes:author>Serdar</itunes:author>
+      <itunes:duration>00:03:22</itunes:duration>
+      <itunes:episode>10</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Bölüm 9: Nobel Ödüllü Bilim İnsanı Anthropic'e Geçti | 21 Haziran 2026</title>
       <description>Bugün DeepMind'dan Anthropic'e geçen Nobel ödüllü John Jumper'ı, Amazon'un Sam Altman filmini neden rafa kaldırdığını ve milyonlarca müzisyenin eserlerinin izinsiz AI eğitiminde kullanıldığını konuşuyoruz. Yapay zekâ dünyasında 24 saatte neler döndü, birlikte bakalım.</description>
