@@ -25,15 +25,15 @@ Bu programın kendisi de bir yapay zekâ deneyi: senaryo, ses ve yayın tamamen 
       <itunes:name>Serdar</itunes:name>
       <itunes:email>guvenser09@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Tue, 23 Jun 2026 07:34:39 +0300</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 12:58:56 +0300</lastBuildDate>
     <item>
-      <title>Bölüm 11: Yapay Zekâ Artık Kendi Kendine Çalışıyor | 23 Haziran 2026</title>
-      <description>Bugün yapay zekâ dünyasında üç kritik gelişme var: AI ajanlarının birbirini yöneteceği 'döngü' çağı başlıyor, OpenAI siber güvenliği kökten değiştirmeye hazırlanıyor ve Groq Nvidia darbesi sonrası 650 milyon dolar toplayarak yeniden sahaya çıkıyor. Future with Serdar'da bu gelişmelerin Türk kullanıcılar ve girişimciler için ne anlama geldiğini konuşuyoruz.</description>
-      <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_011.mp3" length="3638257" type="audio/mpeg"/>
+      <title>Bölüm 11: Groq'tan 650 Milyon Dolar, Vibe Coding Tehlikesi ve Google DeepMind Hollywood'da | 23 Haziran 2026</title>
+      <description>Bugün yapay zekâ çip girişimi Groq'un 650 milyon dolarlık yeni yatırım turunu, vibe coding yani yapay zekâyla kod yazdırmanın gizli güvenlik risklerini ve Google DeepMind'ın bağımsız film stüdyosu A24'e 75 milyon dolar yatırım yaparak Hollywood'a girişini konuşuyoruz. Teknolojiyi üretenler, kullananlar ve içerik yaratanlar için kritik çıkarımlar var.</description>
+      <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_011-v2.mp3" length="3726695" type="audio/mpeg"/>
       <guid isPermaLink="false">fws-ep-11</guid>
       <pubDate>Tue, 23 Jun 2026 08:30:00 +0300</pubDate>
       <itunes:author>Serdar</itunes:author>
-      <itunes:duration>00:03:43</itunes:duration>
+      <itunes:duration>00:03:41</itunes:duration>
       <itunes:episode>11</itunes:episode>
       <itunes:explicit>no</itunes:explicit>
     </item>
