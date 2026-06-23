@@ -1,5 +1,14 @@
 [
   {
+    "episode_number": 11,
+    "date": "2026-06-23",
+    "title": "Bölüm 11: Yapay Zekâ Artık Kendi Kendine Çalışıyor | 23 Haziran 2026",
+    "description": "Bugün yapay zekâ dünyasında üç kritik gelişme var: AI ajanlarının birbirini yöneteceği 'döngü' çağı başlıyor, OpenAI siber güvenliği kökten değiştirmeye hazırlanıyor ve Groq Nvidia darbesi sonrası 650 milyon dolar toplayarak yeniden sahaya çıkıyor. Future with Serdar'da bu gelişmelerin Türk kullanıcılar ve girişimciler için ne anlama geldiğini konuşuyoruz.",
+    "duration_sec": 223,
+    "mp3_url": "https://guvenser09-png.github.io/future-with-serdar/episodes/episode_011.mp3",
+    "mp3_bytes": 3638257
+  },
+  {
     "episode_number": 10,
     "date": "2026-06-22",
     "title": "Bölüm 10: Samsung'dan Tarihi Hamle, iOS 27'nin Gizli Özellikleri ve Claude Kimlik Doğruluyor | 22 Haziran",

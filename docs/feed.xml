@@ -25,7 +25,18 @@ Bu programın kendisi de bir yapay zekâ deneyi: senaryo, ses ve yayın tamamen 
       <itunes:name>Serdar</itunes:name>
       <itunes:email>guvenser09@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 22 Jun 2026 07:33:27 +0300</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 07:34:39 +0300</lastBuildDate>
+    <item>
+      <title>Bölüm 11: Yapay Zekâ Artık Kendi Kendine Çalışıyor | 23 Haziran 2026</title>
+      <description>Bugün yapay zekâ dünyasında üç kritik gelişme var: AI ajanlarının birbirini yöneteceği 'döngü' çağı başlıyor, OpenAI siber güvenliği kökten değiştirmeye hazırlanıyor ve Groq Nvidia darbesi sonrası 650 milyon dolar toplayarak yeniden sahaya çıkıyor. Future with Serdar'da bu gelişmelerin Türk kullanıcılar ve girişimciler için ne anlama geldiğini konuşuyoruz.</description>
+      <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_011.mp3" length="3638257" type="audio/mpeg"/>
+      <guid isPermaLink="false">fws-ep-11</guid>
+      <pubDate>Tue, 23 Jun 2026 08:30:00 +0300</pubDate>
+      <itunes:author>Serdar</itunes:author>
+      <itunes:duration>00:03:43</itunes:duration>
+      <itunes:episode>11</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Bölüm 10: Samsung'dan Tarihi Hamle, iOS 27'nin Gizli Özellikleri ve Claude Kimlik Doğruluyor | 22 Haziran</title>
       <description>Samsung Electronics, tüm çalışanlarına ChatGPT Enterprise ve Codex erişimi açarak OpenAI tarihinin en büyük kurumsal dağıtımlarından birini gerçekleştirdi. Apple ise iOS 27 ile yapay zekayı öne çıkarmak yerine arka planda sessizce her uygulamaya işliyor. Anthropic'in Claude platformu ise kimlik doğrulama zorunluluğu getiriyor. Future with Serdar'da bugünün en kritik gelişmeleri, Türkiye'deki girişimci ve kullanıcılar için ne anlama geldiğiyle birlikte.</description>
