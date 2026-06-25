@@ -1,5 +1,14 @@
 [
   {
+    "episode_number": 13,
+    "date": "2026-06-25",
+    "title": "Bölüm 13: OpenAI'nın Kendi Çipi, Gemini'nin Bilgisayar Kontrolü ve Alibaba Skandalı | 25 Haziran",
+    "description": "OpenAI, Broadcom iş birliğiyle geliştirdiği ilk özel yapay zekâ çipini duyurdu. Google'ın Gemini 3.5 Flash modeli artık bilgisayarları doğrudan kontrol edebiliyor. Ve Anthropic, Alibaba'yı Claude modelinin yeteneklerini izinsiz kopyalamakla suçluyor. Bugün yapay zekâ dünyasından üç kritik gelişmeyi masaya yatırıyoruz.",
+    "duration_sec": 209,
+    "mp3_url": "https://guvenser09-png.github.io/future-with-serdar/episodes/episode_013.mp3",
+    "mp3_bytes": 3411691
+  },
+  {
     "episode_number": 12,
     "date": "2026-06-24",
     "title": "Bölüm 12: GPT-5 ile 3 Yıllık Bilim Muamması Çözüldü | 24 Haziran 2026",

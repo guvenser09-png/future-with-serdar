@@ -25,7 +25,18 @@ Bu programın kendisi de bir yapay zekâ deneyi: senaryo, ses ve yayın tamamen 
       <itunes:name>Serdar</itunes:name>
       <itunes:email>guvenser09@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Wed, 24 Jun 2026 07:34:28 +0300</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 07:34:40 +0300</lastBuildDate>
+    <item>
+      <title>Bölüm 13: OpenAI'nın Kendi Çipi, Gemini'nin Bilgisayar Kontrolü ve Alibaba Skandalı | 25 Haziran</title>
+      <description>OpenAI, Broadcom iş birliğiyle geliştirdiği ilk özel yapay zekâ çipini duyurdu. Google'ın Gemini 3.5 Flash modeli artık bilgisayarları doğrudan kontrol edebiliyor. Ve Anthropic, Alibaba'yı Claude modelinin yeteneklerini izinsiz kopyalamakla suçluyor. Bugün yapay zekâ dünyasından üç kritik gelişmeyi masaya yatırıyoruz.</description>
+      <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_013.mp3" length="3411691" type="audio/mpeg"/>
+      <guid isPermaLink="false">fws-ep-13</guid>
+      <pubDate>Thu, 25 Jun 2026 08:30:00 +0300</pubDate>
+      <itunes:author>Serdar</itunes:author>
+      <itunes:duration>00:03:29</itunes:duration>
+      <itunes:episode>13</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Bölüm 12: GPT-5 ile 3 Yıllık Bilim Muamması Çözüldü | 24 Haziran 2026</title>
       <description>Bugün üç büyük gelişmeyi konuşuyoruz: GPT-5 Pro'nun bir immünolog ile birlikte 3 yıllık bir bilimsel sırrı çözmesi, SpaceX'in Reflection AI ile imzaladığı 6,3 milyar dolarlık dev hesaplama gücü anlaşması ve A24 ile Google'ın Hollywood'a yapay zekâ getiren 75 milyon dolarlık iş birliği. Yapay zekânın bilimden sanata uzanan etkisi her geçen gün daha somut hale geliyor.</description>
