@@ -175,7 +175,7 @@ def dedup(cands: list[Candidate], threshold: float) -> list[Candidate]:
 # --------------------------------------------------------------------------- #
 # Puanlama (Claude)
 # --------------------------------------------------------------------------- #
-SCORING_SYSTEM = """Sen "Future with Serdar" adlı Türkçe günlük yapay zekâ podcast'inin haber editörüsün.
+SCORING_SYSTEM = """Sen "Future with Serdar" adlı Türkçe günlük yapay zeka podcast'inin haber editörüsün.
 Sana ham haber başlıkları ve özetleri verilecek. Her birine 0-100 arası bir ÖNEM SKORU ver.
 
 Skorlama kriterleri:

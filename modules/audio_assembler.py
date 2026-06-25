@@ -135,7 +135,7 @@ def make_background(title: str, episode_no: int, date_str: str,
     # Alt bilgi (ses dalgasına yer bırak)
     foot_f = _font(FONT_REG, int(30 * scale))
     draw.text((int(92 * scale), h - int(90 * scale)),
-              "Yapay zekâ tarafından üretildi · günlük AI bülteni",
+              "Yapay zeka tarafından üretildi · günlük AI bülteni",
               font=foot_f, fill=MUTED)
 
     img.save(out_path, quality=92)
@@ -194,7 +194,7 @@ def make_show_cover(out_path: Path, subtitle: str = "") -> None:
 
     # En alt imza
     ff = _font(FONT_REG, 52)
-    draw.text((margin, s - 220), "Günlük AI bülteni · yapay zekâ üretimi",
+    draw.text((margin, s - 220), "Günlük AI bülteni · yapay zeka üretimi",
               font=ff, fill=MUTED)
 
     img.convert("RGB").save(out_path, "JPEG", quality=90)

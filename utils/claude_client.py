@@ -1,6 +1,6 @@
 """Anthropic Claude API sarmalayıcı.
 
-- Resmî `anthropic` SDK'sını kullanır.
+- Resmi `anthropic` SDK'sını kullanır.
 - Yapılandırılmış çıktı için `messages.parse()` + Pydantic (Sonnet 4.6 destekler).
 - Token kullanımını loglar (CLAUDE.md: maliyet logu).
 """

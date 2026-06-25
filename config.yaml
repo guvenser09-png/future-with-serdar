@@ -20,7 +20,7 @@ podcast_meta:
   email: guvenser09@gmail.com   # iTunes owner e-postası (Apple/Spotify zorunlu)
   category: Technology          # iTunes ana kategori
   link: https://www.youtube.com/@futurewithserdar  # kanal/web sitesi (placeholder)
-  subtitle: "Her sabah, yapay zekânın son 24 saati — Türkçe."
+  subtitle: "Her sabah, yapay zekanın son 24 saati — Türkçe."
   keywords:
     - yapay zeka
     - yapay zeka haberleri
@@ -33,7 +33,7 @@ podcast_meta:
     - Türkçe podcast
     - teknoloji haberleri
   description: >-
-    Future with Serdar, her sabah yapay zekâ dünyasının son 24 saatini Türkçe
+    Future with Serdar, her sabah yapay zeka dünyasının son 24 saatini Türkçe
     olarak özetleyen günlük bir bülten. Küresel AI gündeminden en önemli 3-4
     gelişmeyi seçip; ne olduğunu, neden önemli olduğunu ve en önemlisi "senin
     için ne anlama geldiğini" sade, pratik bir dille anlatıyoruz. Model
@@ -41,7 +41,7 @@ podcast_meta:
     6-8 dakikada, kahveni içerken.
 
 
-    Bu programın kendisi de bir yapay zekâ deneyi: senaryo, ses ve yayın
+    Bu programın kendisi de bir yapay zeka deneyi: senaryo, ses ve yayın
     tamamen otomatik üretiliyor. Yani dinlediğin bülten, anlattığı teknolojinin
     canlı kanıtı. Yeni bölüm her gün sabah yayında — geleceği bugünden dinle.
   explicit: false
@@ -95,7 +95,7 @@ ai_keywords:
 
 # Kaynak listesi. ai_filter:true → yalnızca AI ile ilgili başlıklar tutulur.
 sources:
-  # Resmî bloglar
+  # Resmi bloglar
   # NOT: Anthropic'e özel Google News feed'i KALDIRILDI (19→20 Haz) — havuzu
   # Anthropic/Fable saga'sına doğru yamultuyor, her gün aynı konu seçiliyordu.
   # Anthropic haberleri zaten TechCrunch/Verge/Ars/HN üzerinden geliyor.
