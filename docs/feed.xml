@@ -8,31 +8,31 @@
     <link>https://www.youtube.com/@futurewithserdar</link>
     <atom:link href="https://guvenser09-png.github.io/future-with-serdar/feed.xml" rel="self" type="application/rss+xml"/>
     <language>tr</language>
-    <description>Future with Serdar, her sabah yapay zekâ dünyasının son 24 saatini Türkçe olarak özetleyen günlük bir bülten. Küresel AI gündeminden en önemli 3-4 gelişmeyi seçip; ne olduğunu, neden önemli olduğunu ve en önemlisi "senin için ne anlama geldiğini" sade, pratik bir dille anlatıyoruz. Model lansmanları, yeni araçlar, yatırımlar ve Türkiye'den AI haberleri — hepsi 6-8 dakikada, kahveni içerken.
+    <description>Future with Serdar, her sabah yapay zeka dünyasının son 24 saatini Türkçe olarak özetleyen günlük bir bülten. Küresel AI gündeminden en önemli 3-4 gelişmeyi seçip; ne olduğunu, neden önemli olduğunu ve en önemlisi "senin için ne anlama geldiğini" sade, pratik bir dille anlatıyoruz. Model lansmanları, yeni araçlar, yatırımlar ve Türkiye'den AI haberleri — hepsi 6-8 dakikada, kahveni içerken.
 
-Bu programın kendisi de bir yapay zekâ deneyi: senaryo, ses ve yayın tamamen otomatik üretiliyor. Yani dinlediğin bülten, anlattığı teknolojinin canlı kanıtı. Yeni bölüm her gün sabah yayında — geleceği bugünden dinle.</description>
-    <itunes:author>Serdar</itunes:author>
-    <itunes:subtitle>Her sabah, yapay zekânın son 24 saati — Türkçe.</itunes:subtitle>
-    <itunes:summary>Future with Serdar, her sabah yapay zekâ dünyasının son 24 saatini Türkçe olarak özetleyen günlük bir bülten. Küresel AI gündeminden en önemli 3-4 gelişmeyi seçip; ne olduğunu, neden önemli olduğunu ve en önemlisi "senin için ne anlama geldiğini" sade, pratik bir dille anlatıyoruz. Model lansmanları, yeni araçlar, yatırımlar ve Türkiye'den AI haberleri — hepsi 6-8 dakikada, kahveni içerken.
+Bu programın kendisi de bir yapay zeka deneyi: senaryo, ses ve yayın tamamen otomatik üretiliyor. Yani dinlediğin bülten, anlattığı teknolojinin canlı kanıtı. Yeni bölüm her gün sabah yayında — geleceği bugünden dinle.</description>
+    <itunes:author>Serdar Güven</itunes:author>
+    <itunes:subtitle>Her sabah, yapay zekanın son 24 saati — Türkçe.</itunes:subtitle>
+    <itunes:summary>Future with Serdar, her sabah yapay zeka dünyasının son 24 saatini Türkçe olarak özetleyen günlük bir bülten. Küresel AI gündeminden en önemli 3-4 gelişmeyi seçip; ne olduğunu, neden önemli olduğunu ve en önemlisi "senin için ne anlama geldiğini" sade, pratik bir dille anlatıyoruz. Model lansmanları, yeni araçlar, yatırımlar ve Türkiye'den AI haberleri — hepsi 6-8 dakikada, kahveni içerken.
 
-Bu programın kendisi de bir yapay zekâ deneyi: senaryo, ses ve yayın tamamen otomatik üretiliyor. Yani dinlediğin bülten, anlattığı teknolojinin canlı kanıtı. Yeni bölüm her gün sabah yayında — geleceği bugünden dinle.</itunes:summary>
+Bu programın kendisi de bir yapay zeka deneyi: senaryo, ses ve yayın tamamen otomatik üretiliyor. Yani dinlediğin bülten, anlattığı teknolojinin canlı kanıtı. Yeni bölüm her gün sabah yayında — geleceği bugünden dinle.</itunes:summary>
     <itunes:keywords>yapay zeka,yapay zeka haberleri,AI,teknoloji,ChatGPT,Claude,üretken yapay zeka,günlük bülten,Türkçe podcast,teknoloji haberleri</itunes:keywords>
     <itunes:type>episodic</itunes:type>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="https://guvenser09-png.github.io/future-with-serdar/cover-v2.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:owner>
-      <itunes:name>Serdar</itunes:name>
+      <itunes:name>Serdar Güven</itunes:name>
       <itunes:email>guvenser09@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 25 Jun 2026 07:34:40 +0300</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 15:14:35 +0300</lastBuildDate>
     <item>
       <title>Bölüm 13: OpenAI'nın Kendi Çipi, Gemini'nin Bilgisayar Kontrolü ve Alibaba Skandalı | 25 Haziran</title>
       <description>OpenAI, Broadcom iş birliğiyle geliştirdiği ilk özel yapay zekâ çipini duyurdu. Google'ın Gemini 3.5 Flash modeli artık bilgisayarları doğrudan kontrol edebiliyor. Ve Anthropic, Alibaba'yı Claude modelinin yeteneklerini izinsiz kopyalamakla suçluyor. Bugün yapay zekâ dünyasından üç kritik gelişmeyi masaya yatırıyoruz.</description>
       <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_013.mp3" length="3411691" type="audio/mpeg"/>
       <guid isPermaLink="false">fws-ep-13</guid>
       <pubDate>Thu, 25 Jun 2026 08:30:00 +0300</pubDate>
-      <itunes:author>Serdar</itunes:author>
+      <itunes:author>Serdar Güven</itunes:author>
       <itunes:duration>00:03:29</itunes:duration>
       <itunes:episode>13</itunes:episode>
       <itunes:explicit>no</itunes:explicit>
@@ -43,7 +43,7 @@ Bu programın kendisi de bir yapay zekâ deneyi: senaryo, ses ve yayın tamamen 
       <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_012.mp3" length="3902485" type="audio/mpeg"/>
       <guid isPermaLink="false">fws-ep-12</guid>
       <pubDate>Wed, 24 Jun 2026 08:30:00 +0300</pubDate>
-      <itunes:author>Serdar</itunes:author>
+      <itunes:author>Serdar Güven</itunes:author>
       <itunes:duration>00:04:00</itunes:duration>
       <itunes:episode>12</itunes:episode>
       <itunes:explicit>no</itunes:explicit>
@@ -54,7 +54,7 @@ Bu programın kendisi de bir yapay zekâ deneyi: senaryo, ses ve yayın tamamen 
       <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_011-v2.mp3" length="3726695" type="audio/mpeg"/>
       <guid isPermaLink="false">fws-ep-11</guid>
       <pubDate>Tue, 23 Jun 2026 08:30:00 +0300</pubDate>
-      <itunes:author>Serdar</itunes:author>
+      <itunes:author>Serdar Güven</itunes:author>
       <itunes:duration>00:03:41</itunes:duration>
       <itunes:episode>11</itunes:episode>
       <itunes:explicit>no</itunes:explicit>
@@ -65,7 +65,7 @@ Bu programın kendisi de bir yapay zekâ deneyi: senaryo, ses ve yayın tamamen 
       <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_010.mp3" length="3308832" type="audio/mpeg"/>
       <guid isPermaLink="false">fws-ep-10</guid>
       <pubDate>Mon, 22 Jun 2026 08:30:00 +0300</pubDate>
-      <itunes:author>Serdar</itunes:author>
+      <itunes:author>Serdar Güven</itunes:author>
       <itunes:duration>00:03:22</itunes:duration>
       <itunes:episode>10</itunes:episode>
       <itunes:explicit>no</itunes:explicit>
@@ -76,7 +76,7 @@ Bu programın kendisi de bir yapay zekâ deneyi: senaryo, ses ve yayın tamamen 
       <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_009.mp3" length="3365419" type="audio/mpeg"/>
       <guid isPermaLink="false">fws-ep-9</guid>
       <pubDate>Sun, 21 Jun 2026 08:30:00 +0300</pubDate>
-      <itunes:author>Serdar</itunes:author>
+      <itunes:author>Serdar Güven</itunes:author>
       <itunes:duration>00:03:26</itunes:duration>
       <itunes:episode>9</itunes:episode>
       <itunes:explicit>no</itunes:explicit>
@@ -87,7 +87,7 @@ Bu programın kendisi de bir yapay zekâ deneyi: senaryo, ses ve yayın tamamen 
       <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_008-v2.mp3" length="3909770" type="audio/mpeg"/>
       <guid isPermaLink="false">fws-ep-8</guid>
       <pubDate>Sat, 20 Jun 2026 08:30:00 +0300</pubDate>
-      <itunes:author>Serdar</itunes:author>
+      <itunes:author>Serdar Güven</itunes:author>
       <itunes:duration>00:03:52</itunes:duration>
       <itunes:episode>8</itunes:episode>
       <itunes:explicit>no</itunes:explicit>
@@ -98,7 +98,7 @@ Bu programın kendisi de bir yapay zekâ deneyi: senaryo, ses ve yayın tamamen 
       <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_007.mp3" length="2697355" type="audio/mpeg"/>
       <guid isPermaLink="false">fws-ep-7</guid>
       <pubDate>Fri, 19 Jun 2026 08:30:00 +0300</pubDate>
-      <itunes:author>Serdar</itunes:author>
+      <itunes:author>Serdar Güven</itunes:author>
       <itunes:duration>00:02:44</itunes:duration>
       <itunes:episode>7</itunes:episode>
       <itunes:explicit>no</itunes:explicit>
@@ -109,7 +109,7 @@ Bu programın kendisi de bir yapay zekâ deneyi: senaryo, ses ve yayın tamamen 
       <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_006.mp3" length="7177739" type="audio/mpeg"/>
       <guid isPermaLink="false">fws-ep-6</guid>
       <pubDate>Thu, 18 Jun 2026 08:30:00 +0300</pubDate>
-      <itunes:author>Serdar</itunes:author>
+      <itunes:author>Serdar Güven</itunes:author>
       <itunes:duration>00:07:24</itunes:duration>
       <itunes:episode>6</itunes:episode>
       <itunes:explicit>no</itunes:explicit>
@@ -120,7 +120,7 @@ Bu programın kendisi de bir yapay zekâ deneyi: senaryo, ses ve yayın tamamen 
       <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_005-v3.mp3" length="6176821" type="audio/mpeg"/>
       <guid isPermaLink="false">fws-ep-5</guid>
       <pubDate>Wed, 17 Jun 2026 08:30:00 +0300</pubDate>
-      <itunes:author>Serdar</itunes:author>
+      <itunes:author>Serdar Güven</itunes:author>
       <itunes:duration>00:06:16</itunes:duration>
       <itunes:episode>5</itunes:episode>
       <itunes:explicit>no</itunes:explicit>
@@ -131,7 +131,7 @@ Bu programın kendisi de bir yapay zekâ deneyi: senaryo, ses ve yayın tamamen 
       <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_004-v3.mp3" length="5986012" type="audio/mpeg"/>
       <guid isPermaLink="false">fws-ep-4</guid>
       <pubDate>Tue, 16 Jun 2026 08:30:00 +0300</pubDate>
-      <itunes:author>Serdar</itunes:author>
+      <itunes:author>Serdar Güven</itunes:author>
       <itunes:duration>00:06:04</itunes:duration>
       <itunes:episode>4</itunes:episode>
       <itunes:explicit>no</itunes:explicit>
@@ -142,7 +142,7 @@ Bu programın kendisi de bir yapay zekâ deneyi: senaryo, ses ve yayın tamamen 
       <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_003-v2.mp3" length="5743924" type="audio/mpeg"/>
       <guid isPermaLink="false">fws-ep-3</guid>
       <pubDate>Mon, 15 Jun 2026 08:30:00 +0300</pubDate>
-      <itunes:author>Serdar</itunes:author>
+      <itunes:author>Serdar Güven</itunes:author>
       <itunes:duration>00:05:47</itunes:duration>
       <itunes:episode>3</itunes:episode>
       <itunes:explicit>no</itunes:explicit>
@@ -153,7 +153,7 @@ Bu programın kendisi de bir yapay zekâ deneyi: senaryo, ses ve yayın tamamen 
       <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_002.mp3" length="5077159" type="audio/mpeg"/>
       <guid isPermaLink="false">fws-ep-2</guid>
       <pubDate>Sun, 14 Jun 2026 08:30:00 +0300</pubDate>
-      <itunes:author>Serdar</itunes:author>
+      <itunes:author>Serdar Güven</itunes:author>
       <itunes:duration>00:05:13</itunes:duration>
       <itunes:episode>2</itunes:episode>
       <itunes:explicit>no</itunes:explicit>
@@ -164,7 +164,7 @@ Bu programın kendisi de bir yapay zekâ deneyi: senaryo, ses ve yayın tamamen 
       <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_001.mp3" length="5263744" type="audio/mpeg"/>
       <guid isPermaLink="false">fws-ep-1</guid>
       <pubDate>Fri, 12 Jun 2026 08:30:00 +0300</pubDate>
-      <itunes:author>Serdar</itunes:author>
+      <itunes:author>Serdar Güven</itunes:author>
       <itunes:duration>00:05:17</itunes:duration>
       <itunes:episode>1</itunes:episode>
       <itunes:explicit>no</itunes:explicit>
