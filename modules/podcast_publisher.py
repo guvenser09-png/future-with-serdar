@@ -102,7 +102,7 @@ def publish_podcast(date_str: str, episode_no: int = 1) -> dict:
     cfg = load_config()
     meta = cfg.get("podcast_meta", {})
     brand = get_env("PODCAST_TITLE", "Future with Serdar")
-    author = get_env("PODCAST_AUTHOR", "Serdar")
+    author = get_env("PODCAST_AUTHOR", "Serdar Güven")
 
     if not storage.configured():
         raise RuntimeError(
@@ -198,7 +198,7 @@ def refresh_feed() -> dict:
     cfg = load_config()
     meta = cfg.get("podcast_meta", {})
     brand = get_env("PODCAST_TITLE", "Future with Serdar")
-    author = get_env("PODCAST_AUTHOR", "Serdar")
+    author = get_env("PODCAST_AUTHOR", "Serdar Güven")
     if not storage.configured():
         raise RuntimeError("GitHub Pages ayarlı değil (.env: PAGES_BASE_URL vb.).")
 

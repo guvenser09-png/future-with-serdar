@@ -40,7 +40,7 @@ FONT_BOLD = "/System/Library/Fonts/Supplemental/Arial Bold.ttf"
 FONT_REG = "/System/Library/Fonts/Supplemental/Arial.ttf"
 
 BRAND = get_env("PODCAST_TITLE", "Future with Serdar")
-AUTHOR = get_env("PODCAST_AUTHOR", "Serdar")
+AUTHOR = get_env("PODCAST_AUTHOR", "Serdar Güven")
 
 TR_MONTHS = ["", "Ocak", "Şubat", "Mart", "Nisan", "Mayıs", "Haziran",
              "Temmuz", "Ağustos", "Eylül", "Ekim", "Kasım", "Aralık"]

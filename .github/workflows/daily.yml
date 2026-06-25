@@ -40,7 +40,7 @@ jobs:
       GITHUB_REPO: ${{ github.event.repository.name }}
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       PODCAST_TITLE: Future with Serdar
-      PODCAST_AUTHOR: Serdar
+      PODCAST_AUTHOR: Serdar Güven
 
     steps:
       - name: Repo'yu çek
