@@ -25,7 +25,18 @@ Bu programın kendisi de bir yapay zeka deneyi: senaryo, ses ve yayın tamamen o
       <itunes:name>Serdar Güven</itunes:name>
       <itunes:email>guvenser09@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 25 Jun 2026 15:14:35 +0300</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 07:33:54 +0300</lastBuildDate>
+    <item>
+      <title>Bölüm 14: GPT 5.6'ya Beyaz Saray Freni, Meta'nın Veri Skandali ve Adobe'nin Yeni Hamlesi | 26 Haziran</title>
+      <description>Bugün Beyaz Saray'ın OpenAI'a GPT 5.6 için neden yavaşla dediğini, Meta'nın kendi çalışanlarından veri toplayıp nasıl kriz yarattığını ve Adobe'nin Topaz Labs satın alımının yaratıcılar için ne anlama geldiğini konuşuyoruz. Günlük yapay zeka bülteni, yorumlu ve pratik bir dille her gün yayında.</description>
+      <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_014.mp3" length="3405271" type="audio/mpeg"/>
+      <guid isPermaLink="false">fws-ep-14</guid>
+      <pubDate>Fri, 26 Jun 2026 08:30:00 +0300</pubDate>
+      <itunes:author>Serdar Güven</itunes:author>
+      <itunes:duration>00:03:29</itunes:duration>
+      <itunes:episode>14</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Bölüm 13: OpenAI'nın Kendi Çipi, Gemini'nin Bilgisayar Kontrolü ve Alibaba Skandalı | 25 Haziran</title>
       <description>OpenAI, Broadcom iş birliğiyle geliştirdiği ilk özel yapay zekâ çipini duyurdu. Google'ın Gemini 3.5 Flash modeli artık bilgisayarları doğrudan kontrol edebiliyor. Ve Anthropic, Alibaba'yı Claude modelinin yeteneklerini izinsiz kopyalamakla suçluyor. Bugün yapay zekâ dünyasından üç kritik gelişmeyi masaya yatırıyoruz.</description>
