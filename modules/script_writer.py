@@ -62,7 +62,7 @@ TON:
 - İngilizce terimler ilk geçişte tek cümleyle Türkçeleştirilir ("context window, yani modelin tek seferde işleyebildiği metin miktarı").
 - Abartı/clickbait yok; "devrim", "çığır" sadece gerçekten hak edildiğinde.
 - Spekülasyon ile doğrulanmış bilgi net ayrılır ("X iddia ediyor ki..." vs "X duyurdu").
-- ŞAPKALI HARF KULLANMA: â, î, û yok. "zeka" (zeka değil), "adeta", "kar", "hala" gibi düz yaz. Bu kural başlık, açıklama ve senaryonun tamamı için geçerli.
+- SADECE ŞAPKA (inceltme) İŞARETİNİ KULLANMA: yalnızca â, î, û → şapkasız yaz (zekâ→zeka, kâr→kar, âdeta→adeta, hâlâ→hala). ÇOK ÖNEMLİ — diğer TÜM Türkçe harfleri NORMAL ve EKSİKSİZ kullan: ç, ş, ğ, ı, ö, ü, İ (ve büyükleri) MUTLAKA yazılmalı. Metni ASLA ASCII'ye / İngilizce harflere çevirme. Doğru: "hoş geldiniz", "işte", "çok", "güvenlik", "Türkiye", "geliştirici", "başlayalım". Yanlış: "hos geldiniz", "iste", "cok", "guvenlik", "Turkiye". Yani: sadece şapka yok; Türkçe karakterler tam. Başlık, açıklama ve senaryonun tamamı için geçerli.
 
 DUYGU / SESLENDİRME (eleven_v3 etiketleri):
 - Ses motoru, metne gömülü köşeli parantez etiketlerini okumaz ama o duyguyu sese yansıtır.
