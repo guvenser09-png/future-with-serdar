@@ -53,10 +53,13 @@ model:
 voice:
   model: eleven_v3             # en doğal/expressive (A/B testte seçildi)
   output_format: mp3_44100_128
-  settings:                    # 19 Haz: daha duygulu teslimat için (A/B/C testi)
-    stability: 0.3             # düşük = daha ifadeli/duygulu (Creative'e yakın)
+  settings:                    # 27 Haz: Türkçe fonetiği için geri alındı.
+    # stability 0.3 + style 0.35 (19 Haz denemesi) eleven_v3'ü Türkçe karakterleri
+    # yutup İngilizce aksanıyla okumaya itiyordu (Bölüm 12-13 bozuldu). Duygu artık
+    # senaryodaki [excited]/[thoughtful] etiketlerinden geliyor; style 0 = temiz Türkçe.
+    stability: 0.5             # Natural — Türkçe'yi sadık okur
     similarity_boost: 0.75
-    style: 0.35                # ifadeyi abartmadan canlandırır
+    style: 0.0                 # 0 = dil sadakati yüksek (yüksek style aksanı bozuyor)
 
 collector:
   hours_lookback: 24
