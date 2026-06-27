@@ -25,15 +25,15 @@ Bu programın kendisi de bir yapay zeka deneyi: senaryo, ses ve yayın tamamen o
       <itunes:name>Serdar Güven</itunes:name>
       <itunes:email>guvenser09@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sat, 27 Jun 2026 10:27:30 +0300</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 12:21:02 +0300</lastBuildDate>
     <item>
-      <title>Bölüm 15: Yerli Zaferler ve Küresel Kriz | 27 Haziran 2026</title>
-      <description>Bugün yapay zeka dünyasından iki yerli başarı ve küresel çaplı bir politika krizi var. Türk geliştirici Alican Kiraz'ın siber güvenlik modeli dünyada açık kaynaklılar arasında birinci oldu. Yerli hukuk asistanı Jupytr avukatlara yönelik hizmetini duyurdu. Anthropic'in Mythos 5 modeli ise ABD hükümetiyle yaşanan iki haftalık krizin ardından sınırlı erişimle geri döndü. Future with Serdar'da yorumlu bülten geleneğiyle bugünün gelişmelerini masaya yatırıyoruz.</description>
-      <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_015-v2.mp3" length="3736426" type="audio/mpeg"/>
+      <title>Bölüm 15: Haziran: Türk Geliştirici Dünya 1.'si, Anthropic'in Mythos 5 Krizi ve Yerli Hukuk Asistanı</title>
+      <description>27 Haziran'da yapay zeka dünyasında üç çarpıcı gelişme: Türk geliştirici Alican Kiraz'ın siber güvenlik modeli açık kaynaklılar arasında dünya birincisi oldu. Anthropic'in Mythos 5 modeli Trump yönetimiyle iki haftalık müzakerenin ardından sınırlı kullanıma geri döndü. Bir de Türkiye'den avukatlara yönelik yerli yapay zeka asistanı Jupytr sahneye çıktı. Yorumlu, pratik, dürüst — Future with Serdar.</description>
+      <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_015-v3.mp3" length="3509552" type="audio/mpeg"/>
       <guid isPermaLink="false">fws-ep-15</guid>
       <pubDate>Sat, 27 Jun 2026 08:30:00 +0300</pubDate>
       <itunes:author>Serdar Güven</itunes:author>
-      <itunes:duration>00:03:44</itunes:duration>
+      <itunes:duration>00:03:28</itunes:duration>
       <itunes:episode>15</itunes:episode>
       <itunes:explicit>no</itunes:explicit>
     </item>
