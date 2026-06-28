@@ -1,5 +1,14 @@
 [
   {
+    "episode_number": 16,
+    "date": "2026-06-28",
+    "title": "Bölüm 16: Apple kara listeden çip istiyor, yapay zeka hayat kurtarıyor | 28 Haziran 2026",
+    "description": "Bugün Apple'ın Pentagon kara listesindeki bir Çinli çip üreticisiyle anlaşmak için Trump yönetiminden izin istediğini konuşuyoruz. Ayrıca 35 yaşında kanser teşhisi alan bir girişimcinin Claude ile nasıl yanlış tedaviden kurtulduğunu dinleyeceksiniz. DeepSeek'in LLM hızlandırma kağıdı DSpark da gündemdeydi. Yapay zekanın gerçek hayatta ne işe yaradığını merak ediyorsanız bu bölüm tam size göre.",
+    "duration_sec": 247,
+    "mp3_url": "https://guvenser09-png.github.io/future-with-serdar/episodes/episode_016.mp3",
+    "mp3_bytes": 4021516
+  },
+  {
     "episode_number": 15,
     "date": "2026-06-27",
     "title": "Bölüm 15: Türk Geliştirici Dünya 1.'si, Anthropic'in Mythos 5 Krizi ve Yerli Hukuk Asistanı",
