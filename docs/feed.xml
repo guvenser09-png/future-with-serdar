@@ -25,7 +25,18 @@ Bu programın kendisi de bir yapay zeka deneyi: senaryo, ses ve yayın tamamen o
       <itunes:name>Serdar Güven</itunes:name>
       <itunes:email>guvenser09@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sun, 28 Jun 2026 07:33:37 +0300</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 07:33:32 +0300</lastBuildDate>
+    <item>
+      <title>Bölüm 17: ChatGPT Mahkemede, Üniversitede Hile Skandalı ve Ford'un Sürprizi | 29 Haziran 2026</title>
+      <description>Bugün çok farklı üç haberle karşınızdayız: ChatGPT konuşma kayıtları ilk kez bir ağır ceza davasında delil olarak kullanıldı, Brown Üniversitesi tarihinin en büyük yapay zeka hile skandalıyla sarsıldı ve Ford, yapay zekanın yetersiz kaldığı yerde deneyimli mühendislere geri döndü. Üç haber de yapay zekanın gerçek dünyayla çarpışma anlarını gözler önüne seriyor.</description>
+      <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_017.mp3" length="3566118" type="audio/mpeg"/>
+      <guid isPermaLink="false">fws-ep-17</guid>
+      <pubDate>Mon, 29 Jun 2026 08:30:00 +0300</pubDate>
+      <itunes:author>Serdar Güven</itunes:author>
+      <itunes:duration>00:03:39</itunes:duration>
+      <itunes:episode>17</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Bölüm 16: Apple kara listeden çip istiyor, yapay zeka hayat kurtarıyor | 28 Haziran 2026</title>
       <description>Bugün Apple'ın Pentagon kara listesindeki bir Çinli çip üreticisiyle anlaşmak için Trump yönetiminden izin istediğini konuşuyoruz. Ayrıca 35 yaşında kanser teşhisi alan bir girişimcinin Claude ile nasıl yanlış tedaviden kurtulduğunu dinleyeceksiniz. DeepSeek'in LLM hızlandırma kağıdı DSpark da gündemdeydi. Yapay zekanın gerçek hayatta ne işe yaradığını merak ediyorsanız bu bölüm tam size göre.</description>
