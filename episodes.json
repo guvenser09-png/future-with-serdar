@@ -1,5 +1,14 @@
 [
   {
+    "episode_number": 19,
+    "date": "2026-07-01",
+    "title": "Bölüm 19: Claude Sonnet 5 ve Gizli İşaret Skandalı | 1 Temmuz 2026",
+    "description": "Anthropic'in yeni modeli Claude Sonnet 5, ajanlık yeteneklerini orta sınıf fiyatına sunuyor. Peki Claude Code, kullanıcıların isteklerine neden gizli işaretler ekliyor? Bugün hem büyük bir lansman hem de tüyleri diken diken eden bir güvenlik tartışması var.",
+    "duration_sec": 174,
+    "mp3_url": "https://guvenser09-png.github.io/future-with-serdar/episodes/episode_019.mp3",
+    "mp3_bytes": 2854913
+  },
+  {
     "episode_number": 18,
     "date": "2026-06-30",
     "title": "Bölüm 18: Yapay Zeka İş mi Yaratıyor, İş mi Yiyor? | 30 Haziran 2026",

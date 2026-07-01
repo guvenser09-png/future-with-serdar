@@ -25,7 +25,18 @@ Bu programın kendisi de bir yapay zeka deneyi: senaryo, ses ve yayın tamamen o
       <itunes:name>Serdar Güven</itunes:name>
       <itunes:email>guvenser09@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Tue, 30 Jun 2026 07:35:00 +0300</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 07:34:32 +0300</lastBuildDate>
+    <item>
+      <title>Bölüm 19: Claude Sonnet 5 ve Gizli İşaret Skandalı | 1 Temmuz 2026</title>
+      <description>Anthropic'in yeni modeli Claude Sonnet 5, ajanlık yeteneklerini orta sınıf fiyatına sunuyor. Peki Claude Code, kullanıcıların isteklerine neden gizli işaretler ekliyor? Bugün hem büyük bir lansman hem de tüyleri diken diken eden bir güvenlik tartışması var.</description>
+      <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_019.mp3" length="2854913" type="audio/mpeg"/>
+      <guid isPermaLink="false">fws-ep-19</guid>
+      <pubDate>Wed, 01 Jul 2026 08:30:00 +0300</pubDate>
+      <itunes:author>Serdar Güven</itunes:author>
+      <itunes:duration>00:02:54</itunes:duration>
+      <itunes:episode>19</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Bölüm 18: Yapay Zeka İş mi Yaratıyor, İş mi Yiyor? | 30 Haziran 2026</title>
       <description>Yapay zeka iş piyasasında iki zıt tabloyu aynı anda görüyoruz: bazı sektörlerde on binlerce iş kaybı yaşanırken, yapay zekaya yoğun yatırım yapan teknoloji şirketleri aksine işe alımlarını artırıyor. DeepSeek yeni bir hız optimizasyonu duyururken Google, hesaplama gücü sıkıntısı nedeniyle Meta'nın Gemini erişimini kısıtladı. Future with Serdar'da bugün bu üç gelişmeyi hem teknik hem de pratik açıdan ele alıyoruz.</description>
