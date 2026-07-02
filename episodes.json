@@ -1,5 +1,14 @@
 [
   {
+    "episode_number": 20,
+    "date": "2026-07-02",
+    "title": "Bölüm 20: Meta Bulut Kuruyor, İnternet Paralı Oluyor, Yapay Zeka Tek Tip Düşünüyor | 2 Temmuz 2026",
+    "description": "Meta, milyarlarca dolarlık veri merkezi yatırımını gelir kaynağına çevirmek için bulut altyapısı satışına hazırlanıyor. Cloudflare ise yapay zeka botlarına yeni bir kural koyuyor: içerik çekiyorsan, öde. Üçüncü haberimizde ise büyük dil modellerinin neden hep aynı cevabı verdiğini ve bunu kırmaya çalışan bir girişimi konuşuyoruz. Future with Serdar'da bugün hem iş dünyası hem de teknik taraf için önemli gelişmeler var.",
+    "duration_sec": 257,
+    "mp3_url": "https://guvenser09-png.github.io/future-with-serdar/episodes/episode_020.mp3",
+    "mp3_bytes": 4187705
+  },
+  {
     "episode_number": 19,
     "date": "2026-07-01",
     "title": "Bölüm 19: Claude Sonnet 5 ve Gizli İşaret Skandalı | 1 Temmuz 2026",
