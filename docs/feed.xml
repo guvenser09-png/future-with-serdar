@@ -25,7 +25,18 @@ Bu programın kendisi de bir yapay zeka deneyi: senaryo, ses ve yayın tamamen o
       <itunes:name>Serdar Güven</itunes:name>
       <itunes:email>guvenser09@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 02 Jul 2026 07:34:16 +0300</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 07:33:47 +0300</lastBuildDate>
+    <item>
+      <title>Bölüm 21: Together AI'a 800 Milyon Dolar, Microsoft Sahaya İniyor | 3 Temmuz 2026</title>
+      <description>Together AI, 800 milyon dolar yatırımla değerlemesini 8,3 milyar dolara taşıdı. Microsoft, 2,5 milyar dolarlık yeni bir yapay zeka dağıtım şirketi kurdu. Anthropic ise Samsung ile özel çip geliştirmek için görüşmelere başladı. Bugünkü bölümde yapay zeka altyapı savaşının nasıl büyüdüğünü ve bunun size ne anlama geldiğini konuşuyoruz.</description>
+      <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_021.mp3" length="3500423" type="audio/mpeg"/>
+      <guid isPermaLink="false">fws-ep-21</guid>
+      <pubDate>Fri, 03 Jul 2026 08:30:00 +0300</pubDate>
+      <itunes:author>Serdar Güven</itunes:author>
+      <itunes:duration>00:03:35</itunes:duration>
+      <itunes:episode>21</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Bölüm 20: Meta Bulut Kuruyor, İnternet Paralı Oluyor, Yapay Zeka Tek Tip Düşünüyor | 2 Temmuz 2026</title>
       <description>Meta, milyarlarca dolarlık veri merkezi yatırımını gelir kaynağına çevirmek için bulut altyapısı satışına hazırlanıyor. Cloudflare ise yapay zeka botlarına yeni bir kural koyuyor: içerik çekiyorsan, öde. Üçüncü haberimizde ise büyük dil modellerinin neden hep aynı cevabı verdiğini ve bunu kırmaya çalışan bir girişimi konuşuyoruz. Future with Serdar'da bugün hem iş dünyası hem de teknik taraf için önemli gelişmeler var.</description>
