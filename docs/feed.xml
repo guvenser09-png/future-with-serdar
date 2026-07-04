@@ -25,7 +25,18 @@ Bu programın kendisi de bir yapay zeka deneyi: senaryo, ses ve yayın tamamen o
       <itunes:name>Serdar Güven</itunes:name>
       <itunes:email>guvenser09@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Fri, 03 Jul 2026 07:33:47 +0300</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 07:33:18 +0300</lastBuildDate>
+    <item>
+      <title>Bölüm 22: OpenAI Devlete Hisse Teklif Ediyor, Anthropic İlaç Üretiyor | 4 Temmuz 2026</title>
+      <description>OpenAI'ın ABD hükümetine yüzde 5 hisse vermeyi değerlendirdiği iddia edildi. Anthropic ise Claude Science platformunu ve kendi ilaç geliştirme planını duyurdu. Microsoft da 2,5 milyar dolarlık yeni yapılanmasıyla kurumsal yapay zeka yarışına girdi. Future with Serdar'da bugünün en önemli gelişmelerini yorumlu olarak dinleyebilirsiniz.</description>
+      <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_022.mp3" length="3152015" type="audio/mpeg"/>
+      <guid isPermaLink="false">fws-ep-22</guid>
+      <pubDate>Sat, 04 Jul 2026 08:30:00 +0300</pubDate>
+      <itunes:author>Serdar Güven</itunes:author>
+      <itunes:duration>00:03:13</itunes:duration>
+      <itunes:episode>22</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Bölüm 21: Together AI'a 800 Milyon Dolar, Microsoft Sahaya İniyor | 3 Temmuz 2026</title>
       <description>Together AI, 800 milyon dolar yatırımla değerlemesini 8,3 milyar dolara taşıdı. Microsoft, 2,5 milyar dolarlık yeni bir yapay zeka dağıtım şirketi kurdu. Anthropic ise Samsung ile özel çip geliştirmek için görüşmelere başladı. Bugünkü bölümde yapay zeka altyapı savaşının nasıl büyüdüğünü ve bunun size ne anlama geldiğini konuşuyoruz.</description>
