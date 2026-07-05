@@ -2,6 +2,9 @@
 # Kaynaklar ve davranış ayarları burada tutulur (kolayca genişletilebilir).
 
 podcast:
+  publish_interval_days: 2     # yayın sıklığı: 1=her gün, 2=gün aşırı (kota tasarrufu).
+                               # orchestrator son bölüm bu kadar günden yeniyse yayını atlar;
+                               # tetikleyiciler her gün çalışsa da boş günlerde API harcanmaz.
   target_words: [480, 580]     # bölüm uzunluğu ≈ 3-4 dk (kalibrasyon: ~131 kelime/dk;
                                # model hedefin altına düştüğü için üst sınır yüksek tutuldu)
   num_news: 3                  # seçilecek haber sayısı (kısa bölüm → 3)

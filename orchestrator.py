@@ -38,11 +38,25 @@ def _next_episode_number() -> int:
 
 def run(date_str: str, dry_run: bool, test_mode: str | None,
         episode: int | None, publish: bool, audio_only: bool) -> int:
-    # Aynı gün mükerrer yayını engelle (GitHub cron gecikmesi / çift tetikleme koruması)
-    if publish and any(e.get("date") == date_str for e in registry.load()):
-        log.info("Bugün (%s) zaten bir bölüm yayınlanmış — atlanıyor (ElevenLabs harcanmaz).",
-                 date_str)
-        return 0
+    # Yayın aralığı koruması: son bölüm 'publish_interval_days' günden yeniyse yayın
+    # yapma. Hem aynı-gün mükerrer korumasını (GitHub cron gecikmesi / çift tetikleme)
+    # hem de "2 günde 1" temposunu sağlar; boş günlerde tetikleyici burada erken çıkar,
+    # ElevenLabs/Claude harcanmaz. config podcast.publish_interval_days: 1=her gün, 2=gün aşırı.
+    if publish:
+        from utils.config_loader import load_config as _load_cfg
+        interval = int(_load_cfg().get("podcast", {}).get("publish_interval_days", 1))
+        dates = [e.get("date") for e in registry.load() if e.get("date")]
+        if dates:
+            last = max(dates)
+            try:
+                gap = (datetime.strptime(date_str, "%Y-%m-%d")
+                       - datetime.strptime(last, "%Y-%m-%d")).days
+            except ValueError:
+                gap = interval  # tarih bozuksa yayına izin ver
+            if gap < interval:
+                log.info("Son bölüm %s, bugün %s (%d gün fark) — aralık %d gün, atlanıyor "
+                         "(ElevenLabs harcanmaz).", last, date_str, gap, interval)
+                return 0
 
     episode = episode or _next_episode_number()
     log.info("=== Future with Serdar — pipeline (date=%s, ep=%s, dry_run=%s, publish=%s) ===",
