@@ -25,7 +25,95 @@ Bu programın kendisi de bir yapay zeka deneyi: senaryo, ses ve yayın tamamen o
       <itunes:name>Serdar Güven</itunes:name>
       <itunes:email>guvenser09@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sat, 27 Jun 2026 12:22:48 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 07:34:24 +0300</lastBuildDate>
+    <item>
+      <title>Bölüm 23: Claude Code'da Oturum Sızıntısı, Alibaba Yasağı ve GPT-5.5 Gizemi | 5 Temmuz 2026</title>
+      <description>Bugün Claude Code'da kurumsal veri güvenliğini sorgulatan bir oturum sızıntısı iddiası, Alibaba'nın Claude Code yasağı ve GPT-5.5'in tuhaf akıl yürütme tokeni kümelenmesi masada. Serdar, bu üç gelişmeyi pratik çıkarımlarıyla birlikte aktarıyor.</description>
+      <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_023.mp3" length="3727621" type="audio/mpeg"/>
+      <guid isPermaLink="false">fws-ep-23</guid>
+      <pubDate>Sun, 05 Jul 2026 08:30:00 +0300</pubDate>
+      <itunes:author>Serdar Güven</itunes:author>
+      <itunes:duration>00:03:49</itunes:duration>
+      <itunes:episode>23</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Bölüm 22: OpenAI Devlete Hisse Teklif Ediyor, Anthropic İlaç Üretiyor | 4 Temmuz 2026</title>
+      <description>OpenAI'ın ABD hükümetine yüzde 5 hisse vermeyi değerlendirdiği iddia edildi. Anthropic ise Claude Science platformunu ve kendi ilaç geliştirme planını duyurdu. Microsoft da 2,5 milyar dolarlık yeni yapılanmasıyla kurumsal yapay zeka yarışına girdi. Future with Serdar'da bugünün en önemli gelişmelerini yorumlu olarak dinleyebilirsiniz.</description>
+      <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_022.mp3" length="3152015" type="audio/mpeg"/>
+      <guid isPermaLink="false">fws-ep-22</guid>
+      <pubDate>Sat, 04 Jul 2026 08:30:00 +0300</pubDate>
+      <itunes:author>Serdar Güven</itunes:author>
+      <itunes:duration>00:03:13</itunes:duration>
+      <itunes:episode>22</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Bölüm 21: Together AI'a 800 Milyon Dolar, Microsoft Sahaya İniyor | 3 Temmuz 2026</title>
+      <description>Together AI, 800 milyon dolar yatırımla değerlemesini 8,3 milyar dolara taşıdı. Microsoft, 2,5 milyar dolarlık yeni bir yapay zeka dağıtım şirketi kurdu. Anthropic ise Samsung ile özel çip geliştirmek için görüşmelere başladı. Bugünkü bölümde yapay zeka altyapı savaşının nasıl büyüdüğünü ve bunun size ne anlama geldiğini konuşuyoruz.</description>
+      <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_021.mp3" length="3500423" type="audio/mpeg"/>
+      <guid isPermaLink="false">fws-ep-21</guid>
+      <pubDate>Fri, 03 Jul 2026 08:30:00 +0300</pubDate>
+      <itunes:author>Serdar Güven</itunes:author>
+      <itunes:duration>00:03:35</itunes:duration>
+      <itunes:episode>21</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Bölüm 20: Meta Bulut Kuruyor, İnternet Paralı Oluyor, Yapay Zeka Tek Tip Düşünüyor | 2 Temmuz 2026</title>
+      <description>Meta, milyarlarca dolarlık veri merkezi yatırımını gelir kaynağına çevirmek için bulut altyapısı satışına hazırlanıyor. Cloudflare ise yapay zeka botlarına yeni bir kural koyuyor: içerik çekiyorsan, öde. Üçüncü haberimizde ise büyük dil modellerinin neden hep aynı cevabı verdiğini ve bunu kırmaya çalışan bir girişimi konuşuyoruz. Future with Serdar'da bugün hem iş dünyası hem de teknik taraf için önemli gelişmeler var.</description>
+      <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_020.mp3" length="4187705" type="audio/mpeg"/>
+      <guid isPermaLink="false">fws-ep-20</guid>
+      <pubDate>Thu, 02 Jul 2026 08:30:00 +0300</pubDate>
+      <itunes:author>Serdar Güven</itunes:author>
+      <itunes:duration>00:04:17</itunes:duration>
+      <itunes:episode>20</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Bölüm 19: Claude Sonnet 5 ve Gizli İşaret Skandalı | 1 Temmuz 2026</title>
+      <description>Anthropic'in yeni modeli Claude Sonnet 5, ajanlık yeteneklerini orta sınıf fiyatına sunuyor. Peki Claude Code, kullanıcıların isteklerine neden gizli işaretler ekliyor? Bugün hem büyük bir lansman hem de tüyleri diken diken eden bir güvenlik tartışması var.</description>
+      <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_019.mp3" length="2854913" type="audio/mpeg"/>
+      <guid isPermaLink="false">fws-ep-19</guid>
+      <pubDate>Wed, 01 Jul 2026 08:30:00 +0300</pubDate>
+      <itunes:author>Serdar Güven</itunes:author>
+      <itunes:duration>00:02:54</itunes:duration>
+      <itunes:episode>19</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Bölüm 18: Yapay Zeka İş mi Yaratıyor, İş mi Yiyor? | 30 Haziran 2026</title>
+      <description>Yapay zeka iş piyasasında iki zıt tabloyu aynı anda görüyoruz: bazı sektörlerde on binlerce iş kaybı yaşanırken, yapay zekaya yoğun yatırım yapan teknoloji şirketleri aksine işe alımlarını artırıyor. DeepSeek yeni bir hız optimizasyonu duyururken Google, hesaplama gücü sıkıntısı nedeniyle Meta'nın Gemini erişimini kısıtladı. Future with Serdar'da bugün bu üç gelişmeyi hem teknik hem de pratik açıdan ele alıyoruz.</description>
+      <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_018.mp3" length="3528605" type="audio/mpeg"/>
+      <guid isPermaLink="false">fws-ep-18</guid>
+      <pubDate>Tue, 30 Jun 2026 08:30:00 +0300</pubDate>
+      <itunes:author>Serdar Güven</itunes:author>
+      <itunes:duration>00:03:36</itunes:duration>
+      <itunes:episode>18</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Bölüm 17: ChatGPT Mahkemede, Üniversitede Hile Skandalı ve Ford'un Sürprizi | 29 Haziran 2026</title>
+      <description>Bugün çok farklı üç haberle karşınızdayız: ChatGPT konuşma kayıtları ilk kez bir ağır ceza davasında delil olarak kullanıldı, Brown Üniversitesi tarihinin en büyük yapay zeka hile skandalıyla sarsıldı ve Ford, yapay zekanın yetersiz kaldığı yerde deneyimli mühendislere geri döndü. Üç haber de yapay zekanın gerçek dünyayla çarpışma anlarını gözler önüne seriyor.</description>
+      <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_017.mp3" length="3566118" type="audio/mpeg"/>
+      <guid isPermaLink="false">fws-ep-17</guid>
+      <pubDate>Mon, 29 Jun 2026 08:30:00 +0300</pubDate>
+      <itunes:author>Serdar Güven</itunes:author>
+      <itunes:duration>00:03:39</itunes:duration>
+      <itunes:episode>17</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Bölüm 16: Apple kara listeden çip istiyor, yapay zeka hayat kurtarıyor | 28 Haziran 2026</title>
+      <description>Bugün Apple'ın Pentagon kara listesindeki bir Çinli çip üreticisiyle anlaşmak için Trump yönetiminden izin istediğini konuşuyoruz. Ayrıca 35 yaşında kanser teşhisi alan bir girişimcinin Claude ile nasıl yanlış tedaviden kurtulduğunu dinleyeceksiniz. DeepSeek'in LLM hızlandırma kağıdı DSpark da gündemdeydi. Yapay zekanın gerçek hayatta ne işe yaradığını merak ediyorsanız bu bölüm tam size göre.</description>
+      <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_016.mp3" length="4021516" type="audio/mpeg"/>
+      <guid isPermaLink="false">fws-ep-16</guid>
+      <pubDate>Sun, 28 Jun 2026 08:30:00 +0300</pubDate>
+      <itunes:author>Serdar Güven</itunes:author>
+      <itunes:duration>00:04:07</itunes:duration>
+      <itunes:episode>16</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Bölüm 15: Türk Geliştirici Dünya 1.'si, Anthropic'in Mythos 5 Krizi ve Yerli Hukuk Asistanı</title>
       <description>27 Haziran'da yapay zeka dünyasında üç çarpıcı gelişme: Türk geliştirici Alican Kiraz'ın siber güvenlik modeli açık kaynaklılar arasında dünya birincisi oldu. Anthropic'in Mythos 5 modeli Trump yönetimiyle iki haftalık müzakerenin ardından sınırlı kullanıma geri döndü. Bir de Türkiye'den avukatlara yönelik yerli yapay zeka asistanı Jupytr sahneye çıktı. Yorumlu, pratik, dürüst — Future with Serdar.</description>
