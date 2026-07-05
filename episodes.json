@@ -1,5 +1,14 @@
 [
   {
+    "episode_number": 23,
+    "date": "2026-07-05",
+    "title": "Bölüm 23: Claude Code'da Oturum Sızıntısı, Alibaba Yasağı ve GPT-5.5 Gizemi | 5 Temmuz 2026",
+    "description": "Bugün Claude Code'da kurumsal veri güvenliğini sorgulatan bir oturum sızıntısı iddiası, Alibaba'nın Claude Code yasağı ve GPT-5.5'in tuhaf akıl yürütme tokeni kümelenmesi masada. Serdar, bu üç gelişmeyi pratik çıkarımlarıyla birlikte aktarıyor.",
+    "duration_sec": 229,
+    "mp3_url": "https://guvenser09-png.github.io/future-with-serdar/episodes/episode_023.mp3",
+    "mp3_bytes": 3727621
+  },
+  {
     "episode_number": 22,
     "date": "2026-07-04",
     "title": "Bölüm 22: OpenAI Devlete Hisse Teklif Ediyor, Anthropic İlaç Üretiyor | 4 Temmuz 2026",

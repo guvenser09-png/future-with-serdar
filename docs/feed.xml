@@ -25,7 +25,18 @@ Bu programın kendisi de bir yapay zeka deneyi: senaryo, ses ve yayın tamamen o
       <itunes:name>Serdar Güven</itunes:name>
       <itunes:email>guvenser09@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sat, 04 Jul 2026 07:33:18 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 07:34:24 +0300</lastBuildDate>
+    <item>
+      <title>Bölüm 23: Claude Code'da Oturum Sızıntısı, Alibaba Yasağı ve GPT-5.5 Gizemi | 5 Temmuz 2026</title>
+      <description>Bugün Claude Code'da kurumsal veri güvenliğini sorgulatan bir oturum sızıntısı iddiası, Alibaba'nın Claude Code yasağı ve GPT-5.5'in tuhaf akıl yürütme tokeni kümelenmesi masada. Serdar, bu üç gelişmeyi pratik çıkarımlarıyla birlikte aktarıyor.</description>
+      <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_023.mp3" length="3727621" type="audio/mpeg"/>
+      <guid isPermaLink="false">fws-ep-23</guid>
+      <pubDate>Sun, 05 Jul 2026 08:30:00 +0300</pubDate>
+      <itunes:author>Serdar Güven</itunes:author>
+      <itunes:duration>00:03:49</itunes:duration>
+      <itunes:episode>23</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Bölüm 22: OpenAI Devlete Hisse Teklif Ediyor, Anthropic İlaç Üretiyor | 4 Temmuz 2026</title>
       <description>OpenAI'ın ABD hükümetine yüzde 5 hisse vermeyi değerlendirdiği iddia edildi. Anthropic ise Claude Science platformunu ve kendi ilaç geliştirme planını duyurdu. Microsoft da 2,5 milyar dolarlık yeni yapılanmasıyla kurumsal yapay zeka yarışına girdi. Future with Serdar'da bugünün en önemli gelişmelerini yorumlu olarak dinleyebilirsiniz.</description>
