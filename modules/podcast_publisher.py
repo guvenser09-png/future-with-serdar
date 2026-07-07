@@ -137,16 +137,16 @@ def publish_podcast(date_str: str, episode_no: int = 1) -> dict:
     mp3_url = storage.upload(dest_path=f"episodes/episode_{nnn}.mp3",
                              local_path=mp3, content_type="audio/mpeg")
 
-    # Kanal kapağı SABİT (show cover) — yoksa üret, varsa dokunma (bölüm kapağıyla ezme)
-    # Kanal kapağı SABİT logo (cover-v2.jpg). "v2" cache-bust içindir: Spotify
-    # aynı URL'i (cover.jpg) yeniden çekmiyordu. Logo varsa dokunma; yoksa
-    # yedek olarak jenerik kapağı üret.
-    cover_dest = storage.DOCS_DIR / "cover-v2.jpg"
+    # Kanal kapağı SABİT logo (cover-v3.jpg). Sürüm son eki cache-bust içindir:
+    # Spotify/Apple aynı URL'i yeniden çekmiyor, kapak değişince yeni ad gerekir.
+    # (7 Tem: yeni marka kapağı — yüz + "FUTURE WITH SERDAR" kare tasarım.)
+    # Logo varsa dokunma; yoksa yedek olarak jenerik kapağı üret.
+    cover_dest = storage.DOCS_DIR / "cover-v3.jpg"
     if not cover_dest.exists():
         from modules.audio_assembler import make_show_cover
         cover_dest.parent.mkdir(parents=True, exist_ok=True)
         make_show_cover(cover_dest, meta.get("subtitle", ""))
-    cover_url = storage._public_url("cover-v2.jpg")
+    cover_url = storage._public_url("cover-v3.jpg")
     log.info("MP3 → %s", mp3_url)
 
     # 2) Yerel bölüm kaydını güncelle (feed kaynağı) + DB'ye de yaz (varsa)
