@@ -1,5 +1,14 @@
 [
   {
+    "episode_number": 24,
+    "date": "2026-07-07",
+    "title": "Bölüm 24: Anthropic Gizli Takip, Google Seni Eğitiyor, 120 Bin Kişi İşsiz | 7 Temmuz 2026",
+    "description": "Anthropic, Claude Code kullanıcılarını gizlice takip ettiği için özür dilemek zorunda kaldı. Google ise sessizce fotoğraf, ses ve video kayıtlarınla yapay zeka modellerini eğitmeye başladı. Bir de 2026'nın ürkütücü tablosuna bak: 120 bin teknoloji çalışanı işini kaybetti, şirketler rekor kâr açıklarken. Serdar tüm bunları yorumluyor.",
+    "duration_sec": 212,
+    "mp3_url": "https://guvenser09-png.github.io/future-with-serdar/episodes/episode_024.mp3",
+    "mp3_bytes": 3456882
+  },
+  {
     "episode_number": 23,
     "date": "2026-07-05",
     "title": "Bölüm 23: Claude Code'da Oturum Sızıntısı, Alibaba Yasağı ve GPT-5.5 Gizemi | 5 Temmuz 2026",
