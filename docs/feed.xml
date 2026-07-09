@@ -25,7 +25,18 @@ Bu programın kendisi de bir yapay zeka deneyi: senaryo, ses ve yayın tamamen o
       <itunes:name>Serdar Güven</itunes:name>
       <itunes:email>guvenser09@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Tue, 07 Jul 2026 13:40:22 +0300</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 07:34:32 +0300</lastBuildDate>
+    <item>
+      <title>Bölüm 25: Yapay Zeka Araçları Botnet Kuruyor, Grok 4.5 Geldi, SambaNova'ya 1 Milyar Dolar | 9 Temmuz</title>
+      <description>Bugün güvenlik dünyasını sarsan HalluSquatting saldırısını, Grok 4.5'in fiyat-performans iddialarını ve SambaNova'nın 1 milyar dolarlık yatırım turunu masaya yatırıyoruz. Yapay zeka araçları artık büyük çaplı botnet saldırılarına kapı aralıyor; hem geliştiriciler hem de kurumlar için bu ne anlama geliyor? Future with Serdar'da yorumlu, pratik ve dürüst bir bülten sizi bekliyor.</description>
+      <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_025.mp3" length="3582780" type="audio/mpeg"/>
+      <guid isPermaLink="false">fws-ep-25</guid>
+      <pubDate>Thu, 09 Jul 2026 08:30:00 +0300</pubDate>
+      <itunes:author>Serdar Güven</itunes:author>
+      <itunes:duration>00:03:40</itunes:duration>
+      <itunes:episode>25</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Bölüm 24: Anthropic Gizli Takip, Google Seni Eğitiyor, 120 Bin Kişi İşsiz | 7 Temmuz 2026</title>
       <description>Anthropic, Claude Code kullanıcılarını gizlice takip ettiği için özür dilemek zorunda kaldı. Google ise sessizce fotoğraf, ses ve video kayıtlarınla yapay zeka modellerini eğitmeye başladı. Bir de 2026'nın ürkütücü tablosuna bak: 120 bin teknoloji çalışanı işini kaybetti, şirketler rekor kâr açıklarken. Serdar tüm bunları yorumluyor.</description>

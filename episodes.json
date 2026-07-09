@@ -1,5 +1,14 @@
 [
   {
+    "episode_number": 25,
+    "date": "2026-07-09",
+    "title": "Bölüm 25: Yapay Zeka Araçları Botnet Kuruyor, Grok 4.5 Geldi, SambaNova'ya 1 Milyar Dolar | 9 Temmuz",
+    "description": "Bugün güvenlik dünyasını sarsan HalluSquatting saldırısını, Grok 4.5'in fiyat-performans iddialarını ve SambaNova'nın 1 milyar dolarlık yatırım turunu masaya yatırıyoruz. Yapay zeka araçları artık büyük çaplı botnet saldırılarına kapı aralıyor; hem geliştiriciler hem de kurumlar için bu ne anlama geliyor? Future with Serdar'da yorumlu, pratik ve dürüst bir bülten sizi bekliyor.",
+    "duration_sec": 220,
+    "mp3_url": "https://guvenser09-png.github.io/future-with-serdar/episodes/episode_025.mp3",
+    "mp3_bytes": 3582780
+  },
+  {
     "episode_number": 24,
     "date": "2026-07-07",
     "title": "Bölüm 24: Anthropic Gizli Takip, Google Seni Eğitiyor, 120 Bin Kişi İşsiz | 7 Temmuz 2026",
