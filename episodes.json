@@ -1,5 +1,14 @@
 [
   {
+    "episode_number": 26,
+    "date": "2026-07-11",
+    "title": "Bölüm 26: Apple OpenAI'a Dava Açtı, GPT-5.6 Ailesi Geldi | 11 Temmuz",
+    "description": "Apple, OpenAI'ın ticari sırlarını çaldığını iddia ederek dava açtı. OpenAI ise aynı gün üç modellik GPT-5.6 ailesini duyurdu. Üstüne üstlük GPT-5.6 Sol Ultra, matematiksel bir conjecture'ün kanıtını üretti. Future with Serdar'da bugün gerçekten dolu bir 24 saat var.",
+    "duration_sec": 236,
+    "mp3_url": "https://guvenser09-png.github.io/future-with-serdar/episodes/episode_026.mp3",
+    "mp3_bytes": 3845279
+  },
+  {
     "episode_number": 25,
     "date": "2026-07-09",
     "title": "Bölüm 25: Yapay Zeka Araçları Botnet Kuruyor, Grok 4.5 Geldi, SambaNova'ya 1 Milyar Dolar | 9 Temmuz",

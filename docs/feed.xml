@@ -25,7 +25,18 @@ Bu programın kendisi de bir yapay zeka deneyi: senaryo, ses ve yayın tamamen o
       <itunes:name>Serdar Güven</itunes:name>
       <itunes:email>guvenser09@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 09 Jul 2026 07:34:32 +0300</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 07:34:06 +0300</lastBuildDate>
+    <item>
+      <title>Bölüm 26: Apple OpenAI'a Dava Açtı, GPT-5.6 Ailesi Geldi | 11 Temmuz</title>
+      <description>Apple, OpenAI'ın ticari sırlarını çaldığını iddia ederek dava açtı. OpenAI ise aynı gün üç modellik GPT-5.6 ailesini duyurdu. Üstüne üstlük GPT-5.6 Sol Ultra, matematiksel bir conjecture'ün kanıtını üretti. Future with Serdar'da bugün gerçekten dolu bir 24 saat var.</description>
+      <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_026.mp3" length="3845279" type="audio/mpeg"/>
+      <guid isPermaLink="false">fws-ep-26</guid>
+      <pubDate>Sat, 11 Jul 2026 08:30:00 +0300</pubDate>
+      <itunes:author>Serdar Güven</itunes:author>
+      <itunes:duration>00:03:56</itunes:duration>
+      <itunes:episode>26</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Bölüm 25: Yapay Zeka Araçları Botnet Kuruyor, Grok 4.5 Geldi, SambaNova'ya 1 Milyar Dolar | 9 Temmuz</title>
       <description>Bugün güvenlik dünyasını sarsan HalluSquatting saldırısını, Grok 4.5'in fiyat-performans iddialarını ve SambaNova'nın 1 milyar dolarlık yatırım turunu masaya yatırıyoruz. Yapay zeka araçları artık büyük çaplı botnet saldırılarına kapı aralıyor; hem geliştiriciler hem de kurumlar için bu ne anlama geliyor? Future with Serdar'da yorumlu, pratik ve dürüst bir bülten sizi bekliyor.</description>
