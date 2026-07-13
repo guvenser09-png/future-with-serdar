@@ -1,5 +1,14 @@
 [
   {
+    "episode_number": 27,
+    "date": "2026-07-13",
+    "title": "Bölüm 27: Claude Code Para mı Yakıyor? + TSMC Krizi + Veri Merkezi Savaşları | 13 Temmuz 2026",
+    "description": "Claude Code, OpenCode'a kıyasla her istekte 33.000 token gönderiyor — bu gerçekten para demek. Bugün bunu rakamlarla masaya yatırıyoruz. Ayrıca TSMC'nin kapasitesi taşıyor ve yapay zeka veri merkezlerine karşı toplumsal isyan büyüyor. Future with Serdar'da bugünün üç büyük gelişmesini yorumlu anlatıyoruz.",
+    "duration_sec": 215,
+    "mp3_url": "https://guvenser09-png.github.io/future-with-serdar/episodes/episode_027.mp3",
+    "mp3_bytes": 3510450
+  },
+  {
     "episode_number": 26,
     "date": "2026-07-11",
     "title": "Bölüm 26: Apple OpenAI'a Dava Açtı, GPT-5.6 Ailesi Geldi | 11 Temmuz",

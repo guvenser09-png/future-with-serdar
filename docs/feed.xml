@@ -25,7 +25,18 @@ Bu programın kendisi de bir yapay zeka deneyi: senaryo, ses ve yayın tamamen o
       <itunes:name>Serdar Güven</itunes:name>
       <itunes:email>guvenser09@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sat, 11 Jul 2026 07:34:06 +0300</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 07:33:50 +0300</lastBuildDate>
+    <item>
+      <title>Bölüm 27: Claude Code Para mı Yakıyor? + TSMC Krizi + Veri Merkezi Savaşları | 13 Temmuz 2026</title>
+      <description>Claude Code, OpenCode'a kıyasla her istekte 33.000 token gönderiyor — bu gerçekten para demek. Bugün bunu rakamlarla masaya yatırıyoruz. Ayrıca TSMC'nin kapasitesi taşıyor ve yapay zeka veri merkezlerine karşı toplumsal isyan büyüyor. Future with Serdar'da bugünün üç büyük gelişmesini yorumlu anlatıyoruz.</description>
+      <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_027.mp3" length="3510450" type="audio/mpeg"/>
+      <guid isPermaLink="false">fws-ep-27</guid>
+      <pubDate>Mon, 13 Jul 2026 08:30:00 +0300</pubDate>
+      <itunes:author>Serdar Güven</itunes:author>
+      <itunes:duration>00:03:35</itunes:duration>
+      <itunes:episode>27</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Bölüm 26: Apple OpenAI'a Dava Açtı, GPT-5.6 Ailesi Geldi | 11 Temmuz</title>
       <description>Apple, OpenAI'ın ticari sırlarını çaldığını iddia ederek dava açtı. OpenAI ise aynı gün üç modellik GPT-5.6 ailesini duyurdu. Üstüne üstlük GPT-5.6 Sol Ultra, matematiksel bir conjecture'ün kanıtını üretti. Future with Serdar'da bugün gerçekten dolu bir 24 saat var.</description>
