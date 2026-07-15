@@ -25,7 +25,18 @@ Bu programın kendisi de bir yapay zeka deneyi: senaryo, ses ve yayın tamamen o
       <itunes:name>Serdar Güven</itunes:name>
       <itunes:email>guvenser09@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 13 Jul 2026 07:33:50 +0300</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 07:34:18 +0300</lastBuildDate>
+    <item>
+      <title>Bölüm 28: New York Veri Merkezlerini Dondurdu ve OpenAI'dan 2 Milyar Dolarlık Çıkış | 15 Temmuz 2026</title>
+      <description>New York, ABD tarihinde bir ilke imza atarak büyük veri merkezlerinin inşasını durdurdu. Peki bu karar yapay zeka altyapısını nasıl etkiler? Ayrıca OpenAI'dan ayrılan genç bir araştırmacı, ilaç keşfi alanında 2 milyar dolar değerlemeyle yeni bir girişim kuruyor. Bugün bu iki büyük gelişmeyi ve günün pratik ipucunu konuşuyoruz.</description>
+      <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_028.mp3" length="3263812" type="audio/mpeg"/>
+      <guid isPermaLink="false">fws-ep-28</guid>
+      <pubDate>Wed, 15 Jul 2026 08:30:00 +0300</pubDate>
+      <itunes:author>Serdar Güven</itunes:author>
+      <itunes:duration>00:03:20</itunes:duration>
+      <itunes:episode>28</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Bölüm 27: Claude Code Para mı Yakıyor? + TSMC Krizi + Veri Merkezi Savaşları | 13 Temmuz 2026</title>
       <description>Claude Code, OpenCode'a kıyasla her istekte 33.000 token gönderiyor — bu gerçekten para demek. Bugün bunu rakamlarla masaya yatırıyoruz. Ayrıca TSMC'nin kapasitesi taşıyor ve yapay zeka veri merkezlerine karşı toplumsal isyan büyüyor. Future with Serdar'da bugünün üç büyük gelişmesini yorumlu anlatıyoruz.</description>
