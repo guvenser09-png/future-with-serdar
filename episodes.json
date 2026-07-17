@@ -1,5 +1,14 @@
 [
   {
+    "episode_number": 29,
+    "date": "2026-07-17",
+    "title": "Bölüm 29: Temmuz: Linus Torvalds'tan AI Karşıtlarına Sert Mesaj, AB Google'ı Zorluyor ve Ajan Güvenlik Açığı",
+    "description": "17 Temmuz 2026'da yapay zeka dünyasından üç kritik gelişme: Linux'un kurucusu Torvalds AI karşıtlarını sert bir dille yanıtladı, Avrupa Birliği Google'ı Android ve Arama'yı rakiplere açmaya zorladı ve yeni bir araştırma kurumların yüzde elliden fazlasının zaten bir AI ajan güvenlik olayı yaşadığını ortaya koydu. Future with Serdar'da bugünün en önemli gelişmelerini yorumlu ve pratik bir perspektifle ele alıyoruz.",
+    "duration_sec": 251,
+    "mp3_url": "https://guvenser09-png.github.io/future-with-serdar/episodes/episode_029.mp3",
+    "mp3_bytes": 4084460
+  },
+  {
     "episode_number": 28,
     "date": "2026-07-15",
     "title": "Bölüm 28: New York Veri Merkezlerini Dondurdu ve OpenAI'dan 2 Milyar Dolarlık Çıkış | 15 Temmuz 2026",
