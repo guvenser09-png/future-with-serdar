@@ -1,5 +1,14 @@
 [
   {
+    "episode_number": 30,
+    "date": "2026-07-19",
+    "title": "Bölüm 30: Stack Overflow'un Çöküşü, GPT-5.6'nın Matematik Mucizesi ve Füze Kadar Tehlikeli Yapay Zeka | 19 Temmuz 2026",
+    "description": "Bugün Stack Overflow'un yapay zeka karşısındaki dramatik düşüşünü, GPT-5.6'nın 30 yıllık matematik problemini çözme iddiasını ve JPMorgan CEO'sunun Claude Mythos hakkındaki çarpıcı 'füze' benzetmesini konuşuyoruz. Türk kullanıcı ve girişimciler için ne anlam ifade ediyor, birlikte değerlendiriyoruz. Future with Serdar'da her gün yapay zekanın dünyayı nasıl dönüştürdüğünü takip ediyoruz.",
+    "duration_sec": 204,
+    "mp3_url": "https://guvenser09-png.github.io/future-with-serdar/episodes/episode_030.mp3",
+    "mp3_bytes": 3331544
+  },
+  {
     "episode_number": 29,
     "date": "2026-07-17",
     "title": "Bölüm 29: Temmuz: Linus Torvalds'tan AI Karşıtlarına Sert Mesaj, AB Google'ı Zorluyor ve Ajan Güvenlik Açığı",

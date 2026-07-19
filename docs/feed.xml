@@ -25,7 +25,18 @@ Bu programın kendisi de bir yapay zeka deneyi: senaryo, ses ve yayın tamamen o
       <itunes:name>Serdar Güven</itunes:name>
       <itunes:email>guvenser09@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Fri, 17 Jul 2026 07:35:32 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 07:33:46 +0300</lastBuildDate>
+    <item>
+      <title>Bölüm 30: Stack Overflow'un Çöküşü, GPT-5.6'nın Matematik Mucizesi ve Füze Kadar Tehlikeli Yapay Zeka | 19 Temmuz 2026</title>
+      <description>Bugün Stack Overflow'un yapay zeka karşısındaki dramatik düşüşünü, GPT-5.6'nın 30 yıllık matematik problemini çözme iddiasını ve JPMorgan CEO'sunun Claude Mythos hakkındaki çarpıcı 'füze' benzetmesini konuşuyoruz. Türk kullanıcı ve girişimciler için ne anlam ifade ediyor, birlikte değerlendiriyoruz. Future with Serdar'da her gün yapay zekanın dünyayı nasıl dönüştürdüğünü takip ediyoruz.</description>
+      <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_030.mp3" length="3331544" type="audio/mpeg"/>
+      <guid isPermaLink="false">fws-ep-30</guid>
+      <pubDate>Sun, 19 Jul 2026 08:30:00 +0300</pubDate>
+      <itunes:author>Serdar Güven</itunes:author>
+      <itunes:duration>00:03:24</itunes:duration>
+      <itunes:episode>30</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Bölüm 29: Temmuz: Linus Torvalds'tan AI Karşıtlarına Sert Mesaj, AB Google'ı Zorluyor ve Ajan Güvenlik Açığı</title>
       <description>17 Temmuz 2026'da yapay zeka dünyasından üç kritik gelişme: Linux'un kurucusu Torvalds AI karşıtlarını sert bir dille yanıtladı, Avrupa Birliği Google'ı Android ve Arama'yı rakiplere açmaya zorladı ve yeni bir araştırma kurumların yüzde elliden fazlasının zaten bir AI ajan güvenlik olayı yaşadığını ortaya koydu. Future with Serdar'da bugünün en önemli gelişmelerini yorumlu ve pratik bir perspektifle ele alıyoruz.</description>
