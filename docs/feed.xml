@@ -25,7 +25,18 @@ Bu programın kendisi de bir yapay zeka deneyi: senaryo, ses ve yayın tamamen o
       <itunes:name>Serdar Güven</itunes:name>
       <itunes:email>guvenser09@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sun, 19 Jul 2026 07:33:46 +0300</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 07:35:13 +0300</lastBuildDate>
+    <item>
+      <title>Bölüm 31: Çin'den Çift Yumruk, Google'ın Gizli Çipi ve Yapay Zeka Önyargısı | 21 Temmuz 2026</title>
+      <description>Bugün Çin'den iki büyük yapay zeka hamlesi gündemin merkezinde: Moonshot'ın Kimi K3'ü ve Alibaba'nın Qwen3.8'i, ABD'nin yapay zeka üstünlüğünü sorgulatır hale getiriyor. Google ise 'Frozen v2' adıyla anılan ve mevcut çiplerinden 6-10 kat daha verimli olacağı iddia edilen yeni bir yapay zeka çipi üzerinde çalışıyor. Ayrıca Princeton ve Chicago üniversitelerinden çarpıcı bir araştırma: Yapay zeka, işe alımda insanlardan daha fazla önyargı geliştiriyor.</description>
+      <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_031.mp3" length="3494748" type="audio/mpeg"/>
+      <guid isPermaLink="false">fws-ep-31</guid>
+      <pubDate>Tue, 21 Jul 2026 08:30:00 +0300</pubDate>
+      <itunes:author>Serdar Güven</itunes:author>
+      <itunes:duration>00:03:34</itunes:duration>
+      <itunes:episode>31</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Bölüm 30: Stack Overflow'un Çöküşü, GPT-5.6'nın Matematik Mucizesi ve Füze Kadar Tehlikeli Yapay Zeka | 19 Temmuz 2026</title>
       <description>Bugün Stack Overflow'un yapay zeka karşısındaki dramatik düşüşünü, GPT-5.6'nın 30 yıllık matematik problemini çözme iddiasını ve JPMorgan CEO'sunun Claude Mythos hakkındaki çarpıcı 'füze' benzetmesini konuşuyoruz. Türk kullanıcı ve girişimciler için ne anlam ifade ediyor, birlikte değerlendiriyoruz. Future with Serdar'da her gün yapay zekanın dünyayı nasıl dönüştürdüğünü takip ediyoruz.</description>

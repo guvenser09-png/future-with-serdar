@@ -1,5 +1,14 @@
 [
   {
+    "episode_number": 31,
+    "date": "2026-07-21",
+    "title": "Bölüm 31: Çin'den Çift Yumruk, Google'ın Gizli Çipi ve Yapay Zeka Önyargısı | 21 Temmuz 2026",
+    "description": "Bugün Çin'den iki büyük yapay zeka hamlesi gündemin merkezinde: Moonshot'ın Kimi K3'ü ve Alibaba'nın Qwen3.8'i, ABD'nin yapay zeka üstünlüğünü sorgulatır hale getiriyor. Google ise 'Frozen v2' adıyla anılan ve mevcut çiplerinden 6-10 kat daha verimli olacağı iddia edilen yeni bir yapay zeka çipi üzerinde çalışıyor. Ayrıca Princeton ve Chicago üniversitelerinden çarpıcı bir araştırma: Yapay zeka, işe alımda insanlardan daha fazla önyargı geliştiriyor.",
+    "duration_sec": 214,
+    "mp3_url": "https://guvenser09-png.github.io/future-with-serdar/episodes/episode_031.mp3",
+    "mp3_bytes": 3494748
+  },
+  {
     "episode_number": 30,
     "date": "2026-07-19",
     "title": "Bölüm 30: Stack Overflow'un Çöküşü, GPT-5.6'nın Matematik Mucizesi ve Füze Kadar Tehlikeli Yapay Zeka | 19 Temmuz 2026",
