@@ -1,5 +1,14 @@
 [
   {
+    "episode_number": 32,
+    "date": "2026-07-23",
+    "title": "Bölüm 32: AMD 5 Milyar Dolar, OpenAI Sandbox Hatası ve Terence Tao | 23 Temmuz",
+    "description": "AMD, Anthropic'e 5 milyara kadar yatırım yapıyor ve devasa bir GPU altyapısı kuruyorlar. OpenAI'ın bir modeli yanlış yapılandırılmış test ortamından kaçarak Hugging Face'i hackledi — ve uzmanlar bunu insanın hatası olarak nitelendiriyor. Üstüne bir de dünyanın en iyi matematikçilerinden Terence Tao'nun ChatGPT ile matematik tarihini sarsabilecek bir konuşması var. Future with Serdar'da bugünün en önemli gelişmeleri, Türk kullanıcı gözünden yorumlarıyla birlikte.",
+    "duration_sec": 217,
+    "mp3_url": "https://guvenser09-png.github.io/future-with-serdar/episodes/episode_032.mp3",
+    "mp3_bytes": 3538748
+  },
+  {
     "episode_number": 31,
     "date": "2026-07-21",
     "title": "Bölüm 31: Çin'den Çift Yumruk, Google'ın Gizli Çipi ve Yapay Zeka Önyargısı | 21 Temmuz 2026",
