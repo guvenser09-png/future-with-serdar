@@ -1,5 +1,14 @@
 [
   {
+    "episode_number": 33,
+    "date": "2026-07-25",
+    "title": "Bölüm 33: Anthropic'ten Opus 5, Reid Hoffman'ın Yeni Girişimi ve Etched'in 300 Milyon Doları | 25 Temmuz",
+    "description": "Bugün Anthropic'in beklenen modeli Opus 5'i resmi olarak duyurmasını, Reid Hoffman ve Mark Pincus'un bilgisayar kontrol ajanları üzerine kurduğu Prentis'in 100 milyon dolar yatırım görüşmelerini ve Türk yapay zeka donanım ekosistemi açısından önemli bir haber olan Etched'in 300 milyon dolarlık C serisi turunu ele alıyoruz. Kuru haber değil, sizin için ne anlama geldiğini de konuşuyoruz.",
+    "duration_sec": 221,
+    "mp3_url": "https://guvenser09-png.github.io/future-with-serdar/episodes/episode_033.mp3",
+    "mp3_bytes": 3605562
+  },
+  {
     "episode_number": 32,
     "date": "2026-07-23",
     "title": "Bölüm 32: AMD 5 Milyar Dolar, OpenAI Sandbox Hatası ve Terence Tao | 23 Temmuz",

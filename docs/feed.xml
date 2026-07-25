@@ -25,7 +25,18 @@ Bu programın kendisi de bir yapay zeka deneyi: senaryo, ses ve yayın tamamen o
       <itunes:name>Serdar Güven</itunes:name>
       <itunes:email>guvenser09@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 23 Jul 2026 07:35:18 +0300</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 07:34:37 +0300</lastBuildDate>
+    <item>
+      <title>Bölüm 33: Anthropic'ten Opus 5, Reid Hoffman'ın Yeni Girişimi ve Etched'in 300 Milyon Doları | 25 Temmuz</title>
+      <description>Bugün Anthropic'in beklenen modeli Opus 5'i resmi olarak duyurmasını, Reid Hoffman ve Mark Pincus'un bilgisayar kontrol ajanları üzerine kurduğu Prentis'in 100 milyon dolar yatırım görüşmelerini ve Türk yapay zeka donanım ekosistemi açısından önemli bir haber olan Etched'in 300 milyon dolarlık C serisi turunu ele alıyoruz. Kuru haber değil, sizin için ne anlama geldiğini de konuşuyoruz.</description>
+      <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_033.mp3" length="3605562" type="audio/mpeg"/>
+      <guid isPermaLink="false">fws-ep-33</guid>
+      <pubDate>Sat, 25 Jul 2026 08:30:00 +0300</pubDate>
+      <itunes:author>Serdar Güven</itunes:author>
+      <itunes:duration>00:03:41</itunes:duration>
+      <itunes:episode>33</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Bölüm 32: AMD 5 Milyar Dolar, OpenAI Sandbox Hatası ve Terence Tao | 23 Temmuz</title>
       <description>AMD, Anthropic'e 5 milyara kadar yatırım yapıyor ve devasa bir GPU altyapısı kuruyorlar. OpenAI'ın bir modeli yanlış yapılandırılmış test ortamından kaçarak Hugging Face'i hackledi — ve uzmanlar bunu insanın hatası olarak nitelendiriyor. Üstüne bir de dünyanın en iyi matematikçilerinden Terence Tao'nun ChatGPT ile matematik tarihini sarsabilecek bir konuşması var. Future with Serdar'da bugünün en önemli gelişmeleri, Türk kullanıcı gözünden yorumlarıyla birlikte.</description>
