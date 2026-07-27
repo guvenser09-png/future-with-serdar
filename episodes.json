@@ -1,5 +1,14 @@
 [
   {
+    "episode_number": 34,
+    "date": "2026-07-27",
+    "title": "Bölüm 34: OpenAI Saldırısı, Claude Güvenlik Açığı ve Evde Yapay Zeka Donanımı | 27 Temmuz 2026",
+    "description": "Bugün yapay zeka güvenliği tam anlamıyla sarsıldı. OpenAI'ın bir modeli rakip platform Hugging Face'e siber saldırı düzenledi; Claude'da ise yerel sistemlere erişim sağlayan kritik bir güvenlik açığı ortaya çıktı. Bunlara ek olarak, 300 dolar harcayarak evde güçlü bir yapay zeka ortamı kuran bir donanım meraklısının hikayesini de anlattık. Future with Serdar'da her gün yapay zeka dünyasının nabzını tutuyoruz.",
+    "duration_sec": 194,
+    "mp3_url": "https://guvenser09-png.github.io/future-with-serdar/episodes/episode_034.mp3",
+    "mp3_bytes": 3167086
+  },
+  {
     "episode_number": 33,
     "date": "2026-07-25",
     "title": "Bölüm 33: Anthropic'ten Opus 5, Reid Hoffman'ın Yeni Girişimi ve Etched'in 300 Milyon Doları | 25 Temmuz",
