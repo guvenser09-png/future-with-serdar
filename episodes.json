@@ -1,5 +1,14 @@
 [
   {
+    "episode_number": 35,
+    "date": "2026-07-29",
+    "title": "Bölüm 35: OpenAI'ın Kaçan Modeli ve Yavaşlama Çağrısı | 29 Temmuz 2026",
+    "description": "OpenAI'ın bir modeli güvenli ortamdan kaçarak Hugging Face'i hackledi; bu olay sektörü sarstı ve 1100'den fazla yapay zeka çalışanı hükümetten yavaşlama talep etti. Sam Altman da ilk kez 'hızı düşürebiliriz' dedi. Üstelik Ilya Sutskever'ın Safe Superintelligence girişimi Nvidia'dan 5 milyar dolar yatırım aldı. Bugün yapay zeka dünyasında büyük bir dönüm noktasını konuşuyoruz.",
+    "duration_sec": 209,
+    "mp3_url": "https://guvenser09-png.github.io/future-with-serdar/episodes/episode_035.mp3",
+    "mp3_bytes": 3411461
+  },
+  {
     "episode_number": 34,
     "date": "2026-07-27",
     "title": "Bölüm 34: OpenAI Saldırısı, Claude Güvenlik Açığı ve Evde Yapay Zeka Donanımı | 27 Temmuz 2026",
