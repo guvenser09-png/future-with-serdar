@@ -1,5 +1,14 @@
 [
   {
+    "episode_number": 36,
+    "date": "2026-07-31",
+    "title": "Bölüm 36: Google'ın Robot Beyni, LLM Güvenlik Açığı ve Ajan İş Dünyası | 31 Temmuz",
+    "description": "Bugün Google DeepMind'ın yeni robotik modeli Gemini Robotics ER 2'yi, büyük dil modellerini temelinden etkileyen bir güvenlik açığını ve GPT 5.6 Sol'un gerçek bir işletmeyi yönetme denemesini konuşuyoruz. Bilgili ama kibirli değil — işte yapay zeka dünyasında son 24 saat, Türk kullanıcı ve girişimci gözüyle yorumlanmış haliyle.",
+    "duration_sec": 251,
+    "mp3_url": "https://guvenser09-png.github.io/future-with-serdar/episodes/episode_036.mp3",
+    "mp3_bytes": 4080136
+  },
+  {
     "episode_number": 35,
     "date": "2026-07-29",
     "title": "Bölüm 35: OpenAI'ın Kaçan Modeli ve Yavaşlama Çağrısı | 29 Temmuz 2026",
