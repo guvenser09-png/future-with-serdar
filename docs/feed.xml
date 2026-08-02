@@ -25,7 +25,18 @@ Bu programın kendisi de bir yapay zeka deneyi: senaryo, ses ve yayın tamamen o
       <itunes:name>Serdar Güven</itunes:name>
       <itunes:email>guvenser09@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Fri, 31 Jul 2026 07:34:52 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 07:34:54 +0300</lastBuildDate>
+    <item>
+      <title>Bölüm 37: AI Mali Tavsiyesi, Nothing'in Yeni Vizyonu ve Google Earth Krizi | 2 Ağustos 2026</title>
+      <description>MIT'nin yeni araştırması, yapay zekanın mali tavsiyede ne kadar iyi olduğunu ortaya koyuyor — ama doğru soruyu sormak şart. Nothing akıllı telefonu rafa kaldırıp giyilebilir yapay zeka cihazlarına odaklanmaya hazırlanıyor. Google ise Earth platformuna entegre ettiği yapay zeka görsel aracını güvenlik ihlalleri nedeniyle geri çekmek zorunda kaldı. Bugün tüm bu gelişmeleri Türk kullanıcı perspektifinden ele alıyoruz.</description>
+      <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_037.mp3" length="3622910" type="audio/mpeg"/>
+      <guid isPermaLink="false">fws-ep-37</guid>
+      <pubDate>Sun, 02 Aug 2026 08:30:00 +0300</pubDate>
+      <itunes:author>Serdar Güven</itunes:author>
+      <itunes:duration>00:03:42</itunes:duration>
+      <itunes:episode>37</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Bölüm 36: Google'ın Robot Beyni, LLM Güvenlik Açığı ve Ajan İş Dünyası | 31 Temmuz</title>
       <description>Bugün Google DeepMind'ın yeni robotik modeli Gemini Robotics ER 2'yi, büyük dil modellerini temelinden etkileyen bir güvenlik açığını ve GPT 5.6 Sol'un gerçek bir işletmeyi yönetme denemesini konuşuyoruz. Bilgili ama kibirli değil — işte yapay zeka dünyasında son 24 saat, Türk kullanıcı ve girişimci gözüyle yorumlanmış haliyle.</description>
