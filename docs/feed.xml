@@ -25,7 +25,18 @@ Bu programın kendisi de bir yapay zeka deneyi: senaryo, ses ve yayın tamamen o
       <itunes:name>Serdar Güven</itunes:name>
       <itunes:email>guvenser09@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sun, 02 Aug 2026 07:34:54 +0300</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 07:34:34 +0300</lastBuildDate>
+    <item>
+      <title>Bölüm 38: Alibaba'dan Devasa Model, AB'den Şeffaflık Zorunluluğu ve OpenAI'ın Çözdüğü Matematik Mucizeleri | 4 Ağustos 2026</title>
+      <description>Alibaba, 2,4 trilyon parametreli Qwen3.8-Max modeliyle Anthropic ve OpenAI'a meydan okuyor. Avrupa Birliği'nin yapay zeka şeffaflık kuralları 2 Ağustos'ta yürürlüğe girdi; artık deepfake'lere etiket zorunluluğu var. OpenAI ise henüz kamuya açmadığı Astra modeliyle onlarca yıldır çözülemeyen 10 matematik problemini çözdüğünü duyurdu. Bugün de dolu dolu bir bölüm, hazırsanız başlayalım.</description>
+      <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_038.mp3" length="3909384" type="audio/mpeg"/>
+      <guid isPermaLink="false">fws-ep-38</guid>
+      <pubDate>Tue, 04 Aug 2026 08:30:00 +0300</pubDate>
+      <itunes:author>Serdar Güven</itunes:author>
+      <itunes:duration>00:04:00</itunes:duration>
+      <itunes:episode>38</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Bölüm 37: AI Mali Tavsiyesi, Nothing'in Yeni Vizyonu ve Google Earth Krizi | 2 Ağustos 2026</title>
       <description>MIT'nin yeni araştırması, yapay zekanın mali tavsiyede ne kadar iyi olduğunu ortaya koyuyor — ama doğru soruyu sormak şart. Nothing akıllı telefonu rafa kaldırıp giyilebilir yapay zeka cihazlarına odaklanmaya hazırlanıyor. Google ise Earth platformuna entegre ettiği yapay zeka görsel aracını güvenlik ihlalleri nedeniyle geri çekmek zorunda kaldı. Bugün tüm bu gelişmeleri Türk kullanıcı perspektifinden ele alıyoruz.</description>
