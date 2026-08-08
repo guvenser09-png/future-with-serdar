@@ -1,5 +1,14 @@
 [
   {
+    "episode_number": 40,
+    "date": "2026-08-08",
+    "title": "Bölüm 40: OpenAI'ın Kendi Modelini Durdurması, Sınırsız ChatGPT ve ByteDance'ın Dev Atılımı | 8 Ağustos 2026",
+    "description": "OpenAI, geliştirdiği Astra modelinin siber saldırı kapasitesine ulaştığını fark edince geliştirmeyi yavaşlattı. Aynı gün ücretsiz ChatGPT kullanıcılarına sınırsız metin sohbeti ve yeni model müjdesi geldi. Üstüne bir de ByteDance, Anthropic'e rakip olabilecek 10 trilyon parametreli bir model eğitiyor. Yapay zeka dünyasında bugün adeta haber üstüne haber yağdı.",
+    "duration_sec": 214,
+    "mp3_url": "https://guvenser09-png.github.io/future-with-serdar/episodes/episode_040.mp3",
+    "mp3_bytes": 3486315
+  },
+  {
     "episode_number": 39,
     "date": "2026-08-06",
     "title": "Bölüm 39: Google'ın Devi Ayrıldı, Yapay Zeka Ajanlar Çıldırdı | 6 Ağustos 2026",
