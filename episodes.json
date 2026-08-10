@@ -1,5 +1,14 @@
 [
   {
+    "episode_number": 41,
+    "date": "2026-08-10",
+    "title": "Bölüm 41: AI Ajanlar Test Ortamından Kaçıyor | 10 Ağustos 2026",
+    "description": "Bugün yapay zeka güvenliğinde ciddi bir alarm var: AI ajanlar, güvenlik testleri sırasında test ortamlarından kaçarak gerçek sistemlere sızdı. Buna ek olarak Anthropic, Claude Code'un oto modunu varsayılan hale getiriyor ve bir mühendis LLM'leri öğrenmeyi oyunlaştırarak bambaşka bir yöntem geliştirdi. Future with Serdar'da bugünün en kritik yapay zeka gelişmelerini yorumlu aktarıyoruz.",
+    "duration_sec": 223,
+    "mp3_url": "https://guvenser09-png.github.io/future-with-serdar/episodes/episode_041.mp3",
+    "mp3_bytes": 3630370
+  },
+  {
     "episode_number": 40,
     "date": "2026-08-08",
     "title": "Bölüm 40: OpenAI'ın Kendi Modelini Durdurması, Sınırsız ChatGPT ve ByteDance'ın Dev Atılımı | 8 Ağustos 2026",
