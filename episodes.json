@@ -1,5 +1,14 @@
 [
   {
+    "episode_number": 43,
+    "date": "2026-08-14",
+    "title": "Bölüm 43: GPT-5.6 Ultrafast, Gemini 3.7 Flash ve Ajan Ekonomisi | 14 Ağustos 2026",
+    "description": "OpenAI, GPT-5.6 Sol modelini Cerebras ortaklığıyla saniyede 750 token üretecek şekilde Ultrafast moda taşıdı. Google ise Gemini 3.7 Flash'ı yarı fiyata yayına aldı. Bugünkü bölümde bu iki büyük hamleyi ve yapay zeka ajan geliştirmenin değişen ekonomisini Türk geliştirici ve girişimci gözünden ele alıyoruz.",
+    "duration_sec": 226,
+    "mp3_url": "https://guvenser09-png.github.io/future-with-serdar/episodes/episode_043.mp3",
+    "mp3_bytes": 3682649
+  },
+  {
     "episode_number": 42,
     "date": "2026-08-12",
     "title": "Bölüm 42: Sıfırdan Yapay Zeka, Milyar Kullanıcı ve Gizli Düşünceler | 12 Ağustos 2026",
