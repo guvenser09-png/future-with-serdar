@@ -25,7 +25,18 @@ Bu programın kendisi de bir yapay zeka deneyi: senaryo, ses ve yayın tamamen o
       <itunes:name>Serdar Güven</itunes:name>
       <itunes:email>guvenser09@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Fri, 14 Aug 2026 07:35:30 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 07:33:52 +0300</lastBuildDate>
+    <item>
+      <title>Bölüm 44: SpaceX, Cursor'ı 60 Milyar Dolara Kapattı | 16 Ağustos 2026</title>
+      <description>SpaceX'in Cursor satın alımı resmen kapandı ve yapay zeka kodlama dünyası yeniden şekilleniyor. ChatGPT artık Google Drive dosyalarınızı doğrudan düzenleyebiliyor. Üstelik yapay zekayla çalışmak giderek daha çok liderliğe benziyor — bunu açıklıyoruz.</description>
+      <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_044.mp3" length="3058940" type="audio/mpeg"/>
+      <guid isPermaLink="false">fws-ep-44</guid>
+      <pubDate>Sun, 16 Aug 2026 08:30:00 +0300</pubDate>
+      <itunes:author>Serdar Güven</itunes:author>
+      <itunes:duration>00:03:07</itunes:duration>
+      <itunes:episode>44</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Bölüm 43: GPT-5.6 Ultrafast, Gemini 3.7 Flash ve Ajan Ekonomisi | 14 Ağustos 2026</title>
       <description>OpenAI, GPT-5.6 Sol modelini Cerebras ortaklığıyla saniyede 750 token üretecek şekilde Ultrafast moda taşıdı. Google ise Gemini 3.7 Flash'ı yarı fiyata yayına aldı. Bugünkü bölümde bu iki büyük hamleyi ve yapay zeka ajan geliştirmenin değişen ekonomisini Türk geliştirici ve girişimci gözünden ele alıyoruz.</description>
