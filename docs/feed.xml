@@ -25,7 +25,18 @@ Bu programın kendisi de bir yapay zeka deneyi: senaryo, ses ve yayın tamamen o
       <itunes:name>Serdar Güven</itunes:name>
       <itunes:email>guvenser09@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sun, 16 Aug 2026 07:33:52 +0300</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 07:34:50 +0300</lastBuildDate>
+    <item>
+      <title>Bölüm 45: Stripe 7 Milyar Dolara OpenRouter'ı Aldı, ChatGPT Bilgisayarınızı İzleyecek | 18 Ağustos 2026</title>
+      <description>Stripe, yapay zeka altyapı girişimi OpenRouter'ı 7 milyar dolara satın alarak fintech'ten AI ekosisteminin kalbine adım atıyor. ChatGPT'nin yeni Computer History özelliği bilgisayarınızdaki aktiviteleri hatırlayacak. Anthropic ise yıllık 65 milyar dolar gelirle tarihi bir büyüme kaydediyor. Future with Serdar'da bugünün en kritik gelişmeleri, sizi doğrudan etkileyen yorumlarla.</description>
+      <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_045.mp3" length="3589836" type="audio/mpeg"/>
+      <guid isPermaLink="false">fws-ep-45</guid>
+      <pubDate>Tue, 18 Aug 2026 08:30:00 +0300</pubDate>
+      <itunes:author>Serdar Güven</itunes:author>
+      <itunes:duration>00:03:40</itunes:duration>
+      <itunes:episode>45</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Bölüm 44: SpaceX, Cursor'ı 60 Milyar Dolara Kapattı | 16 Ağustos 2026</title>
       <description>SpaceX'in Cursor satın alımı resmen kapandı ve yapay zeka kodlama dünyası yeniden şekilleniyor. ChatGPT artık Google Drive dosyalarınızı doğrudan düzenleyebiliyor. Üstelik yapay zekayla çalışmak giderek daha çok liderliğe benziyor — bunu açıklıyoruz.</description>
