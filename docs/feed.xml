@@ -25,7 +25,18 @@ Bu programın kendisi de bir yapay zeka deneyi: senaryo, ses ve yayın tamamen o
       <itunes:name>Serdar Güven</itunes:name>
       <itunes:email>guvenser09@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 20 Aug 2026 07:35:12 +0300</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 07:35:01 +0300</lastBuildDate>
+    <item>
+      <title>Bölüm 47: ChatGPT Mesajlarını Okuyor, İnternetin Üçte Biri Yapay Zeka | 22 Ağustos 2026</title>
+      <description>ChatGPT artık Mac'teki iMessage mesajlarınıza erişebiliyor, yazışmalarınızı özetleyip sizin adınıza mesaj gönderebiliyor. Pew Research'ün yeni araştırmasına göre ise ChatGPT sonrası yayımlanan web sayfalarının yüzde 35'i yapay zeka izleri taşıyor. Üstüne bir de Meta AI gözlükleri tartışması: gizlilik mi, konfor mu? Future with Serdar'da bugünün üç kritik gelişmesini yorumlu ve pratik bir bakışla ele alıyoruz.</description>
+      <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_047.mp3" length="3443647" type="audio/mpeg"/>
+      <guid isPermaLink="false">fws-ep-47</guid>
+      <pubDate>Sat, 22 Aug 2026 08:30:00 +0300</pubDate>
+      <itunes:author>Serdar Güven</itunes:author>
+      <itunes:duration>00:03:31</itunes:duration>
+      <itunes:episode>47</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Bölüm 46: Claude E-posta Gönderiyor, OpenAI Frene Bastı | 20 Ağustos 2026</title>
       <description>Bugün Claude'un Gmail üzerinden kullanıcı onayı olmadan e-posta gönderme özelliği, yapay zeka donanım şirketi Etched'in devasa yatırım turu ve OpenAI'ın geliştirme sürecine neden fren yaptığı gündemde. Yorumlu ve pratik bir bülten için doğru yerdesiniz.</description>

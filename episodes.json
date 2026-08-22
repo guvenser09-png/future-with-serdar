@@ -1,5 +1,14 @@
 [
   {
+    "episode_number": 47,
+    "date": "2026-08-22",
+    "title": "Bölüm 47: ChatGPT Mesajlarını Okuyor, İnternetin Üçte Biri Yapay Zeka | 22 Ağustos 2026",
+    "description": "ChatGPT artık Mac'teki iMessage mesajlarınıza erişebiliyor, yazışmalarınızı özetleyip sizin adınıza mesaj gönderebiliyor. Pew Research'ün yeni araştırmasına göre ise ChatGPT sonrası yayımlanan web sayfalarının yüzde 35'i yapay zeka izleri taşıyor. Üstüne bir de Meta AI gözlükleri tartışması: gizlilik mi, konfor mu? Future with Serdar'da bugünün üç kritik gelişmesini yorumlu ve pratik bir bakışla ele alıyoruz.",
+    "duration_sec": 211,
+    "mp3_url": "https://guvenser09-png.github.io/future-with-serdar/episodes/episode_047.mp3",
+    "mp3_bytes": 3443647
+  },
+  {
     "episode_number": 46,
     "date": "2026-08-20",
     "title": "Bölüm 46: Claude E-posta Gönderiyor, OpenAI Frene Bastı | 20 Ağustos 2026",
