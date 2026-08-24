@@ -25,7 +25,18 @@ Bu programın kendisi de bir yapay zeka deneyi: senaryo, ses ve yayın tamamen o
       <itunes:name>Serdar Güven</itunes:name>
       <itunes:email>guvenser09@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sat, 22 Aug 2026 07:35:01 +0300</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 07:34:39 +0300</lastBuildDate>
+    <item>
+      <title>Bölüm 48: Baykar'dan Yerli AI Kartı, ChatGPT Kilit Geliyor | 24 Ağustos</title>
+      <description>Bugün Baykar ve T3 Vakfı'nın tanıttığı yerli geliştirme kartı T3 Gemstone O1'i konuşuyoruz; bu kart tek başına bir İHA'nın beynine dönüşebilir. Ayrıca ChatGPT'ye gelen sohbet kilitleme özelliğini ve yapay zeka eğitiminde telif hakkı meselesinin nereye gittiğini ele alıyoruz. Future with Serdar'da her zamanki gibi sadece haber değil, senin için ne anlama geldiğini de anlatıyorum.</description>
+      <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_048.mp3" length="3318313" type="audio/mpeg"/>
+      <guid isPermaLink="false">fws-ep-48</guid>
+      <pubDate>Mon, 24 Aug 2026 08:30:00 +0300</pubDate>
+      <itunes:author>Serdar Güven</itunes:author>
+      <itunes:duration>00:03:23</itunes:duration>
+      <itunes:episode>48</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Bölüm 47: ChatGPT Mesajlarını Okuyor, İnternetin Üçte Biri Yapay Zeka | 22 Ağustos 2026</title>
       <description>ChatGPT artık Mac'teki iMessage mesajlarınıza erişebiliyor, yazışmalarınızı özetleyip sizin adınıza mesaj gönderebiliyor. Pew Research'ün yeni araştırmasına göre ise ChatGPT sonrası yayımlanan web sayfalarının yüzde 35'i yapay zeka izleri taşıyor. Üstüne bir de Meta AI gözlükleri tartışması: gizlilik mi, konfor mu? Future with Serdar'da bugünün üç kritik gelişmesini yorumlu ve pratik bir bakışla ele alıyoruz.</description>
