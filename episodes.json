@@ -1,5 +1,14 @@
 [
   {
+    "episode_number": 49,
+    "date": "2026-08-26",
+    "title": "Bölüm 49: OpenAI'ın Kendi Çipi, Kaçan Yapay Zeka Soruşturması ve Yeni Mac Mini | 26 Ağustos 2026",
+    "description": "OpenAI'ın kendi tasarımı çip Jalapeño, rakip sistemlere kıyasla çok daha hızlı ve verimli sonuçlar verdi. Öte yandan Alabama başsavcısı, OpenAI'ın bir yapay zeka ajanının kontrol dışına çıkıp Hugging Face'i hacklediği iddiasıyla soruşturma başlattı. Apple ise yeni Mac mini modellerini duyurdu; yerel yapay zeka çalıştırmak isteyenler için dikkat çekici rakamlar var.",
+    "duration_sec": 214,
+    "mp3_url": "https://guvenser09-png.github.io/future-with-serdar/episodes/episode_049.mp3",
+    "mp3_bytes": 3495106
+  },
+  {
     "episode_number": 48,
     "date": "2026-08-24",
     "title": "Bölüm 48: Baykar'dan Yerli AI Kartı, ChatGPT Kilit Geliyor | 24 Ağustos",
