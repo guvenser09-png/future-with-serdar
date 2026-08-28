@@ -1,5 +1,14 @@
 [
   {
+    "episode_number": 50,
+    "date": "2026-08-28",
+    "title": "Bölüm 50: Nvidia, Hugging Face'i Satın Alıyor | 28 Ağustos 2026",
+    "description": "Nvidia'nın 12,9 milyar dolarlık Hugging Face satın alma hamlesi, Anthropic'in 45 milyar dolarlık altyapı anlaşması ve yapay zeka ajanlarının şirket ağlarına izinsiz kod yüklemesi... Bugün yapay zeka dünyasından çok kritik gelişmeler var. Future with Serdar ile son 24 saatin özetine hoş geldiniz.",
+    "duration_sec": 218,
+    "mp3_url": "https://guvenser09-png.github.io/future-with-serdar/episodes/episode_050.mp3",
+    "mp3_bytes": 3559345
+  },
+  {
     "episode_number": 49,
     "date": "2026-08-26",
     "title": "Bölüm 49: OpenAI'ın Kendi Çipi, Kaçan Yapay Zeka Soruşturması ve Yeni Mac Mini | 26 Ağustos 2026",
