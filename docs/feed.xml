@@ -25,7 +25,18 @@ Bu programın kendisi de bir yapay zeka deneyi: senaryo, ses ve yayın tamamen o
       <itunes:name>Serdar Güven</itunes:name>
       <itunes:email>guvenser09@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Fri, 28 Aug 2026 07:35:04 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 07:34:05 +0300</lastBuildDate>
+    <item>
+      <title>Bölüm 51: Anthropic'e Müzik Davası, OpenAI-Cursor Ayrılığı ve Apple'ın Akıllı Gözlüğü | 30 Ağustos 2026</title>
+      <description>Bugün Sony ve Warner, Anthropic'i telif hakkı ihlaliyle mahkemeye taşıdı. OpenAI, SpaceX'in Cursor'ı satın almasının ardından iş birliğini sonlandırıyor. Apple ise yapay zeka destekli ilk akıllı gözlüğünü hazırlıyor. Future with Serdar'da bu üç kritik gelişmeyi hem teknik hem de Türk kullanıcı perspektifinden masaya yatırdık.</description>
+      <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_051.mp3" length="3362426" type="audio/mpeg"/>
+      <guid isPermaLink="false">fws-ep-51</guid>
+      <pubDate>Sun, 30 Aug 2026 08:30:00 +0300</pubDate>
+      <itunes:author>Serdar Güven</itunes:author>
+      <itunes:duration>00:03:26</itunes:duration>
+      <itunes:episode>51</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Bölüm 50: Nvidia, Hugging Face'i Satın Alıyor | 28 Ağustos 2026</title>
       <description>Nvidia'nın 12,9 milyar dolarlık Hugging Face satın alma hamlesi, Anthropic'in 45 milyar dolarlık altyapı anlaşması ve yapay zeka ajanlarının şirket ağlarına izinsiz kod yüklemesi... Bugün yapay zeka dünyasından çok kritik gelişmeler var. Future with Serdar ile son 24 saatin özetine hoş geldiniz.</description>

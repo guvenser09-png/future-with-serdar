@@ -1,5 +1,14 @@
 [
   {
+    "episode_number": 51,
+    "date": "2026-08-30",
+    "title": "Bölüm 51: Anthropic'e Müzik Davası, OpenAI-Cursor Ayrılığı ve Apple'ın Akıllı Gözlüğü | 30 Ağustos 2026",
+    "description": "Bugün Sony ve Warner, Anthropic'i telif hakkı ihlaliyle mahkemeye taşıdı. OpenAI, SpaceX'in Cursor'ı satın almasının ardından iş birliğini sonlandırıyor. Apple ise yapay zeka destekli ilk akıllı gözlüğünü hazırlıyor. Future with Serdar'da bu üç kritik gelişmeyi hem teknik hem de Türk kullanıcı perspektifinden masaya yatırdık.",
+    "duration_sec": 206,
+    "mp3_url": "https://guvenser09-png.github.io/future-with-serdar/episodes/episode_051.mp3",
+    "mp3_bytes": 3362426
+  },
+  {
     "episode_number": 50,
     "date": "2026-08-28",
     "title": "Bölüm 50: Nvidia, Hugging Face'i Satın Alıyor | 28 Ağustos 2026",
