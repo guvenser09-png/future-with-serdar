@@ -1,5 +1,14 @@
 [
   {
+    "episode_number": 52,
+    "date": "2026-09-01",
+    "title": "Bölüm 52: Nvidia'nın 3,5 Milyar Dolarlık Hamlesi ve Claude'un Kendi Kendini Geliştirmesi | 1 Eylül 2026",
+    "description": "Nvidia, Tayvan'lı çip üreticisi MediaTek'e 3,5 milyar dolar yatırım yapıyor; AWS ise altyapısına 2 milyon GPU daha ekliyor. Anthropic'in yeni araştırması Claude'un, insan araştırmacıları geride bırakarak kendi güvenlik eğitimini otomatikleştirebildiğini ortaya koyuyor. Future with Serdar'da bugünkü haberlerin sektöre ve size yansımaları.",
+    "duration_sec": 260,
+    "mp3_url": "https://guvenser09-png.github.io/future-with-serdar/episodes/episode_052.mp3",
+    "mp3_bytes": 4226825
+  },
+  {
     "episode_number": 51,
     "date": "2026-08-30",
     "title": "Bölüm 51: Anthropic'e Müzik Davası, OpenAI-Cursor Ayrılığı ve Apple'ın Akıllı Gözlüğü | 30 Ağustos 2026",
