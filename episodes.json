@@ -1,5 +1,14 @@
 [
   {
+    "episode_number": 53,
+    "date": "2026-09-03",
+    "title": "Bölüm 53: OpenAI'nın Astra Krizi ve Anthropic'in Çift Yönlü Hamlesi | 3 Eylül 2026",
+    "description": "OpenAI'nın en güçlü modeli Astra, denetlenemez olabileceği endişesiyle güvenlik dünyasını alarma geçirdi. Aynı gün Anthropic, Claude Fable 5.1 ve Mythos 5.1 modellerini duyurarak hem performansı hem de güvenliği yeniden tanımladı. Future with Serdar'da bugün yapay zeka güvenliğinin kırılma noktasını ve pratik sonuçlarını konuşuyoruz.",
+    "duration_sec": 238,
+    "mp3_url": "https://guvenser09-png.github.io/future-with-serdar/episodes/episode_053.mp3",
+    "mp3_bytes": 3877912
+  },
+  {
     "episode_number": 52,
     "date": "2026-09-01",
     "title": "Bölüm 52: Nvidia'nın 3,5 Milyar Dolarlık Hamlesi ve Claude'un Kendi Kendini Geliştirmesi | 1 Eylül 2026",

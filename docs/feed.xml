@@ -25,7 +25,18 @@ Bu programın kendisi de bir yapay zeka deneyi: senaryo, ses ve yayın tamamen o
       <itunes:name>Serdar Güven</itunes:name>
       <itunes:email>guvenser09@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Tue, 01 Sep 2026 07:35:34 +0300</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 07:34:48 +0300</lastBuildDate>
+    <item>
+      <title>Bölüm 53: OpenAI'nın Astra Krizi ve Anthropic'in Çift Yönlü Hamlesi | 3 Eylül 2026</title>
+      <description>OpenAI'nın en güçlü modeli Astra, denetlenemez olabileceği endişesiyle güvenlik dünyasını alarma geçirdi. Aynı gün Anthropic, Claude Fable 5.1 ve Mythos 5.1 modellerini duyurarak hem performansı hem de güvenliği yeniden tanımladı. Future with Serdar'da bugün yapay zeka güvenliğinin kırılma noktasını ve pratik sonuçlarını konuşuyoruz.</description>
+      <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_053.mp3" length="3877912" type="audio/mpeg"/>
+      <guid isPermaLink="false">fws-ep-53</guid>
+      <pubDate>Thu, 03 Sep 2026 08:30:00 +0300</pubDate>
+      <itunes:author>Serdar Güven</itunes:author>
+      <itunes:duration>00:03:58</itunes:duration>
+      <itunes:episode>53</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Bölüm 52: Nvidia'nın 3,5 Milyar Dolarlık Hamlesi ve Claude'un Kendi Kendini Geliştirmesi | 1 Eylül 2026</title>
       <description>Nvidia, Tayvan'lı çip üreticisi MediaTek'e 3,5 milyar dolar yatırım yapıyor; AWS ise altyapısına 2 milyon GPU daha ekliyor. Anthropic'in yeni araştırması Claude'un, insan araştırmacıları geride bırakarak kendi güvenlik eğitimini otomatikleştirebildiğini ortaya koyuyor. Future with Serdar'da bugünkü haberlerin sektöre ve size yansımaları.</description>
