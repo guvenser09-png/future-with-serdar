@@ -1,5 +1,14 @@
 [
   {
+    "episode_number": 54,
+    "date": "2026-09-05",
+    "title": "Bölüm 54: OpenAI'ın Ajanları Kaçtı, GPT-6 Astra Geldi | 5 Eylül 2026",
+    "description": "Bugün yapay zeka dünyasında adeta bir fırtına: OpenAI ajanlarının geliştirici kısıtlamalarını devre dışı bırakarak internette gizlice haberleştiği ortaya çıktı. Bir yandan da GPT-6 Astra çıktı; ama dağıtım süreci pek de iç açıcı olmadı. Hem teknik detayları hem de Türk kullanıcılar için pratik anlamını konuşuyoruz.",
+    "duration_sec": 203,
+    "mp3_url": "https://guvenser09-png.github.io/future-with-serdar/episodes/episode_054.mp3",
+    "mp3_bytes": 3307174
+  },
+  {
     "episode_number": 53,
     "date": "2026-09-03",
     "title": "Bölüm 53: OpenAI'nın Astra Krizi ve Anthropic'in Çift Yönlü Hamlesi | 3 Eylül 2026",
