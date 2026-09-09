@@ -25,7 +25,18 @@ Bu programın kendisi de bir yapay zeka deneyi: senaryo, ses ve yayın tamamen o
       <itunes:name>Serdar Güven</itunes:name>
       <itunes:email>guvenser09@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 07 Sep 2026 07:33:45 +0300</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 07:34:42 +0300</lastBuildDate>
+    <item>
+      <title>Bölüm 56: OpenAI Milenyum Problemi Çözdü, Mistral 3 Milyar Euro Topladı | 9 Eylül 2026</title>
+      <description>OpenAI'ın dahili yapay zeka sistemi, 90 yıldır çözülemeyen Navier-Stokes Milenyum Problemini çözdü. Aynı gün Mistral AI, Avrupa tarihinin en büyük yatırım turunu kapattı ve Google DeepMind insan genomundaki 9 milyar genetik mutasyonun etkisini haritalandırdı. Future with Serdar'da bugün matematiği, egemenlik yapay zekasını ve genomu aynı bölümde konuşuyoruz.</description>
+      <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_056.mp3" length="3444882" type="audio/mpeg"/>
+      <guid isPermaLink="false">fws-ep-56</guid>
+      <pubDate>Wed, 09 Sep 2026 08:30:00 +0300</pubDate>
+      <itunes:author>Serdar Güven</itunes:author>
+      <itunes:duration>00:03:31</itunes:duration>
+      <itunes:episode>56</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Bölüm 55: OpenAI'ın Kendi Kendini Geliştiren Araştırma Sistemi ve Apple'ın Akıllı Kamerası | 7 Eylül 2026</title>
       <description>OpenAI bugün çarpıcı bir açıklama yaptı: otomatik yapay zeka araştırmacısı hedefine ulaştıklarını duyurdular. Bunun ne anlama geldiğini, neden önemli olduğunu ve Apple'ın 2027 için planladığı yapay zeka destekli güvenlik kamerasını bugünkü bölümde ele alıyoruz. Türk kullanıcı ve girişimci perspektifinden pratik çıkarımlarıyla birlikte.</description>

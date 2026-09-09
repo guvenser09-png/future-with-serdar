@@ -1,5 +1,14 @@
 [
   {
+    "episode_number": 56,
+    "date": "2026-09-09",
+    "title": "Bölüm 56: OpenAI Milenyum Problemi Çözdü, Mistral 3 Milyar Euro Topladı | 9 Eylül 2026",
+    "description": "OpenAI'ın dahili yapay zeka sistemi, 90 yıldır çözülemeyen Navier-Stokes Milenyum Problemini çözdü. Aynı gün Mistral AI, Avrupa tarihinin en büyük yatırım turunu kapattı ve Google DeepMind insan genomundaki 9 milyar genetik mutasyonun etkisini haritalandırdı. Future with Serdar'da bugün matematiği, egemenlik yapay zekasını ve genomu aynı bölümde konuşuyoruz.",
+    "duration_sec": 211,
+    "mp3_url": "https://guvenser09-png.github.io/future-with-serdar/episodes/episode_056.mp3",
+    "mp3_bytes": 3444882
+  },
+  {
     "episode_number": 55,
     "date": "2026-09-07",
     "title": "Bölüm 55: OpenAI'ın Kendi Kendini Geliştiren Araştırma Sistemi ve Apple'ın Akıllı Kamerası | 7 Eylül 2026",
