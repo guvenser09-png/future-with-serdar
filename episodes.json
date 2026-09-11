@@ -1,5 +1,14 @@
 [
   {
+    "episode_number": 57,
+    "date": "2026-09-11",
+    "title": "Bölüm 57: Cognition SWE-2, OpenAI Veri Ajani ve Harvey'nin Milyarlari | 11 Eylül 2026",
+    "description": "Cognition'in yeni kodlama modeli SWE-2 rakiplerle neredeyse aynı performansi çeyrek fiyata sunuyor. OpenAI ise ChatGPT Work'e veri ajani ekledi: artik SQL bilmeden sirket verinizi analiz edebilirsiniz. Üstelik hukuk yapay zekasi Harvey 15,5 milyar dolar degerlemeyle dev bir yatirim turu kapatti. Tüm bunlari bugünün bölümünde konusuyoruz.",
+    "duration_sec": 225,
+    "mp3_url": "https://guvenser09-png.github.io/future-with-serdar/episodes/episode_057.mp3",
+    "mp3_bytes": 3663663
+  },
+  {
     "episode_number": 56,
     "date": "2026-09-09",
     "title": "Bölüm 56: OpenAI Milenyum Problemi Çözdü, Mistral 3 Milyar Euro Topladı | 9 Eylül 2026",
