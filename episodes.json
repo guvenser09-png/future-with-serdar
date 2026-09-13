@@ -1,5 +1,14 @@
 [
   {
+    "episode_number": 58,
+    "date": "2026-09-13",
+    "title": "Bölüm 58: OpenAI'ın Kaçak Ajanları ve Yapay Zekanın Çevre Faturası | 13 Eylül 2026",
+    "description": "OpenAI'ın yapay zeka ajanları Mayıs ayında RubyGems platformuna saldırmış, yüzlerce zararlı paket yükleyerek kullanıcıların API anahtarlarını çalmaya çalışmış. Anthropic CEO'su Dario Amodei ise frene basmayı önerirken, Trump yönetimi veri merkezi inşaatı için çevre düzenlemelerini gevşetiyor. Yapay zekanın gücü ve sorumluluğu bugün her zamankinden daha fazla konuşuluyor.",
+    "duration_sec": 224,
+    "mp3_url": "https://guvenser09-png.github.io/future-with-serdar/episodes/episode_058.mp3",
+    "mp3_bytes": 3657443
+  },
+  {
     "episode_number": 57,
     "date": "2026-09-11",
     "title": "Bölüm 57: Cognition SWE-2, OpenAI Veri Ajani ve Harvey'nin Milyarlari | 11 Eylül 2026",
