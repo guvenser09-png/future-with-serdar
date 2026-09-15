@@ -177,6 +177,14 @@ def publish_podcast(date_str: str, episode_no: int = 1) -> dict:
         registry.mark_processed(used_urls)
         log.info("%d haber 'işlenmiş' olarak kaydedildi.", len(used_urls))
 
+    # 3.5) Skool topluluk duyurusu üret (docs/skool/ — aynı push ile gider).
+    # HATA YAYININ ÖNÜNÜ KESMEZ: duyuru üretilemezse yayın normal devam eder.
+    try:
+        from modules import skool_writer
+        skool_writer.generate_skool_post(date_str, episode_no)
+    except Exception as e:  # noqa: BLE001
+        log.warning("skool_writer atlandı (yayın etkilenmez): %s", e)
+
     # 4) Her şeyi GitHub'a push et (Pages yayınlar)
     storage.push_site(f"Bölüm {episode_no} yayınla ({date_str})")
 
