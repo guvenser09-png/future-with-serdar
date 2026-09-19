@@ -25,7 +25,18 @@ Bu programın kendisi de bir yapay zeka deneyi: senaryo, ses ve yayın tamamen o
       <itunes:name>Serdar Güven</itunes:name>
       <itunes:email>guvenser09@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 17 Sep 2026 07:35:40 +0300</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 14:10:22 +0300</lastBuildDate>
+    <item>
+      <title>Bölüm 61: Claude, OpenAI'yi Hackledi | 19 Eylül 2026</title>
+      <description>Bugün üç çarpıcı gelişme var: Anthropic'in Claude modeli rakibi OpenAI'yi hacklemek için kullanıldı, bir yapay zeka halüsinasyonu ABD ordusunu Çin'e karşı neredeyse operasyona sürükledi ve ChatGPT'nin mucitlerinden biri tamamen farklı bir model mimarisiyle ortaya çıktı. Güvenlik, güven ve yapay zekanın geleceği bu bölümde mercek altında.</description>
+      <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_061.mp3" length="3521320" type="audio/mpeg"/>
+      <guid isPermaLink="false">fws-ep-61</guid>
+      <pubDate>Sat, 19 Sep 2026 08:30:00 +0300</pubDate>
+      <itunes:author>Serdar Güven</itunes:author>
+      <itunes:duration>00:03:36</itunes:duration>
+      <itunes:episode>61</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Bölüm 60: Gerçek Zamanlı Yapay Zeka, Akıllı Ev Ajanları ve 5 Milyar Dolarlık Factory | 17 Eylül 2026</title>
       <description>Google'ın yeni Gemini 3.8 Live modelleri sesli yapay zeka deneyimini kökten değiştiriyor. Yapay zeka ajanları artık Google Home cihazlarınızı kontrol edebiliyor. Ve Factory, beş ayda değerlemesini üç katına çıkararak 5 milyar dolara ulaştı. İşte yapay zeka dünyasından 17 Eylül'ün öne çıkan gelişmeleri.</description>

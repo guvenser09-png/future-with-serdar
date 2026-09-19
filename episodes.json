@@ -1,5 +1,14 @@
 [
   {
+    "episode_number": 61,
+    "date": "2026-09-19",
+    "title": "Bölüm 61: Claude, OpenAI'yi Hackledi | 19 Eylül 2026",
+    "description": "Bugün üç çarpıcı gelişme var: Anthropic'in Claude modeli rakibi OpenAI'yi hacklemek için kullanıldı, bir yapay zeka halüsinasyonu ABD ordusunu Çin'e karşı neredeyse operasyona sürükledi ve ChatGPT'nin mucitlerinden biri tamamen farklı bir model mimarisiyle ortaya çıktı. Güvenlik, güven ve yapay zekanın geleceği bu bölümde mercek altında.",
+    "duration_sec": 216,
+    "mp3_url": "https://guvenser09-png.github.io/future-with-serdar/episodes/episode_061.mp3",
+    "mp3_bytes": 3521320
+  },
+  {
     "episode_number": 60,
     "date": "2026-09-17",
     "title": "Bölüm 60: Gerçek Zamanlı Yapay Zeka, Akıllı Ev Ajanları ve 5 Milyar Dolarlık Factory | 17 Eylül 2026",
