@@ -1,5 +1,14 @@
 [
   {
+    "episode_number": 62,
+    "date": "2026-09-21",
+    "title": "Bölüm 62: ChatGPT Sizi Takip Ediyor, 108 Yıllık Şifre Çözüldü | 21 Eylül 2026",
+    "description": "OpenAI'nin reklam izleme çerezi ChatGPT kullanıcılarını diğer sitelerde takip ediyor; araştırmacılar teknik mekanizmayı adım adım ortaya koydu. Üstelik GPT-Astra, 108 yıldır çözülemeyen Birinci Dünya Savaşı şifresini kırdı. Ve Trump, 'AI Force' kurmak istediğini açıkladı. Future with Serdar'da bugünün yapay zeka gündemini yorumlu ve sade bir dille ele aldık.",
+    "duration_sec": 212,
+    "mp3_url": "https://guvenser09-png.github.io/future-with-serdar/episodes/episode_062.mp3",
+    "mp3_bytes": 3464371
+  },
+  {
     "episode_number": 61,
     "date": "2026-09-19",
     "title": "Bölüm 61: Claude, OpenAI'yi Hackledi | 19 Eylül 2026",
