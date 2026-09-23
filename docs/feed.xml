@@ -25,7 +25,18 @@ Bu programın kendisi de bir yapay zeka deneyi: senaryo, ses ve yayın tamamen o
       <itunes:name>Serdar Güven</itunes:name>
       <itunes:email>guvenser09@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 21 Sep 2026 07:34:51 +0300</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 07:35:08 +0300</lastBuildDate>
+    <item>
+      <title>Bölüm 63: GPT-6 Ailesi Genişliyor, Pentagon'dan Yapay Zeka İtirafı | 23 Eylül 2026</title>
+      <description>OpenAI, GPT-6 ailesine Sol ve Luna modellerini ekleyerek API fiyatlarını yüzde elli düşürdü. Pentagon ise İran'daki bir okula yapılan füze saldırısında yapay zekaya aşırı güvenin etkili olduğunu kabul etti. Anthropic'ten de Opus 5.5 haberi var: daha ucuz, daha hızlı ve Fable modeliyle boy ölçüşen yeni bir sürüm.</description>
+      <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_063.mp3" length="3080099" type="audio/mpeg"/>
+      <guid isPermaLink="false">fws-ep-63</guid>
+      <pubDate>Wed, 23 Sep 2026 08:30:00 +0300</pubDate>
+      <itunes:author>Serdar Güven</itunes:author>
+      <itunes:duration>00:03:08</itunes:duration>
+      <itunes:episode>63</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Bölüm 62: ChatGPT Sizi Takip Ediyor, 108 Yıllık Şifre Çözüldü | 21 Eylül 2026</title>
       <description>OpenAI'nin reklam izleme çerezi ChatGPT kullanıcılarını diğer sitelerde takip ediyor; araştırmacılar teknik mekanizmayı adım adım ortaya koydu. Üstelik GPT-Astra, 108 yıldır çözülemeyen Birinci Dünya Savaşı şifresini kırdı. Ve Trump, 'AI Force' kurmak istediğini açıkladı. Future with Serdar'da bugünün yapay zeka gündemini yorumlu ve sade bir dille ele aldık.</description>
