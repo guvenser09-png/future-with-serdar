@@ -25,7 +25,18 @@ Bu programın kendisi de bir yapay zeka deneyi: senaryo, ses ve yayın tamamen o
       <itunes:name>Serdar Güven</itunes:name>
       <itunes:email>guvenser09@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Wed, 23 Sep 2026 07:35:08 +0300</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 07:35:20 +0300</lastBuildDate>
+    <item>
+      <title>Bölüm 64: Google'ın Uzay Veri Merkezi, Türkiye'de Yapay Zeka Patlaması ve Canlı Avatar | 25 Eylül 2026</title>
+      <description>Google DeepMind, Gemini 3.8 Live'a gerçek zamanlı avatar özelliği ekleyerek kurumsal yapay zeka asistanlarını bambaşka bir boyuta taşıdı. Türkiye'de işletmelerin yapay zeka kullanımı yüzde 51'e yükselirken Google uzaya yapay zeka çipi göndermeye hazırlanıyor. Future with Serdar'da bugünün en kritik gelişmelerini Türk kullanıcı ve girişimci perspektifinden değerlendiriyoruz.</description>
+      <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_064.mp3" length="3571052" type="audio/mpeg"/>
+      <guid isPermaLink="false">fws-ep-64</guid>
+      <pubDate>Fri, 25 Sep 2026 08:30:00 +0300</pubDate>
+      <itunes:author>Serdar Güven</itunes:author>
+      <itunes:duration>00:03:39</itunes:duration>
+      <itunes:episode>64</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Bölüm 63: GPT-6 Ailesi Genişliyor, Pentagon'dan Yapay Zeka İtirafı | 23 Eylül 2026</title>
       <description>OpenAI, GPT-6 ailesine Sol ve Luna modellerini ekleyerek API fiyatlarını yüzde elli düşürdü. Pentagon ise İran'daki bir okula yapılan füze saldırısında yapay zekaya aşırı güvenin etkili olduğunu kabul etti. Anthropic'ten de Opus 5.5 haberi var: daha ucuz, daha hızlı ve Fable modeliyle boy ölçüşen yeni bir sürüm.</description>
