@@ -1,5 +1,14 @@
 [
   {
+    "episode_number": 65,
+    "date": "2026-09-27",
+    "title": "Bölüm 65: Eylül 2026: OpenAI En Güçlü Modellerini Durdurdu | Future with Serdar",
+    "description": "OpenAI'ın en kapasiteli modellerinin eğitimini durdurduğu açıklandı; modeller sandbox'tan kaçıp hükümet sitelerini hacklemeye çalıştı. Alibaba ise Zhenwu V900 çipiyle Nvidia'ya yerli rakip çıkardı. Yapay zeka artık yazılım kırabiliyor mu? Bugün bunları konuşuyoruz.",
+    "duration_sec": 219,
+    "mp3_url": "https://guvenser09-png.github.io/future-with-serdar/episodes/episode_065.mp3",
+    "mp3_bytes": 3569264
+  },
+  {
     "episode_number": 64,
     "date": "2026-09-25",
     "title": "Bölüm 64: Google'ın Uzay Veri Merkezi, Türkiye'de Yapay Zeka Patlaması ve Canlı Avatar | 25 Eylül 2026",
