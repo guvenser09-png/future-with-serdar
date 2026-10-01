@@ -1,5 +1,14 @@
 [
   {
+    "episode_number": 67,
+    "date": "2026-10-01",
+    "title": "Bölüm 67: Gemini 4 Argon, ChatGPT Space ve ElevenLabs | 1 Ekim 2026",
+    "description": "Google DeepMind'ın yeni sınır modeli Gemini 4 Argon duyuruldu; çıktı sınırını 1 milyon tokena çıkararak kodlama, hukuk ve siber güvenlik alanlarında çıtayı yeniden belirledi. OpenAI ise ChatGPT Space ile Microsoft Office'e doğrudan rakip oldu. Üstelik ElevenLabs değerlemesini 22 milyar dolara katladı. Tüm bu gelişmeleri bugünkü bölümde Serdar ile birlikte mercek altına alıyoruz.",
+    "duration_sec": 232,
+    "mp3_url": "https://guvenser09-png.github.io/future-with-serdar/episodes/episode_067.mp3",
+    "mp3_bytes": 3782139
+  },
+  {
     "episode_number": 66,
     "date": "2026-09-29",
     "title": "Bölüm 66: AMD 8.2 Milyar Dolar Harcadı, Meta Kurumsal Alana Giriyor | 29 Eylül 2026",

@@ -25,7 +25,18 @@ Bu programın kendisi de bir yapay zeka deneyi: senaryo, ses ve yayın tamamen o
       <itunes:name>Serdar Güven</itunes:name>
       <itunes:email>guvenser09@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Tue, 29 Sep 2026 07:36:12 +0300</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 07:36:47 +0300</lastBuildDate>
+    <item>
+      <title>Bölüm 67: Gemini 4 Argon, ChatGPT Space ve ElevenLabs | 1 Ekim 2026</title>
+      <description>Google DeepMind'ın yeni sınır modeli Gemini 4 Argon duyuruldu; çıktı sınırını 1 milyon tokena çıkararak kodlama, hukuk ve siber güvenlik alanlarında çıtayı yeniden belirledi. OpenAI ise ChatGPT Space ile Microsoft Office'e doğrudan rakip oldu. Üstelik ElevenLabs değerlemesini 22 milyar dolara katladı. Tüm bu gelişmeleri bugünkü bölümde Serdar ile birlikte mercek altına alıyoruz.</description>
+      <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_067.mp3" length="3782139" type="audio/mpeg"/>
+      <guid isPermaLink="false">fws-ep-67</guid>
+      <pubDate>Thu, 01 Oct 2026 08:30:00 +0300</pubDate>
+      <itunes:author>Serdar Güven</itunes:author>
+      <itunes:duration>00:03:52</itunes:duration>
+      <itunes:episode>67</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Bölüm 66: AMD 8.2 Milyar Dolar Harcadı, Meta Kurumsal Alana Giriyor | 29 Eylül 2026</title>
       <description>AMD, yapay zeka öncüsü Fei-Fei Li'nin kurduğu World Labs'i 8.2 milyar dolara satın alıyor. Meta ise kurumsal yapay zeka platformunu resmen duyurdu. Anthropic'ten de yeni bir model güncellemesi var: Sonnet 5.5, daha hızlı ve daha ucuz. Future with Serdar'da bugünün en önemli gelişmelerini Türkçe olarak mercek altına alıyoruz.</description>
