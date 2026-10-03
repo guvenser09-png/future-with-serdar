@@ -25,7 +25,18 @@ Bu programın kendisi de bir yapay zeka deneyi: senaryo, ses ve yayın tamamen o
       <itunes:name>Serdar Güven</itunes:name>
       <itunes:email>guvenser09@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 01 Oct 2026 07:36:47 +0300</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 07:34:42 +0300</lastBuildDate>
+    <item>
+      <title>Bölüm 68: GPT-6 Rehberi, OpenAI'ın Dots Ajanı ve Apple'ın Güvenlik Hamlesi | 3 Ekim 2026</title>
+      <description>GPT-6 ailesi için OpenAI resmi geliştirici rehberi yayınlandı. Aynı gün OpenAI'ın yeni ajan platformu Dots'u elleriyle test edenler ne dedi? Ve Apple, masaüstü yapay zeka ajanlarının yarattığı güvenlik risklerine karşı macOS'ta sert önlemler alıyor. Bugün üç kritik gelişmeyi ve Türk geliştirici için ne anlama geldiğini konuşuyoruz.</description>
+      <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_068.mp3" length="3590443" type="audio/mpeg"/>
+      <guid isPermaLink="false">fws-ep-68</guid>
+      <pubDate>Sat, 03 Oct 2026 08:30:00 +0300</pubDate>
+      <itunes:author>Serdar Güven</itunes:author>
+      <itunes:duration>00:03:40</itunes:duration>
+      <itunes:episode>68</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Bölüm 67: Gemini 4 Argon, ChatGPT Space ve ElevenLabs | 1 Ekim 2026</title>
       <description>Google DeepMind'ın yeni sınır modeli Gemini 4 Argon duyuruldu; çıktı sınırını 1 milyon tokena çıkararak kodlama, hukuk ve siber güvenlik alanlarında çıtayı yeniden belirledi. OpenAI ise ChatGPT Space ile Microsoft Office'e doğrudan rakip oldu. Üstelik ElevenLabs değerlemesini 22 milyar dolara katladı. Tüm bu gelişmeleri bugünkü bölümde Serdar ile birlikte mercek altına alıyoruz.</description>

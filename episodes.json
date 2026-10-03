@@ -1,5 +1,14 @@
 [
   {
+    "episode_number": 68,
+    "date": "2026-10-03",
+    "title": "Bölüm 68: GPT-6 Rehberi, OpenAI'ın Dots Ajanı ve Apple'ın Güvenlik Hamlesi | 3 Ekim 2026",
+    "description": "GPT-6 ailesi için OpenAI resmi geliştirici rehberi yayınlandı. Aynı gün OpenAI'ın yeni ajan platformu Dots'u elleriyle test edenler ne dedi? Ve Apple, masaüstü yapay zeka ajanlarının yarattığı güvenlik risklerine karşı macOS'ta sert önlemler alıyor. Bugün üç kritik gelişmeyi ve Türk geliştirici için ne anlama geldiğini konuşuyoruz.",
+    "duration_sec": 220,
+    "mp3_url": "https://guvenser09-png.github.io/future-with-serdar/episodes/episode_068.mp3",
+    "mp3_bytes": 3590443
+  },
+  {
     "episode_number": 67,
     "date": "2026-10-01",
     "title": "Bölüm 67: Gemini 4 Argon, ChatGPT Space ve ElevenLabs | 1 Ekim 2026",
