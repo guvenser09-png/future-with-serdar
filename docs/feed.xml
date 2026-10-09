@@ -25,7 +25,18 @@ Bu programın kendisi de bir yapay zeka deneyi: senaryo, ses ve yayın tamamen o
       <itunes:name>Serdar Güven</itunes:name>
       <itunes:email>guvenser09@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Wed, 07 Oct 2026 07:35:14 +0300</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 07:35:15 +0300</lastBuildDate>
+    <item>
+      <title>Bölüm 71: Gemini Artık Çalışan Gibi Davranıyor | 9 Ekim 2026</title>
+      <description>Google, Gemini'yi tamamen ajansal bir sisteme dönüştürdüğünü duyurdu; artık AI'a e-posta atıp toplantı ayarlatabiliyor, proje yönettirebiliyorsunuz. Öte yandan OpenAI'ın gelir rakamlarında 20 milyar dolarlık bir tutarsızlık ortaya çıktı. Anthropic ise Claude Haiku 5.5 ile hem hızı hem de maliyeti aşağı çekiyor. Future with Serdar'da bugünün en kritik üç gelişmesini yorumladık.</description>
+      <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_071.mp3" length="3832670" type="audio/mpeg"/>
+      <guid isPermaLink="false">fws-ep-71</guid>
+      <pubDate>Fri, 09 Oct 2026 08:30:00 +0300</pubDate>
+      <itunes:author>Serdar Güven</itunes:author>
+      <itunes:duration>00:03:55</itunes:duration>
+      <itunes:episode>71</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Bölüm 70: Avrupa'dan 1 Trilyon Parametreli Hamle ve AI Doktor Dönemi Başlıyor | 7 Ekim 2026</title>
       <description>Bugün Mistral AI'ın 1 trilyon parametreli yeni modeli Mistral Large 4'ü masaya yatırıyoruz. Hem açık hem kapalı rakipleri geride bırakmayı hedefleyen bu Avrupa yapımı dev hakkında bilmeniz gereken her şey burada. Ayrıca Utah eyaletinde bir yapay zeka, artık doktor gözetimi olmadan reçete yazabiliyor — bu gelişme bizi gerçekten düşündürdü.</description>

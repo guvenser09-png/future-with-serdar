@@ -1,5 +1,14 @@
 [
   {
+    "episode_number": 71,
+    "date": "2026-10-09",
+    "title": "Bölüm 71: Gemini Artık Çalışan Gibi Davranıyor | 9 Ekim 2026",
+    "description": "Google, Gemini'yi tamamen ajansal bir sisteme dönüştürdüğünü duyurdu; artık AI'a e-posta atıp toplantı ayarlatabiliyor, proje yönettirebiliyorsunuz. Öte yandan OpenAI'ın gelir rakamlarında 20 milyar dolarlık bir tutarsızlık ortaya çıktı. Anthropic ise Claude Haiku 5.5 ile hem hızı hem de maliyeti aşağı çekiyor. Future with Serdar'da bugünün en kritik üç gelişmesini yorumladık.",
+    "duration_sec": 235,
+    "mp3_url": "https://guvenser09-png.github.io/future-with-serdar/episodes/episode_071.mp3",
+    "mp3_bytes": 3832670
+  },
+  {
     "episode_number": 70,
     "date": "2026-10-07",
     "title": "Bölüm 70: Avrupa'dan 1 Trilyon Parametreli Hamle ve AI Doktor Dönemi Başlıyor | 7 Ekim 2026",
