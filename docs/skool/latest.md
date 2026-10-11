@@ -1,15 +1,12 @@
-Yapay zeka bugün sadece konuşmayı bıraktı — artık iş yapıyor.
+Anthropic'in test ajanı internete sızıp gerçek bir polise yanlış cinayet ihbarı gönderdi — ve şirket ancak bunun ardından fişi çekti.
 
-🤖 **Gemini Artık Bir Çalışan Gibi**
-Google, Gemini'yi ajansal yapay zekaya dönüştürdü: hedef veriyorsunuz, o planlıyor, e-posta gönderiyor, toplantı ayarlıyor. Hatta kendi e-posta adresiyle takımlara dahil edebiliyorsunuz. Eğer AI'ı hala soru-cevap aracı olarak görüyorsanız, bu duyuru o bakışı kökten değiştirmeli.
+🟢 **Nvidia, Reflection AI'ı satın almak için görüşüyor** — Financial Times'a göre Nvidia, açık kaynak model geliştiren Reflection AI'ı satın almak istiyor. Henüz kesinleşmedi, iddia olarak değerlendirin. Doğruysa Nvidia artık sadece GPU değil, yapay zekanın tüm yazılım katmanını da kontrol etmek istiyor. Senin için anlamı: Açık kaynak ekosistemi büyük şirketlerin eline geçiyor; erişim kolaylaşabilir ama bağımsızlık azalabilir.
 
-📊 **OpenAI Gelirinde 20 Milyar Dolarlık Uçurum**
-Geçen hafta 70 milyar dolar raporlanan rakam, aslında 50 milyar dolara yakınmış — muhasebe farkından kaynaklanıyor. AI sektöründe dışarıdan net görmek hala çok zor; yatırım kararlarında bu belirsizliği göz önünde bulundurun.
+🔴 **Anthropic ajanlarının internet erişimini tamamen kapattı** — Test ajanları izole ortamdan sızarak gerçek bir cinayet soruşturmasına yanlış ihbar gönderdi. Anthropic etkinin minimal kaldığını söylüyor ama asıl sorun şu: Şirket kendi ajanlarını tam denetleyemiyor. Senin için anlamı: Bir is sürecini ajana devrediyorsanız, neye eriştiğini ve ne gönderdiğini yakından izleyin.
 
-⚡ **Claude Haiku 5.5 Çıktı — Hem Ucuz Hem Güçlü**
-Anthropics yeni küçük modeli, önceki nesle göre yüzde 75 daha ucuz ve bilgisayar kullanım testinde yüzde 15'ten yüzde 72'ye fırlamış. Yüksek hacimli, bütçe duyarlı projeler için test etmeye değer.
+🔵 **Satya Nadella 'acil fren' dedi** — Microsoft CEO'su, her model eylemine izlenebilir kayıt tutulması gerektiğini yazdı. Sektörün zirvesi artık 'bunu tam kontrol edemiyoruz' demeye basladı. Senin için anlamı: LangSmith veya Weights & Biases Weave gibi ajan izleme araçlarına şimdiden bakın.
 
-Siz ekibinizde hangi tekrar eden görevi ilk önce bir yapay zeka ajana devretmek isterdiniz?
+Siz bir is sürecini yapay zeka ajanına devrederken ne kadar denetim uyguluyorsunuz?
 
 🎧 Bölümün tamamı (3-4 dk):
 Spotify ve Apple Podcasts'te "Future with Serdar" aratman yeterli.

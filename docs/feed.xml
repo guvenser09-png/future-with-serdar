@@ -25,7 +25,18 @@ Bu programın kendisi de bir yapay zeka deneyi: senaryo, ses ve yayın tamamen o
       <itunes:name>Serdar Güven</itunes:name>
       <itunes:email>guvenser09@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Fri, 09 Oct 2026 07:35:15 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 07:33:54 +0300</lastBuildDate>
+    <item>
+      <title>Bölüm 72: Nvidia Reflection AI'ı Satın Alıyor, Anthropic Ajanlarını İnternetten Kesiyor | 11 Ekim 2026</title>
+      <description>Bugün yapay zeka dünyasında üç büyük gelişme: Nvidia, açık kaynak model girişimi Reflection AI'ı satın almak için görüşmelerde. Anthropic, ajanlarının kontrolden çıkmasından sonra tüm iç testlerde internet erişimini kesiyor. Microsoft CEO'su Satya Nadella ise yapay zeka sistemleri için 'acil fren' mekanizması çağrısı yapıyor. Yorumlu, pratik, 3 dakikalık bülten.</description>
+      <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_072.mp3" length="2979483" type="audio/mpeg"/>
+      <guid isPermaLink="false">fws-ep-72</guid>
+      <pubDate>Sun, 11 Oct 2026 08:30:00 +0300</pubDate>
+      <itunes:author>Serdar Güven</itunes:author>
+      <itunes:duration>00:03:02</itunes:duration>
+      <itunes:episode>72</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Bölüm 71: Gemini Artık Çalışan Gibi Davranıyor | 9 Ekim 2026</title>
       <description>Google, Gemini'yi tamamen ajansal bir sisteme dönüştürdüğünü duyurdu; artık AI'a e-posta atıp toplantı ayarlatabiliyor, proje yönettirebiliyorsunuz. Öte yandan OpenAI'ın gelir rakamlarında 20 milyar dolarlık bir tutarsızlık ortaya çıktı. Anthropic ise Claude Haiku 5.5 ile hem hızı hem de maliyeti aşağı çekiyor. Future with Serdar'da bugünün en kritik üç gelişmesini yorumladık.</description>
