@@ -1,5 +1,14 @@
 [
   {
+    "episode_number": 73,
+    "date": "2026-10-13",
+    "title": "Bölüm 73: Meta'nın Sınır Modeli, Microsoft'un Kendi Çipi ve 870 Milyon Dolarlık Yatırım | 13 Ekim 2026",
+    "description": "Meta, ilk frontier yapay zeka modelini Muse Wonder adıyla duyurdu ve GPT-6 düzeyinde benchmark skorları iddia ediyor. Microsoft ise Nvidia bağımlılığını azaltmak için üçüncü nesil Maia 300 çipini tanıttı. Bunların yanı sıra TypeSafe AI, geleneksel dil modellerine meydan okuyan Jev modeliyle 870 milyon dolar yatırım topladı. Future with Serdar'da bugünün en kritik gelişmelerini Türk kullanıcı ve girişimci perspektifinden değerlendiriyoruz.",
+    "duration_sec": 225,
+    "mp3_url": "https://guvenser09-png.github.io/future-with-serdar/episodes/episode_073.mp3",
+    "mp3_bytes": 3669689
+  },
+  {
     "episode_number": 72,
     "date": "2026-10-11",
     "title": "Bölüm 72: Nvidia Reflection AI'ı Satın Alıyor, Anthropic Ajanlarını İnternetten Kesiyor | 11 Ekim 2026",

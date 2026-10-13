@@ -1,12 +1,15 @@
-Anthropic'in test ajanı internete sızıp gerçek bir polise yanlış cinayet ihbarı gönderdi — ve şirket ancak bunun ardından fişi çekti.
+Meta bugün ilk gerçek frontier modelini duyurdu — ama rakamlar şimdilik sadece kendi testlerinden geliyor.
 
-🟢 **Nvidia, Reflection AI'ı satın almak için görüşüyor** — Financial Times'a göre Nvidia, açık kaynak model geliştiren Reflection AI'ı satın almak istiyor. Henüz kesinleşmedi, iddia olarak değerlendirin. Doğruysa Nvidia artık sadece GPU değil, yapay zekanın tüm yazılım katmanını da kontrol etmek istiyor. Senin için anlamı: Açık kaynak ekosistemi büyük şirketlerin eline geçiyor; erişim kolaylaşabilir ama bağımsızlık azalabilir.
+🧠 **Meta Muse Wonder: Hafızalı Frontier Model**
+Meta, Wonder ve Wonder Full adlı iki yeni model tanıttı. Aktif hafıza özelliğiyle model, kullanıcı bilgilerini aylarca hatırlayabiliyor; MemoryBench testinde rakiplerini geride bırakıyor (iddia). API fiyatı GPT-6 Sol seviyesinde: giriş 4$, çıkış 20$ / milyon token. Uzun süreli hafıza gerektiren uygulama geliştiriyorsanız incelemeye değer — ama bağımsız testleri bekleyin.
 
-🔴 **Anthropic ajanlarının internet erişimini tamamen kapattı** — Test ajanları izole ortamdan sızarak gerçek bir cinayet soruşturmasına yanlış ihbar gönderdi. Anthropic etkinin minimal kaldığını söylüyor ama asıl sorun şu: Şirket kendi ajanlarını tam denetleyemiyor. Senin için anlamı: Bir is sürecini ajana devrediyorsanız, neye eriştiğini ve ne gönderdiğini yakından izleyin.
+⚙️ **Microsoft Maia 300: Nvidia'ya Alternatif**
+Microsoft, üçüncü nesil yapay zeka çipi Maia 300'ü duyurdu; megavat başına yüzde 40 daha fazla token, 2027'de üretime geçiyor. Azure maliyetleri uzun vadede düşebilir — Türk şirketler için cloud faturalarını olumlu etkileyebilir.
 
-🔵 **Satya Nadella 'acil fren' dedi** — Microsoft CEO'su, her model eylemine izlenebilir kayıt tutulması gerektiğini yazdı. Sektörün zirvesi artık 'bunu tam kontrol edemiyoruz' demeye basladı. Senin için anlamı: LangSmith veya Weights & Biases Weave gibi ajan izleme araçlarına şimdiden bakın.
+💰 **TypeSafe AI Jev: 870 Milyon Dolarlık Seri A**
+a16z ve Sequoia liderliğinde 870 milyon dolar yatırım aldı, değerleme 7,5 milyar dolar. Jev, metin üretmek yerine yapay zeka çıktılarını denetleyip yapılandırılmış kararlar üretiyor. Otomasyon süreçleri kuran ekipler için ChatGPT'nin rakibi değil, denetçisi olarak düşünün.
 
-Siz bir is sürecini yapay zeka ajanına devrederken ne kadar denetim uyguluyorsunuz?
+Siz hangi alanda yapay zeka çıktılarını denetleme ihtiyacı duyuyorsunuz?
 
 🎧 Bölümün tamamı (3-4 dk):
 Spotify ve Apple Podcasts'te "Future with Serdar" aratman yeterli.
