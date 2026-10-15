@@ -25,7 +25,18 @@ Bu programın kendisi de bir yapay zeka deneyi: senaryo, ses ve yayın tamamen o
       <itunes:name>Serdar Güven</itunes:name>
       <itunes:email>guvenser09@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Tue, 13 Oct 2026 07:34:14 +0300</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 07:34:55 +0300</lastBuildDate>
+    <item>
+      <title>Bölüm 74: Gemini 4 Argon Sahneye Çıktı ve OpenAI'da Casusluk Skandalı | 15 Ekim 2026</title>
+      <description>Google'ın yeni modeli Gemini 4 Argon, kodlamadan kuantum bilişime uzanan geniş bir alanda rakiplerle boy ölçüşüyor. Öte yandan OpenAI'ın San Francisco ofisinde gizli kayıt cihazı bulundu ve şirket mühendisi FBI tarafından tutuklandı. Bugünkü bölümde her iki gelişmeyi de teknik ve pratik perspektiften ele alıyoruz.</description>
+      <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_074.mp3" length="3554903" type="audio/mpeg"/>
+      <guid isPermaLink="false">fws-ep-74</guid>
+      <pubDate>Thu, 15 Oct 2026 08:30:00 +0300</pubDate>
+      <itunes:author>Serdar Güven</itunes:author>
+      <itunes:duration>00:03:38</itunes:duration>
+      <itunes:episode>74</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Bölüm 73: Meta'nın Sınır Modeli, Microsoft'un Kendi Çipi ve 870 Milyon Dolarlık Yatırım | 13 Ekim 2026</title>
       <description>Meta, ilk frontier yapay zeka modelini Muse Wonder adıyla duyurdu ve GPT-6 düzeyinde benchmark skorları iddia ediyor. Microsoft ise Nvidia bağımlılığını azaltmak için üçüncü nesil Maia 300 çipini tanıttı. Bunların yanı sıra TypeSafe AI, geleneksel dil modellerine meydan okuyan Jev modeliyle 870 milyon dolar yatırım topladı. Future with Serdar'da bugünün en kritik gelişmelerini Türk kullanıcı ve girişimci perspektifinden değerlendiriyoruz.</description>

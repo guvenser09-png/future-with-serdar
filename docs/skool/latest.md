@@ -1,15 +1,12 @@
-Meta bugün ilk gerçek frontier modelini duyurdu — ama rakamlar şimdilik sadece kendi testlerinden geliyor.
+Google ve OpenAI'dan aynı günde iki çok farklı manşet: biri güç gösterisi, diğeri tam bir güvenlik krizi.
 
-🧠 **Meta Muse Wonder: Hafızalı Frontier Model**
-Meta, Wonder ve Wonder Full adlı iki yeni model tanıttı. Aktif hafıza özelliğiyle model, kullanıcı bilgilerini aylarca hatırlayabiliyor; MemoryBench testinde rakiplerini geride bırakıyor (iddia). API fiyatı GPT-6 Sol seviyesinde: giriş 4$, çıkış 20$ / milyon token. Uzun süreli hafıza gerektiren uygulama geliştiriyorsanız incelemeye değer — ama bağımsız testleri bekleyin.
+🟢 **Gemini 4 Argon Yayında**
+Google'ın yeni modeli kodlama, hukuk, finans ve siber güvenliğe odaklanıyor. ERQA testinde %87 skor, Vals Index'te birinci sıra ve GPT-6 Astra ile aynı zeka seviyesine %60 daha düşük maliyetle ulaşması dikkat çekici. 30 Kasım'a kadar giriş fiyatı: 1M girdi tokeni 2$, çıktı 10$. Türkiye'de API üzerinden hemen erişilebilir; uzun belge özetleme veya kod yeniden düzenleme ile başlamak mantıklı.
 
-⚙️ **Microsoft Maia 300: Nvidia'ya Alternatif**
-Microsoft, üçüncü nesil yapay zeka çipi Maia 300'ü duyurdu; megavat başına yüzde 40 daha fazla token, 2027'de üretime geçiyor. Azure maliyetleri uzun vadede düşebilir — Türk şirketler için cloud faturalarını olumlu etkileyebilir.
+🔴 **OpenAI'da Casusluk İddiası**
+San Francisco ofisinde, üst düzey toplantı odasındaki televizyonun arkasında şifreli kayıt cihazı bulundu. FBI'ın iddiasına göre bir yılı aşkın süredir çalışan mühendis Abdulrahman Alfozan cihazı yerleştirdi ve 9 Ekim'de tutuklandı. OpenAI, model ağırlıkları veya müşteri verilerine yetkisiz erişim olmadığını belirtiyor. Sektör için mesaj net: iç güvenlik artık dış tehditler kadar kritik.
 
-💰 **TypeSafe AI Jev: 870 Milyon Dolarlık Seri A**
-a16z ve Sequoia liderliğinde 870 milyon dolar yatırım aldı, değerleme 7,5 milyar dolar. Jev, metin üretmek yerine yapay zeka çıktılarını denetleyip yapılandırılmış kararlar üretiyor. Otomasyon süreçleri kuran ekipler için ChatGPT'nin rakibi değil, denetçisi olarak düşünün.
-
-Siz hangi alanda yapay zeka çıktılarını denetleme ihtiyacı duyuyorsunuz?
+Sizce yapay zeka şirketleri iç güvenliğe yeterince yatırım yapıyor mu?
 
 🎧 Bölümün tamamı (3-4 dk):
 Spotify ve Apple Podcasts'te "Future with Serdar" aratman yeterli.
