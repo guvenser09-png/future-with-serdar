@@ -1,5 +1,14 @@
 [
   {
+    "episode_number": 75,
+    "date": "2026-10-17",
+    "title": "Bölüm 75: AI Kör Noktaları, Meta'nın Gizli Veri Hamlesi ve 816 Milyar Parametreli Dev | 17 Ekim 2026",
+    "description": "Bugün yapay zeka dünyasından üç kritik gelişme: Mevcut AI testlerinin gerçek iş dünyasının yüzde doksanını ölçemediği ortaya çıktı, Meta'nın yeni kullanım koşulları haber sitelerinin içeriklerini ücretsiz eğitim verisi yapabilir, ve Meta'nın Muse Spark Open modeli iki Mac Studio üzerinde yerel olarak çalışıyor. Future with Serdar'da her gelişmenin sizin için ne anlama geldiğini konuşuyoruz.",
+    "duration_sec": 234,
+    "mp3_url": "https://guvenser09-png.github.io/future-with-serdar/episodes/episode_075.mp3",
+    "mp3_bytes": 3806970
+  },
+  {
     "episode_number": 74,
     "date": "2026-10-15",
     "title": "Bölüm 74: Gemini 4 Argon Sahneye Çıktı ve OpenAI'da Casusluk Skandalı | 15 Ekim 2026",

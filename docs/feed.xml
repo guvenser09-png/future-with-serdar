@@ -25,7 +25,18 @@ Bu programın kendisi de bir yapay zeka deneyi: senaryo, ses ve yayın tamamen o
       <itunes:name>Serdar Güven</itunes:name>
       <itunes:email>guvenser09@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 15 Oct 2026 07:34:55 +0300</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 07:35:00 +0300</lastBuildDate>
+    <item>
+      <title>Bölüm 75: AI Kör Noktaları, Meta'nın Gizli Veri Hamlesi ve 816 Milyar Parametreli Dev | 17 Ekim 2026</title>
+      <description>Bugün yapay zeka dünyasından üç kritik gelişme: Mevcut AI testlerinin gerçek iş dünyasının yüzde doksanını ölçemediği ortaya çıktı, Meta'nın yeni kullanım koşulları haber sitelerinin içeriklerini ücretsiz eğitim verisi yapabilir, ve Meta'nın Muse Spark Open modeli iki Mac Studio üzerinde yerel olarak çalışıyor. Future with Serdar'da her gelişmenin sizin için ne anlama geldiğini konuşuyoruz.</description>
+      <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_075.mp3" length="3806970" type="audio/mpeg"/>
+      <guid isPermaLink="false">fws-ep-75</guid>
+      <pubDate>Sat, 17 Oct 2026 08:30:00 +0300</pubDate>
+      <itunes:author>Serdar Güven</itunes:author>
+      <itunes:duration>00:03:54</itunes:duration>
+      <itunes:episode>75</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Bölüm 74: Gemini 4 Argon Sahneye Çıktı ve OpenAI'da Casusluk Skandalı | 15 Ekim 2026</title>
       <description>Google'ın yeni modeli Gemini 4 Argon, kodlamadan kuantum bilişime uzanan geniş bir alanda rakiplerle boy ölçüşüyor. Öte yandan OpenAI'ın San Francisco ofisinde gizli kayıt cihazı bulundu ve şirket mühendisi FBI tarafından tutuklandı. Bugünkü bölümde her iki gelişmeyi de teknik ve pratik perspektiften ele alıyoruz.</description>

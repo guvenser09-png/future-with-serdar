@@ -1,12 +1,15 @@
-Google ve OpenAI'dan aynı günde iki çok farklı manşet: biri güç gösterisi, diğeri tam bir güvenlik krizi.
+Yapay zeka testlerinin aslında işlerin yüzde doksanını ölçmediğini biliyor muydunuz?
 
-🟢 **Gemini 4 Argon Yayında**
-Google'ın yeni modeli kodlama, hukuk, finans ve siber güvenliğe odaklanıyor. ERQA testinde %87 skor, Vals Index'te birinci sıra ve GPT-6 Astra ile aynı zeka seviyesine %60 daha düşük maliyetle ulaşması dikkat çekici. 30 Kasım'a kadar giriş fiyatı: 1M girdi tokeni 2$, çıktı 10$. Türkiye'de API üzerinden hemen erişilebilir; uzun belge özetleme veya kod yeniden düzenleme ile başlamak mantıklı.
+🔍 **AI testleri gerçek meslekleri ölçmüyor**
+Mercor'un araştırmasına göre mevcut 29 AI testi, ABD'deki 923 mesleğin yalnızca 208'ini kapsıyor; 6 iş ailesinde tek bir test sorusu bile yok. Yani bir modeli "en iyi" ilan ettiğimizde, aslında sadece avukat ve yazılım mühendisi gibi meslekler için konuşuyoruz. Kendi işin için gerçek hayat testleri yapmadan araç seçme.
 
-🔴 **OpenAI'da Casusluk İddiası**
-San Francisco ofisinde, üst düzey toplantı odasındaki televizyonun arkasında şifreli kayıt cihazı bulundu. FBI'ın iddiasına göre bir yılı aşkın süredir çalışan mühendis Abdulrahman Alfozan cihazı yerleştirdi ve 9 Ekim'de tutuklandı. OpenAI, model ağırlıkları veya müşteri verilerine yetkisiz erişim olmadığını belirtiyor. Sektör için mesaj net: iç güvenlik artık dış tehditler kadar kritik.
+⚠️ **Meta'nın gizli veri hamlesi (iddia)**
+Meta, 30 Ekim'den itibaren geçerli olacak yeni koşullarla Facebook ve Instagram'daki ticari hesaplarla bağlantılı web sitelerini AI eğitimi için tarayabilir hale geliyor. Hukuk profesörü Grimmelmann'a göre bu, yayıncıların içeriğini Meta'nın rakip ürünlerde kullanabileceği anlamına geliyor. İçerik üreticisiyseniz 30 Ekim öncesi koşulları okuyun.
 
-Sizce yapay zeka şirketleri iç güvenliğe yeterince yatırım yapıyor mu?
+🤖 **816 milyar parametreli Muse Spark Open**
+Meta'nın yeni açık ağırlıklı modeli 1 milyon token context window ile metin, görsel, video ve ses işleyebiliyor. İki Mac Studio üzerinde yerel çalışması dikkat çekici; ancak bu kurulum henüz yaygın erişime açık değil. API üzerinden Groq ve Together AI'dan deneyebilirsiniz.
+
+Siz hangi AI aracının kendi işinizde gerçekten fark yarattığını nasıl test ediyorsunuz?
 
 🎧 Bölümün tamamı (3-4 dk):
 Spotify ve Apple Podcasts'te "Future with Serdar" aratman yeterli.
