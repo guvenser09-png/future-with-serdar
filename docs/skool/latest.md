@@ -1,15 +1,15 @@
-Yapay zeka testlerinin aslında işlerin yüzde doksanını ölçmediğini biliyor muydunuz?
+YouTube'un yeni özelliği, içerik üreticiler için gerçek bir dönüm noktası olabilir.
 
-🔍 **AI testleri gerçek meslekleri ölçmüyor**
-Mercor'un araştırmasına göre mevcut 29 AI testi, ABD'deki 923 mesleğin yalnızca 208'ini kapsıyor; 6 iş ailesinde tek bir test sorusu bile yok. Yani bir modeli "en iyi" ilan ettiğimizde, aslında sadece avukat ve yazılım mühendisi gibi meslekler için konuşuyoruz. Kendi işin için gerçek hayat testleri yapmadan araç seçme.
+🔍 **YouTube'a Sor — Arama Artık Farklı**
+YouTube, masaüstü aramaya yapay zeka destekli özet sistemi ekledi; videoyu açmadan ilgili bölüme atlayabiliyorsunuz. Şu an yalnızca ABD'de test aşamasında. Nasıl yapılır ve eğitim içerikleri risk altında — hayatta kalmak için hikaye anlatan, kişisel deneyim katan içerikler üretmeye odaklanın.
 
-⚠️ **Meta'nın gizli veri hamlesi (iddia)**
-Meta, 30 Ekim'den itibaren geçerli olacak yeni koşullarla Facebook ve Instagram'daki ticari hesaplarla bağlantılı web sitelerini AI eğitimi için tarayabilir hale geliyor. Hukuk profesörü Grimmelmann'a göre bu, yayıncıların içeriğini Meta'nın rakip ürünlerde kullanabileceği anlamına geliyor. İçerik üreticisiyseniz 30 Ekim öncesi koşulları okuyun.
+🤖 **OpenAI İnsansı Robot Geliştiriyor**
+CEO Sam Altman, 2027'de etkileyici bir robot demosu planladıklarını duyurdu; odakları dış görünüş değil, robotun yapay zeka altyapısı. Henüz fiyat veya çıkış tarihi yok — ama robotik yazılım katmanı önümüzdeki on yılın büyük fırsatlarından biri olabilir.
 
-🤖 **816 milyar parametreli Muse Spark Open**
-Meta'nın yeni açık ağırlıklı modeli 1 milyon token context window ile metin, görsel, video ve ses işleyebiliyor. İki Mac Studio üzerinde yerel çalışması dikkat çekici; ancak bu kurulum henüz yaygın erişime açık değil. API üzerinden Groq ve Together AI'dan deneyebilirsiniz.
+⚡ **HybridAgent: Daha Hızlı, Daha Ucuz Akıl Yürütme**
+Araştırmacılar, gizli uzayda düsünen yeni bir mimari yayınladi; standart ajanlara kiyasla yüzde on iki daha yüksek performans ve yüzde elli dört daha az token kullanimi elde edilmis. Kod açık kaynak — maliyet optimize etmek isteyenler için incelemeye deger.
 
-Siz hangi AI aracının kendi işinizde gerçekten fark yarattığını nasıl test ediyorsunuz?
+💬 YouTube içerik üreticisi olsaniz, yapay zeka özetleri çaginda hangi içerik formatina yatirim yapardiniz?
 
 🎧 Bölümün tamamı (3-4 dk):
 Spotify ve Apple Podcasts'te "Future with Serdar" aratman yeterli.

@@ -1,5 +1,14 @@
 [
   {
+    "episode_number": 76,
+    "date": "2026-10-19",
+    "title": "Bölüm 76: YouTube AI Arama, OpenAI Robot ve Hibrit Akıl Yürütme | 19 Ekim 2026",
+    "description": "YouTube'un yapay zeka destekli 'YouTube'a Sor' özelliği içerik üreticileri için yeni bir tehdit mi, yoksa fırsat mı? OpenAI insansı robot yarışına katılıyor ve 2027'de demo vaat ediyor. Bir de araştırmacılar, dil modellerinin hem gizli uzayda düşünüp hem metinle hareket etmesini sağlayan HybridAgent mimarisini tanıttı. Future with Serdar'da bugün yapay zekanın hem yazılım hem donanım hem de araştırma cephesindeki son gelişmeleri masaya yatırıyoruz.",
+    "duration_sec": 203,
+    "mp3_url": "https://guvenser09-png.github.io/future-with-serdar/episodes/episode_076.mp3",
+    "mp3_bytes": 3311597
+  },
+  {
     "episode_number": 75,
     "date": "2026-10-17",
     "title": "Bölüm 75: AI Kör Noktaları, Meta'nın Gizli Veri Hamlesi ve 816 Milyar Parametreli Dev | 17 Ekim 2026",

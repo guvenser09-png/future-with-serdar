@@ -25,7 +25,18 @@ Bu programın kendisi de bir yapay zeka deneyi: senaryo, ses ve yayın tamamen o
       <itunes:name>Serdar Güven</itunes:name>
       <itunes:email>guvenser09@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sat, 17 Oct 2026 07:35:00 +0300</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 07:33:54 +0300</lastBuildDate>
+    <item>
+      <title>Bölüm 76: YouTube AI Arama, OpenAI Robot ve Hibrit Akıl Yürütme | 19 Ekim 2026</title>
+      <description>YouTube'un yapay zeka destekli 'YouTube'a Sor' özelliği içerik üreticileri için yeni bir tehdit mi, yoksa fırsat mı? OpenAI insansı robot yarışına katılıyor ve 2027'de demo vaat ediyor. Bir de araştırmacılar, dil modellerinin hem gizli uzayda düşünüp hem metinle hareket etmesini sağlayan HybridAgent mimarisini tanıttı. Future with Serdar'da bugün yapay zekanın hem yazılım hem donanım hem de araştırma cephesindeki son gelişmeleri masaya yatırıyoruz.</description>
+      <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_076.mp3" length="3311597" type="audio/mpeg"/>
+      <guid isPermaLink="false">fws-ep-76</guid>
+      <pubDate>Mon, 19 Oct 2026 08:30:00 +0300</pubDate>
+      <itunes:author>Serdar Güven</itunes:author>
+      <itunes:duration>00:03:23</itunes:duration>
+      <itunes:episode>76</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Bölüm 75: AI Kör Noktaları, Meta'nın Gizli Veri Hamlesi ve 816 Milyar Parametreli Dev | 17 Ekim 2026</title>
       <description>Bugün yapay zeka dünyasından üç kritik gelişme: Mevcut AI testlerinin gerçek iş dünyasının yüzde doksanını ölçemediği ortaya çıktı, Meta'nın yeni kullanım koşulları haber sitelerinin içeriklerini ücretsiz eğitim verisi yapabilir, ve Meta'nın Muse Spark Open modeli iki Mac Studio üzerinde yerel olarak çalışıyor. Future with Serdar'da her gelişmenin sizin için ne anlama geldiğini konuşuyoruz.</description>
