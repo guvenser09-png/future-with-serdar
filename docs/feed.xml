@@ -25,7 +25,18 @@ Bu programın kendisi de bir yapay zeka deneyi: senaryo, ses ve yayın tamamen o
       <itunes:name>Serdar Güven</itunes:name>
       <itunes:email>guvenser09@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 19 Oct 2026 07:33:54 +0300</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 07:35:07 +0300</lastBuildDate>
+    <item>
+      <title>Bölüm 77: Mistral'dan Sesli Devrim, DeepSeek Yasağı ve Anthropic'in Güvenlik Yasası | 21 Ekim 2026</title>
+      <description>Bugün Mistral, 50 dili anlayan ve duygusal sesle konuşan yeni ses yapay zeka ailesi Voxtral 3'ü duyurdu. ABD federal kurumlarından DeepSeek'i tamamen kaldırıyor; Anthropic ise 50 kişiyi tehlikeye atan bir modeli engelleyebilecek yasa taslağını Kongre'ye taşıyor. Future with Serdar'da bu üç büyük gelişmeyi Türk kullanıcı ve girişimci gözüyle mercek altına alıyoruz.</description>
+      <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_077.mp3" length="3661122" type="audio/mpeg"/>
+      <guid isPermaLink="false">fws-ep-77</guid>
+      <pubDate>Wed, 21 Oct 2026 08:30:00 +0300</pubDate>
+      <itunes:author>Serdar Güven</itunes:author>
+      <itunes:duration>00:03:45</itunes:duration>
+      <itunes:episode>77</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Bölüm 76: YouTube AI Arama, OpenAI Robot ve Hibrit Akıl Yürütme | 19 Ekim 2026</title>
       <description>YouTube'un yapay zeka destekli 'YouTube'a Sor' özelliği içerik üreticileri için yeni bir tehdit mi, yoksa fırsat mı? OpenAI insansı robot yarışına katılıyor ve 2027'de demo vaat ediyor. Bir de araştırmacılar, dil modellerinin hem gizli uzayda düşünüp hem metinle hareket etmesini sağlayan HybridAgent mimarisini tanıttı. Future with Serdar'da bugün yapay zekanın hem yazılım hem donanım hem de araştırma cephesindeki son gelişmeleri masaya yatırıyoruz.</description>

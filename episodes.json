@@ -1,5 +1,14 @@
 [
   {
+    "episode_number": 77,
+    "date": "2026-10-21",
+    "title": "Bölüm 77: Mistral'dan Sesli Devrim, DeepSeek Yasağı ve Anthropic'in Güvenlik Yasası | 21 Ekim 2026",
+    "description": "Bugün Mistral, 50 dili anlayan ve duygusal sesle konuşan yeni ses yapay zeka ailesi Voxtral 3'ü duyurdu. ABD federal kurumlarından DeepSeek'i tamamen kaldırıyor; Anthropic ise 50 kişiyi tehlikeye atan bir modeli engelleyebilecek yasa taslağını Kongre'ye taşıyor. Future with Serdar'da bu üç büyük gelişmeyi Türk kullanıcı ve girişimci gözüyle mercek altına alıyoruz.",
+    "duration_sec": 225,
+    "mp3_url": "https://guvenser09-png.github.io/future-with-serdar/episodes/episode_077.mp3",
+    "mp3_bytes": 3661122
+  },
+  {
     "episode_number": 76,
     "date": "2026-10-19",
     "title": "Bölüm 76: YouTube AI Arama, OpenAI Robot ve Hibrit Akıl Yürütme | 19 Ekim 2026",
