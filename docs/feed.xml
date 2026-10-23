@@ -25,7 +25,18 @@ Bu programın kendisi de bir yapay zeka deneyi: senaryo, ses ve yayın tamamen o
       <itunes:name>Serdar Güven</itunes:name>
       <itunes:email>guvenser09@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Wed, 21 Oct 2026 07:35:07 +0300</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 07:35:28 +0300</lastBuildDate>
+    <item>
+      <title>Bölüm 78: OpenAI'ın 1,25 Trilyon Dolarlık Dev Turu ve Ajan Güvenliği | 23 Ekim 2026</title>
+      <description>OpenAI, halka arzdan önce 30 milyar dolar daha toplamaya hazırlanıyor ve değerlemesi tarihin en yüksek özel şirketi olmaya yaklaşıyor. Anthropic'in yeni Claude Duet ajanı sahneye çıkarken, 1Password yapay zeka ajanlarının güvenli giriş yapmasını sağlayan yeni bir platform duyurdu. Bugün yapay zeka dünyasında para, ajan ve güvenlik üçgeni vardı.</description>
+      <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_078.mp3" length="3995144" type="audio/mpeg"/>
+      <guid isPermaLink="false">fws-ep-78</guid>
+      <pubDate>Fri, 23 Oct 2026 08:30:00 +0300</pubDate>
+      <itunes:author>Serdar Güven</itunes:author>
+      <itunes:duration>00:04:05</itunes:duration>
+      <itunes:episode>78</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Bölüm 77: Mistral'dan Sesli Devrim, DeepSeek Yasağı ve Anthropic'in Güvenlik Yasası | 21 Ekim 2026</title>
       <description>Bugün Mistral, 50 dili anlayan ve duygusal sesle konuşan yeni ses yapay zeka ailesi Voxtral 3'ü duyurdu. ABD federal kurumlarından DeepSeek'i tamamen kaldırıyor; Anthropic ise 50 kişiyi tehlikeye atan bir modeli engelleyebilecek yasa taslağını Kongre'ye taşıyor. Future with Serdar'da bu üç büyük gelişmeyi Türk kullanıcı ve girişimci gözüyle mercek altına alıyoruz.</description>

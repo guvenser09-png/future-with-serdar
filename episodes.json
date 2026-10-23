@@ -1,5 +1,14 @@
 [
   {
+    "episode_number": 78,
+    "date": "2026-10-23",
+    "title": "Bölüm 78: OpenAI'ın 1,25 Trilyon Dolarlık Dev Turu ve Ajan Güvenliği | 23 Ekim 2026",
+    "description": "OpenAI, halka arzdan önce 30 milyar dolar daha toplamaya hazırlanıyor ve değerlemesi tarihin en yüksek özel şirketi olmaya yaklaşıyor. Anthropic'in yeni Claude Duet ajanı sahneye çıkarken, 1Password yapay zeka ajanlarının güvenli giriş yapmasını sağlayan yeni bir platform duyurdu. Bugün yapay zeka dünyasında para, ajan ve güvenlik üçgeni vardı.",
+    "duration_sec": 245,
+    "mp3_url": "https://guvenser09-png.github.io/future-with-serdar/episodes/episode_078.mp3",
+    "mp3_bytes": 3995144
+  },
+  {
     "episode_number": 77,
     "date": "2026-10-21",
     "title": "Bölüm 77: Mistral'dan Sesli Devrim, DeepSeek Yasağı ve Anthropic'in Güvenlik Yasası | 21 Ekim 2026",
