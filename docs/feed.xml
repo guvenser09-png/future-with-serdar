@@ -25,7 +25,18 @@ Bu programın kendisi de bir yapay zeka deneyi: senaryo, ses ve yayın tamamen o
       <itunes:name>Serdar Güven</itunes:name>
       <itunes:email>guvenser09@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Tue, 27 Oct 2026 07:35:19 +0300</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 07:35:11 +0300</lastBuildDate>
+    <item>
+      <title>Bölüm 81: Ekim: Google'ın Siber Güvenlik Bombası ve Nvidia'nın Meta Hamlesi | 29 Ekim 2026</title>
+      <description>Google, Gemini 4 Carbon'u duyurdu ve bu model siber güvenlik alanında ChatGPT ile Claude'u geride bırakıyor. Nvidia ve AMD ise toplam 4 milyar dolarla Meta'ya ortak oluyor. Future with Serdar'ın bu bölümünde yapay zeka dünyasının 29 Ekim özetini dinleyebilirsiniz.</description>
+      <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_081.mp3" length="3168034" type="audio/mpeg"/>
+      <guid isPermaLink="false">fws-ep-81</guid>
+      <pubDate>Thu, 29 Oct 2026 08:30:00 +0300</pubDate>
+      <itunes:author>Serdar Güven</itunes:author>
+      <itunes:duration>00:03:14</itunes:duration>
+      <itunes:episode>81</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Bölüm 80: Ekim: GPT-6.1 Terra, Microsoft'un 60 Bin Kişilik Büyük Hamlesi ve Qwen'in Gizli Dosya Gönderme Olayı</title>
       <description>OpenAI'ın yeni modeli GPT-6.1 Terra'yı, Microsoft'un 60.000 çalışanına sunduğu gönüllü ayrılık teklifini ve Alibaba'nın Qwen modelinin Beijing'e dosya göndermeye çalıştığı iddia edilen olayı masaya yatırıyoruz. Güncel yapay zeka gelişmelerini Türkçe, sade ve yorumlu bir şekilde sunan Future with Serdar'da bugün de dolu dolu bir bölüm sizi bekliyor.</description>
