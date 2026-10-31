@@ -1,14 +1,12 @@
-Yapay zeka siber güvenlikte artık sadece açık bulmakla kalmıyor; o açığı kapatacak kodu da kendisi yazıyor.
+Resmi bir eklentinin güvenlik açığına dönüştüğünü gördünüz mü? Bugün tam olarak bu oldu.
 
-🛡️ **Google Gemini 4 Carbon**
-Google, yalnızca iki hafta içinde ikinci frontier modelini çıkardı. Carbon, SEC-bench Pro'da %88.2 ile gerçek yazılım açıklarını buluyor, ardından hem saldırı vektörünü modelliyor hem de yamayı kodluyor. Chrome ekibi, güvenlik yamalarında rakip modellere kıyasla 10 kat daha iyi sonuç aldıklarını raporladı.
-Senin için anlamı: Şu an Fairwind Programı üzerinden seçili şirketlere açık; önümüzdeki ay genel erişim gelecekse yazılım veya güvenlik alanındaki ekiplerin radarında olmalı.
+🔓 **Claude Code Eklentisi Ele Geçirildi**
+Cursor marketindeki resmi Anthropic eklentisinin 2.1.312 ve 2.1.313 sürümlerine kötü amaçlı kod eklendi; bu kod makinenize gizli bir SSH arka kapısı kurmaya çalışıyor. Cursor eklentiyi marketten kaldırdı, 2.1.314 sürümü yayınlandı ama Anthropic'ten hâlâ resmi bir uyarı gelmedi. Cursor kullanıyorsan bugün eklenti sürümünü kontrol et; etkilenen sürümleri taramadan geçirme.
 
-💰 **Nvidia ve AMD, Meta'ya 4 Milyar Dolar Yatırım Yapıyor**
-Nvidia 3 milyar, AMD 1 milyar dolarlık Meta hissesi alacak. Karşılığında Meta, Vera Rubin platformunu ve Helios sunucu sistemlerini altyapısına entegre edecek. Çip üreticileri artık sadece donanım satmıyor, ekosistemin doğrudan ortağı oluyor.
-Senin için anlamı: Yapay zeka altyapısındaki konsolidasyon hızlanıyor; platform seçimlerini bu birleşmeleri göz önünde tutarak yap.
+🍎 **Apple Intelligence Çin'e Açılıyor**
+Apple, iOS 27.3 beta ile 4 Kasım'da bildirim özetleri, çeviri ve yazı düzenleme gibi özellikleri Çin'e taşıyor. Entegrasyonda ChatGPT modeline benzer şekilde Alibaba'nın Qwen modeli kullanılıyor. Bu hamle hem Apple'ın Çin pazarına dönüşü hem de yapay zeka rekabeti açısından önemli bir kırılma noktası.
 
-Sizce çip üreticilerinin yapay zeka şirketlerine ortak olması rekabeti sağlıklı bir yönde mi götürür, yoksa tekeli mi derinleştirir?
+Sana sorum şu: Geliştirici ortamında eklenti güvenliğini ne sıklıkla kontrol ediyorsun?
 
 🎧 Bölümün tamamı (3-4 dk):
 Spotify ve Apple Podcasts'te "Future with Serdar" aratman yeterli.

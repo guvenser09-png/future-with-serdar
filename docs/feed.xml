@@ -25,7 +25,18 @@ Bu programın kendisi de bir yapay zeka deneyi: senaryo, ses ve yayın tamamen o
       <itunes:name>Serdar Güven</itunes:name>
       <itunes:email>guvenser09@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 29 Oct 2026 07:35:11 +0300</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 07:34:59 +0300</lastBuildDate>
+    <item>
+      <title>Bölüm 82: Claude Eklentisi Arka Kapı Skandalı ve Apple Intelligence Çin'de | 31 Ekim 2026</title>
+      <description>Bugün gerçekten çarpıcı bir güvenlik olayı var: Anthropic'in resmi Claude eklentisi, 5.000 geliştiriciyi tehdit eden bir arka kapıyla ele geçirildi. Üstelik Anthropic henüz kullanıcılarını uyarmadı. Bir de Apple Intelligence'ın Çin'e geliş hikayesini konuşacağız. Future with Serdar'da bugün hem alarm zilleri hem de büyük pazar hamleleri var.</description>
+      <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_082.mp3" length="3307040" type="audio/mpeg"/>
+      <guid isPermaLink="false">fws-ep-82</guid>
+      <pubDate>Sat, 31 Oct 2026 08:30:00 +0300</pubDate>
+      <itunes:author>Serdar Güven</itunes:author>
+      <itunes:duration>00:03:22</itunes:duration>
+      <itunes:episode>82</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Bölüm 81: Ekim: Google'ın Siber Güvenlik Bombası ve Nvidia'nın Meta Hamlesi | 29 Ekim 2026</title>
       <description>Google, Gemini 4 Carbon'u duyurdu ve bu model siber güvenlik alanında ChatGPT ile Claude'u geride bırakıyor. Nvidia ve AMD ise toplam 4 milyar dolarla Meta'ya ortak oluyor. Future with Serdar'ın bu bölümünde yapay zeka dünyasının 29 Ekim özetini dinleyebilirsiniz.</description>
