@@ -1,12 +1,15 @@
-Resmi bir eklentinin güvenlik açığına dönüştüğünü gördünüz mü? Bugün tam olarak bu oldu.
+Açık kaynaklı bir yapay zeka modeli Firefox'u hackledi — ve bunu yayımlanmış güvenlik yamalarını okuyarak yaptı.
 
-🔓 **Claude Code Eklentisi Ele Geçirildi**
-Cursor marketindeki resmi Anthropic eklentisinin 2.1.312 ve 2.1.313 sürümlerine kötü amaçlı kod eklendi; bu kod makinenize gizli bir SSH arka kapısı kurmaya çalışıyor. Cursor eklentiyi marketten kaldırdı, 2.1.314 sürümü yayınlandı ama Anthropic'ten hâlâ resmi bir uyarı gelmedi. Cursor kullanıyorsan bugün eklenti sürümünü kontrol et; etkilenen sürümleri taramadan geçirme.
+🔓 **GLM 5.3 Firefox'u Yamadan Hackledi**
+Epoch AI'ın deneyinde GLM 5.3, henüz kullanıcılara ulaşmamış güvenlik yamalarını inceleyerek açığı tespit etti ve sandbox korumasını aşan bir saldırı zinciri kurdu. Sadece bir web sayfasını ziyaret etmek, cihazdaki yerel dosyaların okunmasına yetiyor. Senin için anlamı: tarayıcını güncel tutmak artık bir alışkanlık değil, zorunluluk.
 
-🍎 **Apple Intelligence Çin'e Açılıyor**
-Apple, iOS 27.3 beta ile 4 Kasım'da bildirim özetleri, çeviri ve yazı düzenleme gibi özellikleri Çin'e taşıyor. Entegrasyonda ChatGPT modeline benzer şekilde Alibaba'nın Qwen modeli kullanılıyor. Bu hamle hem Apple'ın Çin pazarına dönüşü hem de yapay zeka rekabeti açısından önemli bir kırılma noktası.
+🧠 **Neuralink, Grok'u Beyne Bağladı**
+ALS hastası bir katılımcı sadece düşünerek Grok'a komut verdi; dakikada 75 kelime yazdı, yakınlarını aradı, yemek siparişi verdi. Bu tek kişilik erken dönem bir sonuç ama engelli bireylerin bağımsızlığı için sinyaller güçlü.
 
-Sana sorum şu: Geliştirici ortamında eklenti güvenliğini ne sıklıkla kontrol ediyorsun?
+🖥️ **Vercel'den agent-desktop**
+Yapay zeka ajanları artık masaüstü uygulamalarını ekran görüntüsü almadan, erişilebilirlik altyapısını okuyarak kullanabiliyor. Ücretsiz, açık kaynak ve npm ile beş dakikada kurulabiliyor.
+
+Sizce yapay zekanın güvenlik açıklarını bu hızla bulabilmesi, savunma tarafında ne değiştirir?
 
 🎧 Bölümün tamamı (3-4 dk):
 Spotify ve Apple Podcasts'te "Future with Serdar" aratman yeterli.

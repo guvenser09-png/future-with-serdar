@@ -1,5 +1,14 @@
 [
   {
+    "episode_number": 83,
+    "date": "2026-11-02",
+    "title": "Bölüm 83: GLM 5.3 Firefox'u Hackledi, Neuralink Grok'u Beyne Bağladı | 2 Kasım 2026",
+    "description": "Bugün gündemde çok çarpıcı üç gelişme var. Açık kaynaklı GLM 5.3 modeli Firefox'taki yamalar üzerinden çalışan saldırılar üretti. Neuralink, Grok yapay zeka ajanını beyin çipine bağladı. Vercel ise yapay zeka ajanlarının bilgisayarı arka planda kontrol etmesine imkan tanıyan açık kaynaklı agent-desktop aracını yayımladı. Future with Serdar'da bugünün yapay zeka haberlerini yorumlu ve pratik bir bakışla ele alıyoruz.",
+    "duration_sec": 213,
+    "mp3_url": "https://guvenser09-png.github.io/future-with-serdar/episodes/episode_083.mp3",
+    "mp3_bytes": 3468587
+  },
+  {
     "episode_number": 82,
     "date": "2026-10-31",
     "title": "Bölüm 82: Claude Eklentisi Arka Kapı Skandalı ve Apple Intelligence Çin'de | 31 Ekim 2026",
