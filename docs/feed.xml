@@ -25,7 +25,18 @@ Bu programın kendisi de bir yapay zeka deneyi: senaryo, ses ve yayın tamamen o
       <itunes:name>Serdar Güven</itunes:name>
       <itunes:email>guvenser09@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 02 Nov 2026 07:34:25 +0300</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 07:35:59 +0300</lastBuildDate>
+    <item>
+      <title>Bölüm 84: Postman, Binance ve Siri | 4 Kasım 2026</title>
+      <description>Bugün üç kritik gelişme var: Postman'ın kullanıcı izni almadan AI eklentilerini otomatik yüklemesi yazılımcı topluluğunu ayağa kaldırdı. Binance'in 6,34 milyar dolarlık soygununun ardındaki sahte iş görüşmesi detayları ortaya çıktı. Apple ise Siri'yi iOS 27.3 ile üçüncü taraf uygulamalara açtı. Future with Serdar'da bugünün yapay zeka gündemine hazır mısınız?</description>
+      <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_084.mp3" length="3765250" type="audio/mpeg"/>
+      <guid isPermaLink="false">fws-ep-84</guid>
+      <pubDate>Wed, 04 Nov 2026 08:30:00 +0300</pubDate>
+      <itunes:author>Serdar Güven</itunes:author>
+      <itunes:duration>00:03:51</itunes:duration>
+      <itunes:episode>84</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Bölüm 83: GLM 5.3 Firefox'u Hackledi, Neuralink Grok'u Beyne Bağladı | 2 Kasım 2026</title>
       <description>Bugün gündemde çok çarpıcı üç gelişme var. Açık kaynaklı GLM 5.3 modeli Firefox'taki yamalar üzerinden çalışan saldırılar üretti. Neuralink, Grok yapay zeka ajanını beyin çipine bağladı. Vercel ise yapay zeka ajanlarının bilgisayarı arka planda kontrol etmesine imkan tanıyan açık kaynaklı agent-desktop aracını yayımladı. Future with Serdar'da bugünün yapay zeka haberlerini yorumlu ve pratik bir bakışla ele alıyoruz.</description>
