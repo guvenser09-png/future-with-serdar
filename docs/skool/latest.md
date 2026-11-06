@@ -1,18 +1,15 @@
-Bir API aracı, sormadan bilgisayarınıza girip başka araçlara eklenti yüklüyorsa — bu ciddi bir güven sorunudur.
+Siber güvenlik artık yapay zeka modeliyle geliyor — ve bu sadece büyük şirketlerin meselesi değil.
 
-🔴 **Postman sessizce devreye girdi**
-Postman, kullanıcıdan izin almadan Claude Code ve Codex'e kendi eklentisini yükledi; üstüne oturum kancası ve uzak sunucu erişimi kurdu. Veri sızıp sızmadığı hala netleşmedi.
-👉 Postman kullanıyorsanız Claude veya Codex ayarlarınızı bugün kontrol edin.
+🛡️ **GPT-6 Cyber: Güvenlik Uzmanı Modeliniz Hazır**
+OpenAI, siber güvenlik açıklarını tespit edip düzeltme önerileri sunan özel bir model tanıttı. Yalnızca yetkili kapsamda çalışacak şekilde eğitilmiş — savunma amaçlı tasarım bu. Yazılım, e-ticaret ya da fintech alanındaysanız, pahalı penetrasyon testi ekiplerine muhtaç kalmadan sisteminizi denetletebilirsiniz.
 
-💰 **Binance soygunu: 6,34 milyar dolar, sahte bir iş görüşmesiyle başladı**
-Bir mühendis sahte işe alımcıdan gelen kodlama ödevini indirdi; zararlı yazılım yayıldı, cüzdan altyapısına erişildi. FBI saldırıyı Kuzey Kore'ye bağladı.
-👉 Tanımadığınız bir kaynaktan gelen kodlama ödevini iş bilgisayarında asla çalıştırmayın.
+🤝 **Perplexity Teammates: 7/24 Çalışan Yapay Zeka Ekibi**
+Perplexity, Slack entegrasyonlu ajanlı çalışma sistemi Teammates'i duyurdu. Aylık 200 dolar fiyat noktası şimdilik ciddi bir bariyer; ama OpenAI ve Anthropic'le kıyasıya rekabet fiyatları aşağı çekecek.
 
-🍎 **Siri üçüncü taraf uygulamalara açılıyor**
-iOS 27.3 ile geliştiriciler Siri'yi kendi uygulamalarına entegre edebilecek; ekran bağlamını anlayan, çoklu görev akışları çalıştıran bir asistan artık bağımsız geliştiricilerin de elinde.
-👉 Türkiye'deki uygulama geliştiricileri için ciddi bir fırsat kapısı açılıyor.
+🏦 **Claude Banka Hesabınıza Bağlanıyor**
+Anthropique, Plaid aracılığıyla Claude'a banka okuma erişimi ekledi. Para transferi yok, şifre görmüyor; sadece harcamalarınızı analiz ediyor. Şu an yalnızca ABD'de beta'da — ama yapay zekanın finansal asistanlığa kalıcı girişi başladı.
 
-Siz hiç kullandığınız bir aracın, izinsiz başka bir araca müdahale ettiğini fark ettiniz mi?
+Siz yapay zekanın banka verilerinize erişmesine ne kadar güvenirsiniz?
 
 🎧 Bölümün tamamı (3-4 dk):
 Spotify ve Apple Podcasts'te "Future with Serdar" aratman yeterli.
