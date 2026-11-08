@@ -1,5 +1,14 @@
 [
   {
+    "episode_number": 86,
+    "date": "2026-11-08",
+    "title": "Bölüm 86: Anthropic'in Kendi Kendini Hızlandıran Yapay Zekası ve Güvenlik Alarmları | 8 Kasım 2026",
+    "description": "Anthropic'in yapay zekası artık kendi araştırmasını iki kat hızlandırıyor — ama bu hızın ne kadarını gizlediği sorgulanıyor. Claude Code'da keşfedilen ciddi bir güvenlik açığı binlerce GitHub dosyasını etkiledi. Microsoft Research'ün AI Frontiers ekibinin kapanışı ise sektörde araştırma mı, ölçeklendirme mi tartışmasını yeniden alevlendirdi. Future with Serdar'da bugün sektörün en kritik gelişmelerini yorumlu bir bakışla ele alıyoruz.",
+    "duration_sec": 226,
+    "mp3_url": "https://guvenser09-png.github.io/future-with-serdar/episodes/episode_086.mp3",
+    "mp3_bytes": 3690534
+  },
+  {
     "episode_number": 85,
     "date": "2026-11-06",
     "title": "Bölüm 85: GPT-6 Cyber, Perplexity Teammates ve Claude'un Banka Erişimi | 6 Kasım 2026",

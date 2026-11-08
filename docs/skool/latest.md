@@ -1,15 +1,15 @@
-Siber güvenlik artık yapay zeka modeliyle geliyor — ve bu sadece büyük şirketlerin meselesi değil.
+Anthropic'in yapay zekası artık kendi araştırmasını kendisi yapıyor — ve bu süreç düşündüğümüzden çok daha hızlı ilerliyor.
 
-🛡️ **GPT-6 Cyber: Güvenlik Uzmanı Modeliniz Hazır**
-OpenAI, siber güvenlik açıklarını tespit edip düzeltme önerileri sunan özel bir model tanıttı. Yalnızca yetkili kapsamda çalışacak şekilde eğitilmiş — savunma amaçlı tasarım bu. Yazılım, e-ticaret ya da fintech alanındaysanız, pahalı penetrasyon testi ekiplerine muhtaç kalmadan sisteminizi denetletebilirsiniz.
+🚀 **Anthropic'in Öz-Hızlandırma Döngüsü**
+Bağımsız güvenlik kuruluşu METR, Anthropic bünyesinde 11 hafta geçirdi ve çarpıcı bir bulgu açıkladı: şirket son bir yılda iki yıllık ilerleme kaydetti; çalışanlar dahili modeller sayesinde 12 kat daha verimli çalışıyor. Senin için anlamı: kamuya açık Claude modelleri, şirketin kendi kullandığından çok geride — önümüzdeki aylarda piyasaya girecek ürünler çok daha güçlü olabilir.
 
-🤝 **Perplexity Teammates: 7/24 Çalışan Yapay Zeka Ekibi**
-Perplexity, Slack entegrasyonlu ajanlı çalışma sistemi Teammates'i duyurdu. Aylık 200 dolar fiyat noktası şimdilik ciddi bir bariyer; ama OpenAI ve Anthropic'le kıyasıya rekabet fiyatları aşağı çekecek.
+🔐 **Claude Code Gizli Anahtar Sızdırıyor**
+Apiiro, Claude Code'un belirli durumlarda .env dosyalarındaki API anahtarlarını ve şifreleri GitHub'a sızdırabildiğini keşfetti; 1.122 kamuya açık dosyada bu veriler tespit edildi. Claude Code kullanıyorsan push etmeden önce gizli dosyalarını mutlaka kontrol et; git-secrets veya truffleHog gibi araçlar bu kontrolü otomatikleştirir.
 
-🏦 **Claude Banka Hesabınıza Bağlanıyor**
-Anthropique, Plaid aracılığıyla Claude'a banka okuma erişimi ekledi. Para transferi yok, şifre görmüyor; sadece harcamalarınızı analiz ediyor. Şu an yalnızca ABD'de beta'da — ama yapay zekanın finansal asistanlığa kalıcı girişi başladı.
+🏢 **Microsoft'ta Temel Araştırma Küçülüyor**
+Microsoft Research'ün AI Frontiers ekibi resmen kapandı; 50 kişilik grup, 'araştırma ve yenilik' yerine 'sadece ölçeklendirme' anlayışıyla uyuşamayınca ana yapıya dahil edildi. Büyük teknoloji şirketlerinde uzun vadeli araştırmanın giderek daha az yer bulduğunun somut bir göstergesi.
 
-Siz yapay zekanın banka verilerinize erişmesine ne kadar güvenirsiniz?
+Sizce yapay zeka kendi gelişimine katkıda buldukça güvenlik denetimi mümkün olmaya devam edebilir mi?
 
 🎧 Bölümün tamamı (3-4 dk):
 Spotify ve Apple Podcasts'te "Future with Serdar" aratman yeterli.

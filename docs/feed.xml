@@ -25,7 +25,18 @@ Bu programın kendisi de bir yapay zeka deneyi: senaryo, ses ve yayın tamamen o
       <itunes:name>Serdar Güven</itunes:name>
       <itunes:email>guvenser09@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Fri, 06 Nov 2026 07:35:02 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 07:34:37 +0300</lastBuildDate>
+    <item>
+      <title>Bölüm 86: Anthropic'in Kendi Kendini Hızlandıran Yapay Zekası ve Güvenlik Alarmları | 8 Kasım 2026</title>
+      <description>Anthropic'in yapay zekası artık kendi araştırmasını iki kat hızlandırıyor — ama bu hızın ne kadarını gizlediği sorgulanıyor. Claude Code'da keşfedilen ciddi bir güvenlik açığı binlerce GitHub dosyasını etkiledi. Microsoft Research'ün AI Frontiers ekibinin kapanışı ise sektörde araştırma mı, ölçeklendirme mi tartışmasını yeniden alevlendirdi. Future with Serdar'da bugün sektörün en kritik gelişmelerini yorumlu bir bakışla ele alıyoruz.</description>
+      <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_086.mp3" length="3690534" type="audio/mpeg"/>
+      <guid isPermaLink="false">fws-ep-86</guid>
+      <pubDate>Sun, 08 Nov 2026 08:30:00 +0300</pubDate>
+      <itunes:author>Serdar Güven</itunes:author>
+      <itunes:duration>00:03:46</itunes:duration>
+      <itunes:episode>86</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Bölüm 85: GPT-6 Cyber, Perplexity Teammates ve Claude'un Banka Erişimi | 6 Kasım 2026</title>
       <description>OpenAI siber güvenlik için GPT-6 Cyber'ı tanıttı; Perplexity iş dünyasına yönelik yapay zeka takım arkadaşlarını duyurdu; Anthropic ise Claude'u doğrudan banka hesabınıza bağlıyor. Bugünkü bölümde bu üç büyük gelişmeyi ve sizin için ne anlama geldiğini konuşuyoruz.</description>
