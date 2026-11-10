@@ -1,5 +1,14 @@
 [
   {
+    "episode_number": 87,
+    "date": "2026-11-10",
+    "title": "Bölüm 87: Gemini Gizlice Dosyalarını İnsanlara mı Gösteriyor? | 10 Kasım 2026",
+    "description": "Bugün üç kritik gelişme var: Google Gemini'nin Drive ve Gmail entegrasyonunun gizlice insan incelemesine açıldığı ortaya çıktı, Claude Code güvenlik açığı binlerce geliştiriciyi tehdit ediyor ve Anthropic yeni Claude Fable ile Mythos 5.2 modellerini duyurdu. Future with Serdar'da her haberi sadece aktarmıyor, senin için yorumluyoruz.",
+    "duration_sec": 222,
+    "mp3_url": "https://guvenser09-png.github.io/future-with-serdar/episodes/episode_087.mp3",
+    "mp3_bytes": 3622824
+  },
+  {
     "episode_number": 86,
     "date": "2026-11-08",
     "title": "Bölüm 86: Anthropic'in Kendi Kendini Hızlandıran Yapay Zekası ve Güvenlik Alarmları | 8 Kasım 2026",

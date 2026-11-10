@@ -1,15 +1,15 @@
-Anthropic'in yapay zekası artık kendi araştırmasını kendisi yapıyor — ve bu süreç düşündüğümüzden çok daha hızlı ilerliyor.
+Google'ın yıllarca verdiği söz sessiz sedasız geri çekildi — ve bu sadece bir şirketin politika değişikliği değil, milyonlarca kullanıcının mahremiyetini doğrudan etkiliyor.
 
-🚀 **Anthropic'in Öz-Hızlandırma Döngüsü**
-Bağımsız güvenlik kuruluşu METR, Anthropic bünyesinde 11 hafta geçirdi ve çarpıcı bir bulgu açıkladı: şirket son bir yılda iki yıllık ilerleme kaydetti; çalışanlar dahili modeller sayesinde 12 kat daha verimli çalışıyor. Senin için anlamı: kamuya açık Claude modelleri, şirketin kendi kullandığından çok geride — önümüzdeki aylarda piyasaya girecek ürünler çok daha güçlü olabilir.
+🔴 **Gemini Kişisel Verilerinizi İnsan İncelemecilere Açıyor**
+Google, 2023'te Gemini'nin Gmail ve Drive entegrasyonunda insan gözden geçirici olmayacağını net şekilde taahhüt etmişti. Şimdi güncellenmiş yardım sayfaları aksini söylüyor; Google'ın kendi uyarısı: "Gizli bilgiler içeren uygulamalarınızı Gemini'ye bağlamayın." Senin için anlamı: Connected Apps özelliğini şimdi kapat, iş veya müşteri verisiyle çalışıyorsan bu ciddi bir uyum riski.
 
-🔐 **Claude Code Gizli Anahtar Sızdırıyor**
-Apiiro, Claude Code'un belirli durumlarda .env dosyalarındaki API anahtarlarını ve şifreleri GitHub'a sızdırabildiğini keşfetti; 1.122 kamuya açık dosyada bu veriler tespit edildi. Claude Code kullanıyorsan push etmeden önce gizli dosyalarını mutlaka kontrol et; git-secrets veya truffleHog gibi araçlar bu kontrolü otomatikleştirir.
+⚠️ **Claude Code Binlerce Şifreyi GitHub'a Sızdırdı**
+Apiiro'nun araştırması, Claude Code'un yerel ayar dosyasının 100.000'den fazla vakada public depolara yüklendiğini ortaya koydu; 1.100'ü gerçek API anahtarı ve şifre içeriyor. Senin için anlamı: .claude/settings.local.json dosyasını hemen gitignore listene ekle ve reponuzu truffleHog ile tara.
 
-🏢 **Microsoft'ta Temel Araştırma Küçülüyor**
-Microsoft Research'ün AI Frontiers ekibi resmen kapandı; 50 kişilik grup, 'araştırma ve yenilik' yerine 'sadece ölçeklendirme' anlayışıyla uyuşamayınca ana yapıya dahil edildi. Büyük teknoloji şirketlerinde uzun vadeli araştırmanın giderek daha az yer bulduğunun somut bir göstergesi.
+✅ **Anthropic Claude Fable 5.2'yi Duyurdu**
+Kodlama ve akıl yürütmede güçlü iyileştirmeler vadeden Fable 5.2 bugün erişime açıldı; Mythos 5.2 ise henüz seçili kuruluşlara sunuluyor. Karmaşık yazılım projen varsa denemeye değer.
 
-Sizce yapay zeka kendi gelişimine katkıda buldukça güvenlik denetimi mümkün olmaya devam edebilir mi?
+Siz Connected Apps özelliğini aktif kullanıyor muydunuz — bu haber sizi endişelendirdi mi?
 
 🎧 Bölümün tamamı (3-4 dk):
 Spotify ve Apple Podcasts'te "Future with Serdar" aratman yeterli.

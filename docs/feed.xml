@@ -25,7 +25,18 @@ Bu programın kendisi de bir yapay zeka deneyi: senaryo, ses ve yayın tamamen o
       <itunes:name>Serdar Güven</itunes:name>
       <itunes:email>guvenser09@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sun, 08 Nov 2026 07:34:37 +0300</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 07:42:13 +0300</lastBuildDate>
+    <item>
+      <title>Bölüm 87: Gemini Gizlice Dosyalarını İnsanlara mı Gösteriyor? | 10 Kasım 2026</title>
+      <description>Bugün üç kritik gelişme var: Google Gemini'nin Drive ve Gmail entegrasyonunun gizlice insan incelemesine açıldığı ortaya çıktı, Claude Code güvenlik açığı binlerce geliştiriciyi tehdit ediyor ve Anthropic yeni Claude Fable ile Mythos 5.2 modellerini duyurdu. Future with Serdar'da her haberi sadece aktarmıyor, senin için yorumluyoruz.</description>
+      <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_087.mp3" length="3622824" type="audio/mpeg"/>
+      <guid isPermaLink="false">fws-ep-87</guid>
+      <pubDate>Tue, 10 Nov 2026 08:30:00 +0300</pubDate>
+      <itunes:author>Serdar Güven</itunes:author>
+      <itunes:duration>00:03:42</itunes:duration>
+      <itunes:episode>87</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Bölüm 86: Anthropic'in Kendi Kendini Hızlandıran Yapay Zekası ve Güvenlik Alarmları | 8 Kasım 2026</title>
       <description>Anthropic'in yapay zekası artık kendi araştırmasını iki kat hızlandırıyor — ama bu hızın ne kadarını gizlediği sorgulanıyor. Claude Code'da keşfedilen ciddi bir güvenlik açığı binlerce GitHub dosyasını etkiledi. Microsoft Research'ün AI Frontiers ekibinin kapanışı ise sektörde araştırma mı, ölçeklendirme mi tartışmasını yeniden alevlendirdi. Future with Serdar'da bugün sektörün en kritik gelişmelerini yorumlu bir bakışla ele alıyoruz.</description>
