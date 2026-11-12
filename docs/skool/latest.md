@@ -1,15 +1,15 @@
-Google'ın yıllarca verdiği söz sessiz sedasız geri çekildi — ve bu sadece bir şirketin politika değişikliği değil, milyonlarca kullanıcının mahremiyetini doğrudan etkiliyor.
+Yapay zekanın kalbindeki en büyük isim sarsılıyor ve biz bunu yakından takip ediyoruz.
 
-🔴 **Gemini Kişisel Verilerinizi İnsan İncelemecilere Açıyor**
-Google, 2023'te Gemini'nin Gmail ve Drive entegrasyonunda insan gözden geçirici olmayacağını net şekilde taahhüt etmişti. Şimdi güncellenmiş yardım sayfaları aksini söylüyor; Google'ın kendi uyarısı: "Gizli bilgiler içeren uygulamalarınızı Gemini'ye bağlamayın." Senin için anlamı: Connected Apps özelliğini şimdi kapat, iş veya müşteri verisiyle çalışıyorsan bu ciddi bir uyum riski.
+🔴 **Jensen Huang Koltuğunu Kaybedebilir**
+WSJ'e göre Nvidia yönetim kurulu bu hafta acil toplandı; 33 yıllık CEO Huang, hem bir yabancı istihbarat bağlantısı iddiasıyla hem de şirket içi bir ilişki haberiyle gündemde. Hisse son 5 günde yüzde 11 geriledi. Nvidia çipleri neredeyse tüm yapay zeka modellerinin altyapısı — bu geçiş süreci pürüzsüz olmayabilir, sektörü izlemeye devam edin.
 
-⚠️ **Claude Code Binlerce Şifreyi GitHub'a Sızdırdı**
-Apiiro'nun araştırması, Claude Code'un yerel ayar dosyasının 100.000'den fazla vakada public depolara yüklendiğini ortaya koydu; 1.100'ü gerçek API anahtarı ve şifre içeriyor. Senin için anlamı: .claude/settings.local.json dosyasını hemen gitignore listene ekle ve reponuzu truffleHog ile tara.
+💰 **OpenAI 10 Milyar Dolar Barajını Aştı**
+Bloomberg'in anonim kaynaklara dayanan haberine göre OpenAI, üç aylık gelirde 10 milyar dolara ulaştı. Öte yandan Anthropic'in aynı dönemde kurumsal pazarda öne geçtiği iddia ediliyor. Rekabetin bu kadar kızışması araçları daha erişilebilir ve ucuz hale getiriyor — bu bizim için iyi haber.
 
-✅ **Anthropic Claude Fable 5.2'yi Duyurdu**
-Kodlama ve akıl yürütmede güçlü iyileştirmeler vadeden Fable 5.2 bugün erişime açıldı; Mythos 5.2 ise henüz seçili kuruluşlara sunuluyor. Karmaşık yazılım projen varsa denemeye değer.
+🤝 **Claude Artık Toplantılarınıza Katılıyor**
+Anthropic'in Claude Meetings özelliği, toplantı sürerken görev yapıyor: taslak oluşturuyor, veri çekiyor, soruları yanıtlıyor. Şu an Google Meet ile çalışıyor, Team ve Enterprise kullanıcılarına beta olarak açık.
 
-Siz Connected Apps özelliğini aktif kullanıyor muydunuz — bu haber sizi endişelendirdi mi?
+Siz bir toplantıda yapay zeka asistanı bulunmasını ister miydiniz, yoksa rahatsız edici mi bulurdunuz?
 
 🎧 Bölümün tamamı (3-4 dk):
 Spotify ve Apple Podcasts'te "Future with Serdar" aratman yeterli.
