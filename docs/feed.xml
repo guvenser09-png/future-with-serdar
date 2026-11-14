@@ -25,7 +25,18 @@ Bu programın kendisi de bir yapay zeka deneyi: senaryo, ses ve yayın tamamen o
       <itunes:name>Serdar Güven</itunes:name>
       <itunes:email>guvenser09@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 12 Nov 2026 07:35:15 +0300</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 07:34:31 +0300</lastBuildDate>
+    <item>
+      <title>Bölüm 89: Gemini 4 Hydrogen, ChatGPT Wallet ve Muse Telefon Açıyor | 14 Kasım 2026</title>
+      <description>Google'ın yeni Gemini 4 Hydrogen modeli hız ve verimlilik rekorları kırarken, OpenAI ChatGPT'ye dijital cüzdan özelliği getiriyor. Meta'nın yapay zeka asistanı Muse ise artık sizin adınıza telefon görüşmeleri yapabiliyor. Future with Serdar'da bugün yapay zeka dünyasındaki bu üç kritik gelişmeyi ve sizin için ne anlama geldiğini konuşuyoruz.</description>
+      <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_089.mp3" length="3329796" type="audio/mpeg"/>
+      <guid isPermaLink="false">fws-ep-89</guid>
+      <pubDate>Sat, 14 Nov 2026 08:30:00 +0300</pubDate>
+      <itunes:author>Serdar Güven</itunes:author>
+      <itunes:duration>00:03:24</itunes:duration>
+      <itunes:episode>89</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Bölüm 88: Jensen Huang Gidiyor mu? OpenAI'ın Rekor Geliri ve Claude Artık Toplantılarınızda | 12 Kasım</title>
       <description>Bugün Nvidia'da büyük sarsıntı: Jensen Huang'ın görevden alınabileceği iddia ediliyor. OpenAI üç ayda 10 milyar dolar gelir barajını aştı. Anthropic ise Claude'u artık toplantılarınıza bizzat katılımcı olarak sokuyor. Future with Serdar'da yapay zeka dünyasındaki bu kritik gelişmeleri ve size ne anlama geldiğini konuştuk.</description>

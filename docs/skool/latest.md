@@ -1,15 +1,15 @@
-Yapay zekanın kalbindeki en büyük isim sarsılıyor ve biz bunu yakından takip ediyoruz.
+Yapay zeka ajanları artık senin adına hem ödeme yapıyor hem de telefon açıyor — bu haftanın en kritik gelişmeleri bir arada.
 
-🔴 **Jensen Huang Koltuğunu Kaybedebilir**
-WSJ'e göre Nvidia yönetim kurulu bu hafta acil toplandı; 33 yıllık CEO Huang, hem bir yabancı istihbarat bağlantısı iddiasıyla hem de şirket içi bir ilişki haberiyle gündemde. Hisse son 5 günde yüzde 11 geriledi. Nvidia çipleri neredeyse tüm yapay zeka modellerinin altyapısı — bu geçiş süreci pürüzsüz olmayabilir, sektörü izlemeye devam edin.
+🔵 **Gemini 4 Hydrogen geldi**
+Google, hız ve verimlilik odaklı yeni modelini duyurdu. Gemini 3.8 Flash'a kıyasla 2,5 kat daha hızlı çalışıyor, token maliyetini yüzde 23'e kadar düşürüyor. Halüsinasyon oranını beş kattan fazla azalttığını iddia ediyor — bağımsız testler doğrulayacak. Yüksek hacimli iş akışı kurmak isteyen geliştiriciler için API fiyatı oldukça cazip: 1 milyon token için 1,50 dolar.
 
-💰 **OpenAI 10 Milyar Dolar Barajını Aştı**
-Bloomberg'in anonim kaynaklara dayanan haberine göre OpenAI, üç aylık gelirde 10 milyar dolara ulaştı. Öte yandan Anthropic'in aynı dönemde kurumsal pazarda öne geçtiği iddia ediliyor. Rekabetin bu kadar kızışması araçları daha erişilebilir ve ucuz hale getiriyor — bu bizim için iyi haber.
+💳 **ChatGPT Wallet açıklandı**
+OpenAI, ajanların kullanıcı onayıyla alışveriş yapabilmesini sağlayan dijital cüzdanı tanıttı. Küçük gibi görünüyor ama ajanları gerçekten otonom asistanlara dönüştüren kritik bir adım. E-ticaret ve SaaS geliştiricileri yakından takip etmeli.
 
-🤝 **Claude Artık Toplantılarınıza Katılıyor**
-Anthropic'in Claude Meetings özelliği, toplantı sürerken görev yapıyor: taslak oluşturuyor, veri çekiyor, soruları yanıtlıyor. Şu an Google Meet ile çalışıyor, Team ve Enterprise kullanıcılarına beta olarak açık.
+📞 **Meta'nın asistanı Muse telefon açıyor**
+ABD'deki ücretli aboneler için Muse, restoran rezervasyonu ve randevu gibi "yapmak istemediğin" aramaları senin yerine hallediyor. Teknoloji güçlü ama bazı işletmeler arayanın yapay zeka olduğunu anlayınca hattı kapatıyor — sosyal kabul henüz tam değil.
 
-Siz bir toplantıda yapay zeka asistanı bulunmasını ister miydiniz, yoksa rahatsız edici mi bulurdunuz?
+Sen bir yapay zeka ajanına kendi adına ödeme yapma ya da telefon açma yetkisi verir miydin?
 
 🎧 Bölümün tamamı (3-4 dk):
 Spotify ve Apple Podcasts'te "Future with Serdar" aratman yeterli.
