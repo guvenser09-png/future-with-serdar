@@ -25,7 +25,18 @@ Bu programın kendisi de bir yapay zeka deneyi: senaryo, ses ve yayın tamamen o
       <itunes:name>Serdar Güven</itunes:name>
       <itunes:email>guvenser09@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sat, 14 Nov 2026 07:34:31 +0300</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 07:34:04 +0300</lastBuildDate>
+    <item>
+      <title>Bölüm 90: GPT-6 Astra Fizik Tarihine Geçiyor | 16 Kasım 2026</title>
+      <description>Bugün fizik tarihini yeniden yazan bir yapay zeka haberini, sağlık teknolojilerinde Türk girişiminin dünya sahnesine çıkışını ve AI modellerinin dolandırıcılık testinde aldığı sonuçları ele alıyoruz. Future with Serdar'da her zamanki gibi sadece haber değil, senin için ne anlama geldiğini de konuşuyoruz.</description>
+      <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_090.mp3" length="3030880" type="audio/mpeg"/>
+      <guid isPermaLink="false">fws-ep-90</guid>
+      <pubDate>Mon, 16 Nov 2026 08:30:00 +0300</pubDate>
+      <itunes:author>Serdar Güven</itunes:author>
+      <itunes:duration>00:03:05</itunes:duration>
+      <itunes:episode>90</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Bölüm 89: Gemini 4 Hydrogen, ChatGPT Wallet ve Muse Telefon Açıyor | 14 Kasım 2026</title>
       <description>Google'ın yeni Gemini 4 Hydrogen modeli hız ve verimlilik rekorları kırarken, OpenAI ChatGPT'ye dijital cüzdan özelliği getiriyor. Meta'nın yapay zeka asistanı Muse ise artık sizin adınıza telefon görüşmeleri yapabiliyor. Future with Serdar'da bugün yapay zeka dünyasındaki bu üç kritik gelişmeyi ve sizin için ne anlama geldiğini konuşuyoruz.</description>

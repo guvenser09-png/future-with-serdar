@@ -1,15 +1,15 @@
-Yapay zeka ajanları artık senin adına hem ödeme yapıyor hem de telefon açıyor — bu haftanın en kritik gelişmeleri bir arada.
+Fizik ders kitapları yeniden yazılıyor olabilir — ve bunda bir yapay zekanın payı var.
 
-🔵 **Gemini 4 Hydrogen geldi**
-Google, hız ve verimlilik odaklı yeni modelini duyurdu. Gemini 3.8 Flash'a kıyasla 2,5 kat daha hızlı çalışıyor, token maliyetini yüzde 23'e kadar düşürüyor. Halüsinasyon oranını beş kattan fazla azalttığını iddia ediyor — bağımsız testler doğrulayacak. Yüksek hacimli iş akışı kurmak isteyen geliştiriciler için API fiyatı oldukça cazip: 1 milyon token için 1,50 dolar.
+🔬 **GPT-6 Astra, Standart Model'i temellendirdi**
+OpenAI, GPT-6 Astra'nın fiziğin en temel çerçevesi olan Standart Model'i matematiksel olarak sağlam bir zemine oturtma çalışmasında doğrudan rol oynadığını resmi olarak yayımladı. Onlarca yıllık bir problemde somut bir adım bu. Senin için anlamı: AI artık asistan değil, gerçek bir düşünce ortağı — araştırma veya mühendislik alanındaysan bu bakış açısını şimdiden benimse.
 
-💳 **ChatGPT Wallet açıklandı**
-OpenAI, ajanların kullanıcı onayıyla alışveriş yapabilmesini sağlayan dijital cüzdanı tanıttı. Küçük gibi görünüyor ama ajanları gerçekten otonom asistanlara dönüştüren kritik bir adım. E-ticaret ve SaaS geliştiricileri yakından takip etmeli.
+🏥 **Sağlık AI'ı Silikon Vadisi'nin tekeli olmaktan çıkıyor**
+HLTH 2026'da ChatGPT'ye haftada 300 milyon sağlık sorusu sorulduğu açıklandı; İstanbul merkezli HaloScape de bu konferansta boy gösterdi. Senin için anlamı: Türk girişimciler için sağlık AI'ı, henüz kalabalıklaşmamış bir alanda ciddi bir fırsat.
 
-📞 **Meta'nın asistanı Muse telefon açıyor**
-ABD'deki ücretli aboneler için Muse, restoran rezervasyonu ve randevu gibi "yapmak istemediğin" aramaları senin yerine hallediyor. Teknoloji güçlü ama bazı işletmeler arayanın yapay zeka olduğunu anlayınca hattı kapatıyor — sosyal kabul henüz tam değil.
+🎣 **Yapay zeka dolandırıcılık tuzaklarını görüyor**
+ShiftDelete'nin testinde Gemini, ChatGPT ve Claude, 20 sahte Amazon mesajının tamamını doğru tespit etti. Senin için anlamı: Şüpheli bir mesaj geldiğinde AI'a yapıştır, sadece evet-hayır değil gerekçeli analiz iste.
 
-Sen bir yapay zeka ajanına kendi adına ödeme yapma ya da telefon açma yetkisi verir miydin?
+Siz hangi alanda AI'ı gerçek bir "düşünce ortağı" olarak kullanmaya başladınız?
 
 🎧 Bölümün tamamı (3-4 dk):
 Spotify ve Apple Podcasts'te "Future with Serdar" aratman yeterli.
