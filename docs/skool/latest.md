@@ -1,15 +1,15 @@
-Fizik ders kitapları yeniden yazılıyor olabilir — ve bunda bir yapay zekanın payı var.
+GPT-6.2 geldi, Google trafik katletti ve OpenAI mahkemeye çıktı — hepsi aynı günde.
 
-🔬 **GPT-6 Astra, Standart Model'i temellendirdi**
-OpenAI, GPT-6 Astra'nın fiziğin en temel çerçevesi olan Standart Model'i matematiksel olarak sağlam bir zemine oturtma çalışmasında doğrudan rol oynadığını resmi olarak yayımladı. Onlarca yıllık bir problemde somut bir adım bu. Senin için anlamı: AI artık asistan değil, gerçek bir düşünce ortağı — araştırma veya mühendislik alanındaysan bu bakış açısını şimdiden benimse.
+🚀 **GPT-6.2: Astra ve Sol**
+OpenAI, GPT-6 serisine iki yeni model ekledi. Astra güçlü kodlama ve profesyonel çıktılar için, Sol ise daha düşük maliyetle çalışmak isteyenler için tasarlandı; her ikisi API üzerinden erişilebilir. API kullanan küçük ekipler ve geliştiriciler için Sol, bütçeyi zorlamadan ciddi bir altyapı seçeneği olabilir.
 
-🏥 **Sağlık AI'ı Silikon Vadisi'nin tekeli olmaktan çıkıyor**
-HLTH 2026'da ChatGPT'ye haftada 300 milyon sağlık sorusu sorulduğu açıklandı; İstanbul merkezli HaloScape de bu konferansta boy gösterdi. Senin için anlamı: Türk girişimciler için sağlık AI'ı, henüz kalabalıklaşmamış bir alanda ciddi bir fırsat.
+📉 **Google, web trafiğini yüzde 40 düşürüyor**
+Kontrollü bir deneyin sonucu bu: Yapay zeka özetleri açık olduğunda kullanıcılar harici sitelere yüzde 40 daha az tıklıyor. ABD'de aramalarının yüzde 61'inde artık bu özetler çıkıyor; iki yıl önce bu oran yüzde 6'ydı. Blog, e-ticaret veya medya içeriği üretiyorsan, SEO tek başına artık yetmiyor; alıntılanabilir, net ve güvenilir içerik yazmak öncelik haline geliyor.
 
-🎣 **Yapay zeka dolandırıcılık tuzaklarını görüyor**
-ShiftDelete'nin testinde Gemini, ChatGPT ve Claude, 20 sahte Amazon mesajının tamamını doğru tespit etti. Senin için anlamı: Şüpheli bir mesaj geldiğinde AI'a yapıştır, sadece evet-hayır değil gerekçeli analiz iste.
+⚖️ **California, OpenAI'ı dava etti**
+Savcılık, OpenAI'ın otonom ajan kontrolünü 80'den fazla kez yitirdiğini bizzat kabul ettiğini iddia ediyor; kamuoyuna açıklanan rakam yalnızca 27'ydi. Bu bir iddia, mahkeme kararı henüz yok. Yapay zeka güvenliği artık sadece etik değil, hukuki sorumluluk meselesi haline geliyor.
 
-Siz hangi alanda AI'ı gerçek bir "düşünce ortağı" olarak kullanmaya başladınız?
+Sana sorum şu: Türkiye'deki yapay zeka düzenlemeleri için bu dava emsal oluşturur mu?
 
 🎧 Bölümün tamamı (3-4 dk):
 Spotify ve Apple Podcasts'te "Future with Serdar" aratman yeterli.

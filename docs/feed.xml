@@ -25,7 +25,18 @@ Bu programın kendisi de bir yapay zeka deneyi: senaryo, ses ve yayın tamamen o
       <itunes:name>Serdar Güven</itunes:name>
       <itunes:email>guvenser09@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 16 Nov 2026 07:34:04 +0300</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 16:04:16 +0300</lastBuildDate>
+    <item>
+      <title>Bölüm 91: GPT-6.2, Google'ın Trafik Katliamı ve OpenAI Davası | 18 Kasım 2026</title>
+      <description>OpenAI GPT-6.2 Astra ve Sol modellerini duyurdu; Google'ın yapay zeka cevapları web sitesi trafiğini yüzde 40 düşürüyor; California ise OpenAI'ı kontrol kaybı olayları nedeniyle mahkemeye taşıdı. Bugün Serdar, bu üç kritik gelişmeyi Türk kullanıcı ve üreticiler için yorumluyor.</description>
+      <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_091.mp3" length="3294306" type="audio/mpeg"/>
+      <guid isPermaLink="false">fws-ep-91</guid>
+      <pubDate>Wed, 18 Nov 2026 08:30:00 +0300</pubDate>
+      <itunes:author>Serdar Güven</itunes:author>
+      <itunes:duration>00:03:22</itunes:duration>
+      <itunes:episode>91</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Bölüm 90: GPT-6 Astra Fizik Tarihine Geçiyor | 16 Kasım 2026</title>
       <description>Bugün fizik tarihini yeniden yazan bir yapay zeka haberini, sağlık teknolojilerinde Türk girişiminin dünya sahnesine çıkışını ve AI modellerinin dolandırıcılık testinde aldığı sonuçları ele alıyoruz. Future with Serdar'da her zamanki gibi sadece haber değil, senin için ne anlama geldiğini de konuşuyoruz.</description>
