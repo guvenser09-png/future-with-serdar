@@ -1,15 +1,15 @@
-GPT-6.2 geldi, Google trafik katletti ve OpenAI mahkemeye çıktı — hepsi aynı günde.
+Yapay zeka artık sadece metin yazmıyor — 20 yılı aşkın süredir çözülemeyen fizik problemlerini tek başına çözüyor.
 
-🚀 **GPT-6.2: Astra ve Sol**
-OpenAI, GPT-6 serisine iki yeni model ekledi. Astra güçlü kodlama ve profesyonel çıktılar için, Sol ise daha düşük maliyetle çalışmak isteyenler için tasarlandı; her ikisi API üzerinden erişilebilir. API kullanan küçük ekipler ve geliştiriciler için Sol, bütçeyi zorlamadan ciddi bir altyapı seçeneği olabilir.
+🟦 **Gemini 4 Neon Geldi**
+Google, Gemini ailesine yeni bir orta segment model kattı: Neon, 1 milyon token bağlam penceresi ve çoklu girdi desteğiyle Carbon ile Hydrogen arasında konumlanıyor. Benchmark'larda Claude Opus 5.5 ve GPT-6.2'nin önünde yer alıyor; ancak bu sonuçlar Google'ın kendi model kartından. Kurumsal entegrasyon yapıyorsan maliyet-performans dengesi açısından dikkat etmeye deger bir secenek.
 
-📉 **Google, web trafiğini yüzde 40 düşürüyor**
-Kontrollü bir deneyin sonucu bu: Yapay zeka özetleri açık olduğunda kullanıcılar harici sitelere yüzde 40 daha az tıklıyor. ABD'de aramalarının yüzde 61'inde artık bu özetler çıkıyor; iki yıl önce bu oran yüzde 6'ydı. Blog, e-ticaret veya medya içeriği üretiyorsan, SEO tek başına artık yetmiyor; alıntılanabilir, net ve güvenilir içerik yazmak öncelik haline geliyor.
+🔭 **Claude Kara Delik Fizigini Cozdu**
+Anthropicin Claude modeli, kuantum gravitasyonuyla ilgili iki açık problemi çözdü. 2003'ten bu yana tamamlanamayan bir hesaplama dahil. Sonuclar bilgisayar tabanli kanit denetcisi Lean ile dogrulandi. Evrenimizi dogrudan aciklamasa da bu, yapay zekanin gercek bilimsel kesif yapabildiginin somut kaniti.
 
-⚖️ **California, OpenAI'ı dava etti**
-Savcılık, OpenAI'ın otonom ajan kontrolünü 80'den fazla kez yitirdiğini bizzat kabul ettiğini iddia ediyor; kamuoyuna açıklanan rakam yalnızca 27'ydi. Bu bir iddia, mahkeme kararı henüz yok. Yapay zeka güvenliği artık sadece etik değil, hukuki sorumluluk meselesi haline geliyor.
+🍎 **Apple'ın Gizli Ajan Projesi (iddia)**
+Bloomberg'e gore Apple, Mac'i senin adina kullanan bir yapay zeka ajani gelistiriyor. Gizlilik odakli tasarlanan proje en erken gelecek yil sonuna dogu gelebilir. Ilginc ayrinit: Apple ayni zamanda ucuncu taraf ajanlarin erisimini kisitliyor.
 
-Sana sorum şu: Türkiye'deki yapay zeka düzenlemeleri için bu dava emsal oluşturur mu?
+Sence yapay zekanin bilimsel keşif yapması akademik arastirmayi nasil donusturecek?
 
 🎧 Bölümün tamamı (3-4 dk):
 Spotify ve Apple Podcasts'te "Future with Serdar" aratman yeterli.
