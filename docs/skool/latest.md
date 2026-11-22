@@ -1,15 +1,15 @@
-Yapay zeka artık sadece metin yazmıyor — 20 yılı aşkın süredir çözülemeyen fizik problemlerini tek başına çözüyor.
+Dünyanın iki süper gücü, yapay zekanın savaş kararlarında sınırını çizdi.
 
-🟦 **Gemini 4 Neon Geldi**
-Google, Gemini ailesine yeni bir orta segment model kattı: Neon, 1 milyon token bağlam penceresi ve çoklu girdi desteğiyle Carbon ile Hydrogen arasında konumlanıyor. Benchmark'larda Claude Opus 5.5 ve GPT-6.2'nin önünde yer alıyor; ancak bu sonuçlar Google'ın kendi model kartından. Kurumsal entegrasyon yapıyorsan maliyet-performans dengesi açısından dikkat etmeye deger bir secenek.
+🤝 **Trump ve Şi'den Askeri AI Mutabakatı**
+ABD Hazine Bakanı Bessent, Trump ve Şi Cinping'in askeri kararlarda insan denetimi zorunluluğu konusunda uzlaştığını açıkladı. Resmi bir antlaşma değil, henüz bir beyan — ama iki rakip güçten ortak bir ses çıkması sembolik değeri büyük. Senin için anlamı: AI güvenliğinde uluslararası kurallar şekillenirken, bu tartışmalar sivil düzenleme modellerini de doğrudan etkiliyor.
 
-🔭 **Claude Kara Delik Fizigini Cozdu**
-Anthropicin Claude modeli, kuantum gravitasyonuyla ilgili iki açık problemi çözdü. 2003'ten bu yana tamamlanamayan bir hesaplama dahil. Sonuclar bilgisayar tabanli kanit denetcisi Lean ile dogrulandi. Evrenimizi dogrudan aciklamasa da bu, yapay zekanin gercek bilimsel kesif yapabildiginin somut kaniti.
+🔌 **Microsoft'tan USB4 ile Dağıtık AI**
+Microsoft, birden fazla bilgisayarı USB4 kablosuyla birbirine bağlayarak büyük modelleri ortaklaşa çalıştırmayı mümkün kıldı. Pahalı donanım olmadan lokal AI — küçük yazılım ekipleri için gerçek bir alternatif kapısı açılıyor.
 
-🍎 **Apple'ın Gizli Ajan Projesi (iddia)**
-Bloomberg'e gore Apple, Mac'i senin adina kullanan bir yapay zeka ajani gelistiriyor. Gizlilik odakli tasarlanan proje en erken gelecek yil sonuna dogu gelebilir. Ilginc ayrinit: Apple ayni zamanda ucuncu taraf ajanlarin erisimini kisitliyor.
+🧠 **Inkling 2 Mini: Dizüstünde Çalışan Açık Model**
+Thinking Machines Lab'ın yeni modeli, benzer büyüklükteki açık modelleri kodlama testlerinde geride bıraktı; üstelik verilerinizi buluta göndermeden çalışıyor. Gizlilik önceliğinizse test etmeye değer.
 
-Sence yapay zekanin bilimsel keşif yapması akademik arastirmayi nasil donusturecek?
+Siz yerel modellere geçmeyi düşünür müsünüz, yoksa bulut tabanlı araçlardan vazgeçmek zor mu geliyor?
 
 🎧 Bölümün tamamı (3-4 dk):
 Spotify ve Apple Podcasts'te "Future with Serdar" aratman yeterli.

@@ -25,7 +25,18 @@ Bu programın kendisi de bir yapay zeka deneyi: senaryo, ses ve yayın tamamen o
       <itunes:name>Serdar Güven</itunes:name>
       <itunes:email>guvenser09@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Fri, 20 Nov 2026 07:35:17 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 07:34:09 +0300</lastBuildDate>
+    <item>
+      <title>Bölüm 93: Trump ve Şi'den Askeri AI Uzlaşısı | 22 Kasım 2026</title>
+      <description>Trump ve Şi Cinping, yapay zekanın askeri kararlarda insansız kullanılmaması konusunda anlaştı. Microsoft, birden fazla PC'yi tek bir AI modeliyle buluşturuyor. Ve dizüstünüzde çalışan açık kaynaklı yeni bir model: Inkling 2 Mini. 22 Kasım 2026'nın en önemli yapay zeka gelişmelerini bugün de Serdar ile değerlendiriyoruz.</description>
+      <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_093.mp3" length="2915576" type="audio/mpeg"/>
+      <guid isPermaLink="false">fws-ep-93</guid>
+      <pubDate>Sun, 22 Nov 2026 08:30:00 +0300</pubDate>
+      <itunes:author>Serdar Güven</itunes:author>
+      <itunes:duration>00:02:58</itunes:duration>
+      <itunes:episode>93</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Bölüm 92: Google Neon'dan Claude'un Kara Delik Çözümüne | 20 Kasım 2026</title>
       <description>Bugün Google, yapay zeka modellerinin en rekabetçi savaş alanına yeni bir oyuncu daha sürdü: Gemini 4 Neon. Üstelik Claude'un kara delik fiziğindeki açık problemleri çözdüğü haberi bilim dünyasını sarstı. Apple cephesinde ise henüz erken aşamada olan ama son derece çarpıcı bir gelişme var. Future with Serdar'da bugünün en kritik yapay zeka haberlerini ve senin için ne anlama geldiğini bulabilirsin.</description>
