@@ -1,15 +1,15 @@
-Dünyanın iki süper gücü, yapay zekanın savaş kararlarında sınırını çizdi.
+Kod yazan yapay zekayı biliyorduk — ama şimdi kodu onaylayan ve production'a gönderen yapay zeka da geldi.
 
-🤝 **Trump ve Şi'den Askeri AI Mutabakatı**
-ABD Hazine Bakanı Bessent, Trump ve Şi Cinping'in askeri kararlarda insan denetimi zorunluluğu konusunda uzlaştığını açıkladı. Resmi bir antlaşma değil, henüz bir beyan — ama iki rakip güçten ortak bir ses çıkması sembolik değeri büyük. Senin için anlamı: AI güvenliğinde uluslararası kurallar şekillenirken, bu tartışmalar sivil düzenleme modellerini de doğrudan etkiliyor.
+🚀 **Claude Ship: Kod hattının son halkası otomatikleşiyor**
+Anthopic'in yeni ajan sistemi Claude Ship, kodu inceliyor, hataları düzeltiyor ve ekibin belirlediği politikaya göre otomatik onaylayıp merge ediyor. Senin için anlamı: Solo geliştirici ya da küçük ekipsen, üretim sürecinin tamamını artık insansız işletebilirsin — ama Anthropic şimdilik gözlem modunda başlamanı öneriyor.
 
-🔌 **Microsoft'tan USB4 ile Dağıtık AI**
-Microsoft, birden fazla bilgisayarı USB4 kablosuyla birbirine bağlayarak büyük modelleri ortaklaşa çalıştırmayı mümkün kıldı. Pahalı donanım olmadan lokal AI — küçük yazılım ekipleri için gerçek bir alternatif kapısı açılıyor.
+⚖️ **OpenAI'dan sektöre güvenlik çağrısı**
+Baş bilim insanı Jakub Pachocki, modeller yeterince denetlenemiyorsa gelişim hızının yavaşlatılması gerektiğini savundu (iddia aşamasında, bağlayıcı bir karar yok). Sam Altman destekledi, Dario Amodei de benzer şeyi söylemişti. Senin için anlamı: Bu tartışma, gelecekteki yapay zeka düzenlemelerinin iskeletini oluşturabilir; Türkiye'deki politika yapıcılar yakından takip etmeli.
 
-🧠 **Inkling 2 Mini: Dizüstünde Çalışan Açık Model**
-Thinking Machines Lab'ın yeni modeli, benzer büyüklükteki açık modelleri kodlama testlerinde geride bıraktı; üstelik verilerinizi buluta göndermeden çalışıyor. Gizlilik önceliğinizse test etmeye değer.
+💰 **Amazon, Decart'ı 7.5 milyar dolara satın alıyor**
+Hedef: Kendi Trainium çiplerini Nvidia'ya gerçek bir alternatif haline getirmek. Senin için anlamı: Nvidia rekabeti kızışırsa altyapı maliyetleri düşer, bu yerli yapay zeka girişimleri için ciddi bir fırsat kapısı açabilir.
 
-Siz yerel modellere geçmeyi düşünür müsünüz, yoksa bulut tabanlı araçlardan vazgeçmek zor mu geliyor?
+Soru: Kodun production'a otomatik gitmesine güvenir misiniz, yoksa insan onayı şart mı?
 
 🎧 Bölümün tamamı (3-4 dk):
 Spotify ve Apple Podcasts'te "Future with Serdar" aratman yeterli.

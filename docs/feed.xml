@@ -25,7 +25,18 @@ Bu programın kendisi de bir yapay zeka deneyi: senaryo, ses ve yayın tamamen o
       <itunes:name>Serdar Güven</itunes:name>
       <itunes:email>guvenser09@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sun, 22 Nov 2026 07:34:09 +0300</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 07:35:10 +0300</lastBuildDate>
+    <item>
+      <title>Bölüm 94: Claude Ship, OpenAI'dan Sınır Çağrısı ve Amazon'un 7.5 Milyar Dolarlık Hamlesi | 24 Kasım 2026</title>
+      <description>Anthropic, yapay zeka ajanlarının kod inceleyip onaylayabileceği Claude Ship'i duyurdu. OpenAI'ın baş bilim insanı yapay zeka gelişimine ortak sınır koyulması çağrısında bulundu. Amazon ise Trainium hamlesiyle Nvidia'ya rakip olmak için 7.5 milyar dolarlık bir satın alma yaptı. Türk geliştiriciler ve girişimciler için ne anlama geliyor? İşte 24 Kasım'da yapay zeka dünyasında yaşananlar.</description>
+      <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_094.mp3" length="3966181" type="audio/mpeg"/>
+      <guid isPermaLink="false">fws-ep-94</guid>
+      <pubDate>Tue, 24 Nov 2026 08:30:00 +0300</pubDate>
+      <itunes:author>Serdar Güven</itunes:author>
+      <itunes:duration>00:04:04</itunes:duration>
+      <itunes:episode>94</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Bölüm 93: Trump ve Şi'den Askeri AI Uzlaşısı | 22 Kasım 2026</title>
       <description>Trump ve Şi Cinping, yapay zekanın askeri kararlarda insansız kullanılmaması konusunda anlaştı. Microsoft, birden fazla PC'yi tek bir AI modeliyle buluşturuyor. Ve dizüstünüzde çalışan açık kaynaklı yeni bir model: Inkling 2 Mini. 22 Kasım 2026'nın en önemli yapay zeka gelişmelerini bugün de Serdar ile değerlendiriyoruz.</description>

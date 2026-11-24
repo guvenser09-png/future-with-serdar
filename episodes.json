@@ -1,5 +1,14 @@
 [
   {
+    "episode_number": 94,
+    "date": "2026-11-24",
+    "title": "Bölüm 94: Claude Ship, OpenAI'dan Sınır Çağrısı ve Amazon'un 7.5 Milyar Dolarlık Hamlesi | 24 Kasım 2026",
+    "description": "Anthropic, yapay zeka ajanlarının kod inceleyip onaylayabileceği Claude Ship'i duyurdu. OpenAI'ın baş bilim insanı yapay zeka gelişimine ortak sınır koyulması çağrısında bulundu. Amazon ise Trainium hamlesiyle Nvidia'ya rakip olmak için 7.5 milyar dolarlık bir satın alma yaptı. Türk geliştiriciler ve girişimciler için ne anlama geliyor? İşte 24 Kasım'da yapay zeka dünyasında yaşananlar.",
+    "duration_sec": 244,
+    "mp3_url": "https://guvenser09-png.github.io/future-with-serdar/episodes/episode_094.mp3",
+    "mp3_bytes": 3966181
+  },
+  {
     "episode_number": 93,
     "date": "2026-11-22",
     "title": "Bölüm 93: Trump ve Şi'den Askeri AI Uzlaşısı | 22 Kasım 2026",
