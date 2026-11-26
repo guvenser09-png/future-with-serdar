@@ -1,15 +1,15 @@
-Kod yazan yapay zekayı biliyorduk — ama şimdi kodu onaylayan ve production'a gönderen yapay zeka da geldi.
+Uzay artık sadece keşif alanı değil, yapay zekanın yeni veri merkezi olabilir.
 
-🚀 **Claude Ship: Kod hattının son halkası otomatikleşiyor**
-Anthopic'in yeni ajan sistemi Claude Ship, kodu inceliyor, hataları düzeltiyor ve ekibin belirlediği politikaya göre otomatik onaylayıp merge ediyor. Senin için anlamı: Solo geliştirici ya da küçük ekipsen, üretim sürecinin tamamını artık insansız işletebilirsin — ama Anthropic şimdilik gözlem modunda başlamanı öneriyor.
+🛰️ **SpaceX'in 'Starmind' Projesi**
+FCC, SpaceX'e yapay zeka çipleriyle donatılmış 1 milyona kadar uydu fırlatma onayı verdi. Google zaten ilk yapay zeka sunucu uydusunu yörüngeye oturttu, Blue Origin 2029'da sahneye girecek. Senin için anlamı: Türkiye gibi yerli veri merkezi kapasitesi sınırlı ülkeler için bu hem büyük bir fırsat hem de ciddi bir egemenlik sorusu.
 
-⚖️ **OpenAI'dan sektöre güvenlik çağrısı**
-Baş bilim insanı Jakub Pachocki, modeller yeterince denetlenemiyorsa gelişim hızının yavaşlatılması gerektiğini savundu (iddia aşamasında, bağlayıcı bir karar yok). Sam Altman destekledi, Dario Amodei de benzer şeyi söylemişti. Senin için anlamı: Bu tartışma, gelecekteki yapay zeka düzenlemelerinin iskeletini oluşturabilir; Türkiye'deki politika yapıcılar yakından takip etmeli.
+💰 **Dell'in Rekor Çeyreği**
+Dell, yapay zeka sunucu satışlarında yüzde 291 artışla 54,9 milyar dolar gelir açıkladı; sipariş birikimi 132 milyar doları geçti. Senin için anlamı: Yapay zeka donanımı giderek daha kritik ve pahalı, bu yarışta erken davranan kazanıyor.
 
-💰 **Amazon, Decart'ı 7.5 milyar dolara satın alıyor**
-Hedef: Kendi Trainium çiplerini Nvidia'ya gerçek bir alternatif haline getirmek. Senin için anlamı: Nvidia rekabeti kızışırsa altyapı maliyetleri düşer, bu yerli yapay zeka girişimleri için ciddi bir fırsat kapısı açabilir.
+⚠️ **Character.AI Skandalı**
+İflas başvurusunun ardından şirket, 2,1 milyonu aşkın çocuğa ait sohbetler dahil 21 milyondan fazla kullanıcının özel verilerini açık artırmaya çıkarmak istiyor; 42 eyaletin başsavcısı bunu durdurmaya çalışıyor. Senin için anlamı: Kullandığınız yapay zeka servisinin gizlilik politikasını okumak artık zorunluluk.
 
-Soru: Kodun production'a otomatik gitmesine güvenir misiniz, yoksa insan onayı şart mı?
+Siz hangi yapay zeka platformunun verilerinizi en güvenli tuttuğunu düşünüyorsunuz?
 
 🎧 Bölümün tamamı (3-4 dk):
 Spotify ve Apple Podcasts'te "Future with Serdar" aratman yeterli.

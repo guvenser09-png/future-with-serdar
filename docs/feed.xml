@@ -25,7 +25,18 @@ Bu programın kendisi de bir yapay zeka deneyi: senaryo, ses ve yayın tamamen o
       <itunes:name>Serdar Güven</itunes:name>
       <itunes:email>guvenser09@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Tue, 24 Nov 2026 07:35:10 +0300</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 07:34:40 +0300</lastBuildDate>
+    <item>
+      <title>Bölüm 95: Uzayda Veri Merkezi, Dell'in Rekor Karı ve Character.AI Skandalı | 26 Kasım 2026</title>
+      <description>SpaceX'in 1 milyon yapay zeka uydusu projesine FCC onayı geldi. Dell Technologies, yapay zeka sunucu satışlarıyla gelirini neredeyse ikiye katladı. Character.AI ise iflas sürecinde kullanıcıların özel sohbet geçmişlerini satışa çıkarmak istiyor — ve 42 eyalet bunu durdurmaya çalışıyor. Bugünkü bölümde yapay zeka dünyasının en çarpıcı 24 saatini Serdar ile birlikte değerlendiriyoruz.</description>
+      <enclosure url="https://guvenser09-png.github.io/future-with-serdar/episodes/episode_095.mp3" length="3490521" type="audio/mpeg"/>
+      <guid isPermaLink="false">fws-ep-95</guid>
+      <pubDate>Thu, 26 Nov 2026 08:30:00 +0300</pubDate>
+      <itunes:author>Serdar Güven</itunes:author>
+      <itunes:duration>00:03:34</itunes:duration>
+      <itunes:episode>95</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Bölüm 94: Claude Ship, OpenAI'dan Sınır Çağrısı ve Amazon'un 7.5 Milyar Dolarlık Hamlesi | 24 Kasım 2026</title>
       <description>Anthropic, yapay zeka ajanlarının kod inceleyip onaylayabileceği Claude Ship'i duyurdu. OpenAI'ın baş bilim insanı yapay zeka gelişimine ortak sınır koyulması çağrısında bulundu. Amazon ise Trainium hamlesiyle Nvidia'ya rakip olmak için 7.5 milyar dolarlık bir satın alma yaptı. Türk geliştiriciler ve girişimciler için ne anlama geliyor? İşte 24 Kasım'da yapay zeka dünyasında yaşananlar.</description>
