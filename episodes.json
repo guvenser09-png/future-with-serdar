@@ -1,5 +1,14 @@
 [
   {
+    "episode_number": 96,
+    "date": "2026-11-28",
+    "title": "Bölüm 96: SAP'nin İşten Çıkarma Planı, Anthropic'in Tuzak Testi ve Nvidia'nın Sevkiyat Durdurması | 28 Kasım 2026",
+    "description": "Bugünkü bölümde yapay zekanın iş dünyasında bıraktığı izleri konuşuyoruz. SAP'nin 10 bin çalışanıyla yollarını ayırmayı değerlendirmesi, Anthropic'in Claude modellerini tuzağa düşüren Siren testi ve Nvidia'nın Güneydoğu Asya'ya sunucu sevkiyatlarını durdurması gündemin üç büyük başlığı. Teknolojiyi sadece aktarmıyoruz; sizin için ne anlama geldiğini de açıklıyoruz.",
+    "duration_sec": 190,
+    "mp3_url": "https://guvenser09-png.github.io/future-with-serdar/episodes/episode_096.mp3",
+    "mp3_bytes": 3108076
+  },
+  {
     "episode_number": 95,
     "date": "2026-11-26",
     "title": "Bölüm 95: Uzayda Veri Merkezi, Dell'in Rekor Karı ve Character.AI Skandalı | 26 Kasım 2026",

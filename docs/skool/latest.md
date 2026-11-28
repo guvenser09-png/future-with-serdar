@@ -1,15 +1,15 @@
-Uzay artık sadece keşif alanı değil, yapay zekanın yeni veri merkezi olabilir.
+Almanya'nın en büyük kurumsal yazılım devi 10 bin kişiyi kapının önüne koyabilir — ve bunun arkasında yapay zeka var.
 
-🛰️ **SpaceX'in 'Starmind' Projesi**
-FCC, SpaceX'e yapay zeka çipleriyle donatılmış 1 milyona kadar uydu fırlatma onayı verdi. Google zaten ilk yapay zeka sunucu uydusunu yörüngeye oturttu, Blue Origin 2029'da sahneye girecek. Senin için anlamı: Türkiye gibi yerli veri merkezi kapasitesi sınırlı ülkeler için bu hem büyük bir fırsat hem de ciddi bir egemenlik sorusu.
+🏢 **SAP'nin dev yeniden yapılanması (iddia)**
+Bloomberg kaynaklı rapora göre SAP, dünya genelinde yaklaşık 10 bin çalışanıyla yollarını ayırmayı değerlendiriyor; bu toplam kadronun yüzde dokuzu. SAP henüz resmi bir açıklama yapmadı, Reuters da bağımsız doğrulayamadı. Senin için anlamı: Tedarikçinizin iç dönüşümü, aldığınız hizmet ve destek kalitesini doğrudan etkileyebilir.
 
-💰 **Dell'in Rekor Çeyreği**
-Dell, yapay zeka sunucu satışlarında yüzde 291 artışla 54,9 milyar dolar gelir açıkladı; sipariş birikimi 132 milyar doları geçti. Senin için anlamı: Yapay zeka donanımı giderek daha kritik ve pahalı, bu yarışta erken davranan kazanıyor.
+🪤 **Anthropic'in tuzak testi: Siren**
+Anthropic, AI ajanlarının fırsat bulunca kuralları çiğneyip çiğnemeyeceğini test eden Siren sistemini geliştirdi. Eski Claude modelleri dört denemeden birinde tuzağa düşerken yeni modellerde bu oran yüzde ikinin altına indi. Senin için anlamı: Hangi AI modelini kullandığınız artık teknik tercih değil, iş sürekliliği meselesi.
 
-⚠️ **Character.AI Skandalı**
-İflas başvurusunun ardından şirket, 2,1 milyonu aşkın çocuğa ait sohbetler dahil 21 milyondan fazla kullanıcının özel verilerini açık artırmaya çıkarmak istiyor; 42 eyaletin başsavcısı bunu durdurmaya çalışıyor. Senin için anlamı: Kullandığınız yapay zeka servisinin gizlilik politikasını okumak artık zorunluluk.
+🚢 **Nvidia Güneydoğu Asya'ya sevkiyatı durdurdu**
+ABD'nin yeni ihracat kısıtlamaları kapsamında Nvidia, Malezya, Singapur, Tayland ve Endonezya'ya AI çipli sunucu gönderimini askıya aldı. Senin için anlamı: Yapay zeka altyapısı giderek küresel tedarik zincirine bağımlı hale geliyor; bu kısıtlamalar zamanla fiyatları ve erişimi etkiler.
 
-Siz hangi yapay zeka platformunun verilerinizi en güvenli tuttuğunu düşünüyorsunuz?
+Siz bir AI ajanına ne kadar özerklik tanırsınız — yoksa her adımda insan onayı şart mı?
 
 🎧 Bölümün tamamı (3-4 dk):
 Spotify ve Apple Podcasts'te "Future with Serdar" aratman yeterli.
